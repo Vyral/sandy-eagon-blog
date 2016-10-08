@@ -1,0 +1,56 @@
+audit_header: false
+title: Base Template
+description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.
+show_custom_links: false
+custom_links:
+  - title:
+    url:
+client:
+  name: Sandy Eagon
+  license_number:
+  about_markdown: >-
+
+  market:
+  brand: NWRE, LLC
+  brokerage:
+  address: 1027 State Avenue Unit 102<Br>Marysville, WA 98270
+  phone: 425-422-7372
+  email: sandy@sandyandcompany.com
+  url:
+  first_CTA_text: Home Evaluation
+  first_CTA_URL: /homevalue/
+  second_CTA_text: Home Search
+  second_CTA_URL: /homesearch/
+  VR_form: http://oi.vresp.com?fid=bca494bc85
+socials:
+  review_sm_icons: false
+  facebook_url: https://www.facebook.com/SandyandCompany
+  linkedin_url: https://www.linkedin.com/pub/sandy-and-company/8/113/511
+  gplus_url: https://plus.google.com/u/0/b/114330374352693742825/114330374352693742825/reviews?_ga=1.150122805.2051197563.1426192002
+  youtube_url: https://www.youtube.com/channel/UCvVvyzOKkp4tKjzp4SpOmiQ
+  twitter_url: https://twitter.com/SandyEagon3
+  instagram_url:
+  pinterest_url:
+  zillow_url: http://www.zillow.com/profile/SandyandCompany/Reviews/
+  trulia_url: http://www.trulia.com/profile/sandy-eagon-agent-marysville-wa-zgm3z2wc/overview
+  yelp_url: http://www.yelp.com/biz/sandy-and-company-marysville
+  podcast_url: https://itunes.apple.com/us/podcast/marysville-real-estate-podcast/id979342576?mt=2
+podcast:
+  title:
+  categories: News & Politics
+  image: /img/Eagon_podcast.jpg
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from --CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author:
+images:
+  client_headshot_path: '/img/headshot.jpg'
+  hero_logo_path: 'http://placehold.it/500x200'
+  hero_text: Real Estate Video Blog
+  hero_background_hex: '#b40101'
+  hero_image_path: '/img/banner.png'
+brand_color: '#b40101'
+theme_color: '#ffffff'
+theme_text_color: '#353535'
+main_body_color: '#ffffff'
+main_body_text_color: '#353535'
