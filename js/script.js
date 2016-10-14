@@ -115,4 +115,30 @@ $(document).ready(function() {
 	  })
 
 
+		 $('.testimonial-item').on('click', function(event){
+			 var $this = $(this)
+			 if($this.children('div.testimonial-item-truncated').hasClass('testimonial-hide')){
+				 $this.children('div.testimonial-item-truncated').removeAttr('style').removeClass('testimonial-hide');
+				//  $this.children('div.expand-block').addAttr('style').addClass('testimonial-hide');
+				 $this.children('div.testimonial-item-expanded').addClass('testimonial-hide');
+			 } else{
+				 $this.children('div.testimonial-item-truncated').addClass('testimonial-hide');
+				 $this.children('div.testimonial-item-expanded').removeAttr('style').removeClass('testimonial-hide');
+				  // $this.children('div.expand-block').addAttr('style').addClass('testimonial-hide');
+					console.log($this.children('div.testimonial-item-truncated').children('.testimonial').text().length);
+			 }
+	 });
+
+	//  $('.testimonial-item').ready(function() {
+	// 	 var $this = $(this)
+	// 	 console.log($this.children('div.testimonial-item-truncated').children('.testimonial').text().length);
+	// 	 if($this.children('div.testimonial-item-truncated').children('.testimonial').text().length < 300){
+	// 		 $this.children('div.testimonial-item-truncated').children('div.expand-block').addAttr('style').addClass('testimonial-hide');
+	// 	 }
+	// 	 else {
+	// 		 $this.children('.testimonial-item-truncated').children('div.expand-block').removeAttr('style').removeClass('testimonial-hide');
+	// 	 }
+	//  });
+	 console.log('hi');
+
 });
