@@ -1516,7 +1516,9 @@ body {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
   color: #353535;
   margin: 0;
-  background: #ffffff; }
+  background: #ffffff;
+  -webkit-animation: 1s ease-in-out fadein;
+          animation: 1s ease-in-out fadein; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
