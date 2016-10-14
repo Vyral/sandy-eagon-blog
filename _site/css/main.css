@@ -2174,7 +2174,8 @@ table tr, table td {
 .expand {
   color: #b40101;
   font-size: 20px;
-  text-align: center; }
+  text-align: center;
+  cursor: pointer; }
 
 .item {
   position: relative;
