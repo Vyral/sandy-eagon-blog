@@ -25,8 +25,11 @@ gems:
   - octopress-autoprefixer
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-admin
+  - jekyll-bootstrap-sass
 #  - jekyll-seo-tag
+
+bootstrap:
+  assets: true
 
 # Excludes
 exclude:

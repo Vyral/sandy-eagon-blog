@@ -10,8 +10,8 @@ gem 'octopress-autoprefixer'
 gem 'guard'
 gem 'guard-jekyll-plus'
 gem 'guard-livereload'
+gem 'jekyll-bootstrap-sass'
 
 group :jekyll_plugins do
   gem 'jekyll-picture-tag'
-	gem 'jekyll-admin'
 end

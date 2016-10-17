@@ -4,8 +4,10 @@
 	@include shadow
 	color: #353535
 
-.testimonial-hide
+
+.item-hide
 	display: none
+	// @include transition(opacity 1.0s ease-in 0s, width 2.0s ease-in 2s)
 
 .expand
 	color: $brand
@@ -16,24 +18,17 @@
 .item
 	// margin: 3rem 5rem
 	position: relative
-	padding: 3rem 3rem
+	padding: 3rem
 	height: 100%
+	min-height: 430px
 	background: #fff
 	border-radius: 8px
-	// &::before
-	// 	content: ""
-	// 	color: $brand
-	// 	font-size: 8rem
-	// 	position: absolute
-	// 	left: 2rem
-	// 	top: -1rem
-	// &::after
-	// 	content: "”"
-	// 	color: $brand
-	// 	font-size: 8rem
-	// 	position: absolute
-	// 	right: 2rem
-	// 	bottom: -5rem
+	display: flex
+	// flex-wrap: wrap
+	flex-direction: column
+	justify-content: space-around
+
+
 .timekeeper
 	float: left
 	padding-left: 10px
@@ -42,8 +37,10 @@
 
 .testimonial-audio
 	// top: -135px
+	align-self: flex-end
 	border: 0
-	position: relative
+	margin-bottom: -50px
+	// position: relative
 	// padding-bottom: 2rem
 	p
 		padding: 0px
@@ -66,6 +63,7 @@
 
 .testimonial-attribute
 	font-weight: bold
+	align-self: flex-start
 
 .testimonial-container
 	background: darken($theme, 5%)

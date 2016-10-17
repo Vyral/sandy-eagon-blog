@@ -10,17 +10,17 @@
 		      {% for item in site.data.testimonials.testimonial %}
 
 						<div class="item-container">
-							<div class="item testimonial-item">
-								<div class="testimonial-item-truncated">
+							<div class="item">
+								<div id="item-truncated">
 		            {{item.quote | prepend: '<p class="testimonial">' | append: '</p>' | truncate: 300 }}
-								{% if item.quote.size > 300 %}
-									<p class="expand">Show More <i class="fa fa-plus-square-o expand"></i></p>
+								{% if item.quote.size >= 296 %}
+									<p class="expand item-toggle">Show More <i class="fa fa-plus-square-o expand"></i></p>
 								{% endif %}
 								</div>
-								<div class="testimonial-hide testimonial-item-expanded">
+								<div id="item-expanded" class="item-hide">
 		            {{item.quote | prepend: '<p class="testimonial">' | append: '</p>' }}
-								{% if item.quote.size > 300 %}
-									<p class="expand">Show Less <i class="fa fa-minus-square-o expand"></i></p>
+								{% if item.quote.size >= 296 %}
+									<p class="expand item-toggle">Show Less <i class="fa fa-minus-square-o expand"></i></p>
 								{% endif %}
 								</div>
 		            {{item.name | prepend: '<p class="testimonial-attribute"> - ' | append: '</p>'}}

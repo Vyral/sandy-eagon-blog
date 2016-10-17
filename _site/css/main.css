@@ -1693,9 +1693,14 @@ table tr, table td {
   font-size: 5rem;
   text-align: left; }
 
+.post-link {
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out; }
+
 .post-image {
   width: 100%;
-  padding-bottom: 20px; }
+  margin-bottom: 20px;
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); }
 
 .excerpt {
   font-size: 18px;
@@ -2168,7 +2173,7 @@ table tr, table td {
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
   color: #353535; }
 
-.testimonial-hide {
+.item-hide {
   display: none; }
 
 .expand {
@@ -2179,10 +2184,20 @@ table tr, table td {
 
 .item {
   position: relative;
-  padding: 3rem 3rem;
+  padding: 3rem;
   height: 100%;
+  min-height: 430px;
   background: #fff;
-  border-radius: 8px; }
+  border-radius: 8px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around; }
 
 .timekeeper {
   float: left;
@@ -2191,8 +2206,10 @@ table tr, table td {
   bottom: 10px; }
 
 .testimonial-audio {
+  -ms-flex-item-align: end;
+      align-self: flex-end;
   border: 0;
-  position: relative; }
+  margin-bottom: -50px; }
   .testimonial-audio p {
     padding: 0px;
     position: relative;
@@ -2213,7 +2230,9 @@ table tr, table td {
   padding-bottom: 0; }
 
 .testimonial-attribute {
-  font-weight: bold; }
+  font-weight: bold;
+  -ms-flex-item-align: start;
+      align-self: flex-start; }
 
 .testimonial-container {
   background: #f2f2f2;

@@ -21,10 +21,14 @@
   font-size: 5rem
   text-align: left
 
+.post-link
+  @include transition(all .3s ease-in-out)
+
 .post-image
   width: 100%
-  padding-bottom: 20px
-
+  margin-bottom: 20px
+  @include shadow
+	
 .excerpt
   font-size: 18px
   padding-bottom: 20px
@@ -40,7 +44,7 @@
 .center-image
   margin: 0 auto
   display: block
-	
+
 .readlink>a
   background: $brand
   color: $light-text
