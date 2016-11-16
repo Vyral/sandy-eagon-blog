@@ -2132,7 +2132,12 @@ table tr, table td {
   padding: 10px;
   font-size: 18px; }
   .about-container p {
-    max-width: 350px; }
+    max-width: 350px;
+    margin-bottom: 0; }
+
+.brokerage_image {
+  width: 200px;
+  padding-bottom: 20px; }
 
 .footer {
   background: #fefefe;
