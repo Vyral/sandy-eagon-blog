@@ -18,7 +18,7 @@ youtube_code: tVsA8gQEHsI
 
 Today, I wanted to talk about sales—how I serve you, and how that service also serves me at the same time.
 <br>
-<br>Picture a salesperson. Sometimes, I hear from people about what that picture looks like to them. In the last month, I’ve had two people share their assumptions of what it means to make a living from sales. Their emphasis was on the “sales” portion of that paradigm. Let me tell you: at Sandy and Company,**we’re on the opposite side.**
+<br>Picture a salesperson. Sometimes, I hear from people about what that picture looks like to them. In the last month, I’ve had two people share their assumptions of what it means to make a living from sales. Their emphasis was on the “sales” portion of that paradigm. Let me tell you: at Sandy and Company, **we’re on the opposite side.**
 <br>
 <br>At Keller Williams Realty, just like in many other businesses, we have mottos. One of these is “Customers always comes first.” If I can’t get a customer what they’re looking for, I will tell them. Likewise, when I believe I can help, I jump right in and make it happen.
 <br>
