@@ -20,13 +20,13 @@ Our warm weather is winding down here, but one of the things I really enjoy abou
 <br>
 <br>Golf is different than my previous hobbies like quilting, gardening, or scrapbooking. Then I could produce something tangible to show for my efforts. In golf, when I have a great score, I still feel like I’ve accomplished something.
 <br>
-<br>How does this relate to real estate? Real estate has an end product as well. Most of the time, you have a closing at the end—someone bought a house and someone sold a house. Whether my clients get a paycheck, a new home, or something off their shoulders that they don’t have to think about anymore, it’s a great thing to look back on.
+<br>How does this relate to real estate? **Real estate has an end product as well.** Most of the time, you have a closing at the end—someone bought a house and someone sold a house. Whether my clients get a paycheck, a new home, or something off their shoulders that they don’t have to think about anymore, it’s a great thing to look back on.
 
 {% include pullquote.html %}
 
 Also, when I make a mistake while golfing, I can ask for feedback from my group and advice to improve my game. When real estate issues come up, my amazing team provides feedback and advice on the best way to serve our client. It’s very much a group effort, and we have something great to show for it at the end.
 <br>
-<br>As you may have seen from my Facebook post this summer, I'm using the budget model of golf. This doesn’t mean it costs less money: rather, I'm squeezing every last pennies’ worth of value because my score(strokes) are so high. I’m going to enjoy my game, appreciate the people around me, and learn from my mistakes.
+<br>As you may have seen from my Facebook post this summer, I'm using the budget model of golf. This doesn’t mean it costs less money: rather, I'm squeezing every last pennies’ worth of value because my score(strokes) are so high. **I’m going to enjoy my game, appreciate the people around me, and learn from my mistakes.**
 <br>
 <br>I was also fortunate enough to have been able to join golf and real estate in a literal sense when I sponsored a charity golf tournament this last summer for Leah’s Dream Foundation. Whenever I can put golf and real estate together, I get the chance to know people, serve them, and have a great time. So if I ever see you out on the golf course, be sure to come up and say hello!
 <br>
