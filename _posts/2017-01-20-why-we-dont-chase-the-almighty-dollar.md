@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: tVsA8gQEHsI
 ---
 
 
@@ -32,6 +32,6 @@ Why? Because my goal is to make sure that I serve your whole life situation. Thi
 <br>
 <br>**When I’m in sales, there is a transaction happening, but what I’m thinking about is how I can serve you today.** If that means we make a transaction together, great! If not, I’m satisfied as long as I know that I helped you. My clients know that about me, which make them comfortable to introduce me to their friends, family and colleagues.
 <br>
-<br>Just yesterday, some clients and I let go of a project we had been working on for six months. It was an arduous process, and we weren’t sure it was going to work, but we gave it a shot anyway. When the numbers didn’t add up in the end and my clients asked to kill the deal, I understood completely. My job is to serve you—not the almighty dollar.&nbsp;
+<br>Just yesterday, some clients and I let go of a project we had been working on for six months. It was an arduous process, and we weren’t sure it was going to work, but we gave it a shot anyway. When the numbers didn’t add up in the end and my clients asked to kill the deal, I understood completely. My job is to serve you—not the almighty dollar.
 
 <br>If you’re looking to buy or sell real estate, please give me a call or shoot me an email. If I’m not the right person for the job, I promise you I’ll find someone who is. I look forward to helping you!
