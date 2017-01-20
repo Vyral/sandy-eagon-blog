@@ -34,4 +34,4 @@ Why? Because my goal is to make sure that I serve your whole life situation. Thi
 <br>
 <br>Just yesterday, some clients and I let go of a project we had been working on for six months. It was an arduous process, and we weren’t sure it was going to work, but we gave it a shot anyway. When the numbers didn’t add up in the end and my clients asked to kill the deal, I understood completely. My job is to serve you—not the almighty dollar.
 
-<br>If you’re looking to buy or sell real estate, please give me a call or shoot me an email. If I’m not the right person for the job, I promise you I’ll find someone who is. I look forward to helping you!
+If you’re looking to buy or sell real estate, please give me a call or shoot me an email. If I’m not the right person for the job, I promise you I’ll find someone who is. I look forward to helping you!
