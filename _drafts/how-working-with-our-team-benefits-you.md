@@ -18,7 +18,7 @@ youtube_code: TKt0bZtHApk
 
 When you’re thinking of buying or selling a house, what you’re really thinking about is yourself. You aren’t thinking about your Realtor’s system and whether it’s set up to help you. Knowing whether that system involves working with a team or not, though, can prove critical.
 <br>
-<br>Some people might assume that more people means more problems, but that’s not usually true. Let me share an example.
+<br>**Some people might assume that more people means more problems, but that’s not usually true. Let me share an example.**
 <br>
 <br>Just this last month, we were working for one of our buyers who had a few hiccups in his transaction. When we initially wrote the offer, I knew his loan wasn’t going to be the easiest. Still, it was only a matter of following a step-by-step process. Which is why we asked for a six-week closing.
 <br>
@@ -32,4 +32,4 @@ Just before the underwriter fully checked off, however, she realized that my cli
 <br>
 <br>I felt very responsible for this quagmire until my office manager reminded me that we'd originally asked for this closing date. With this in mind, we went back to the listing agent and asked for the time back that we originally gave them. Doing that made our responsibility much easier to handle and freed us up to find a solution.
 <br>
-<br>So you see that when we have more people involved in a transaction, we work more efficiently to get the job done. Let me know what we can do to get my team working for you, whether that means buying a house today or six months down the road.
+<br>So you see that **when we have more people involved in a transaction, we work more efficiently to get the job done.** Let me know what we can do to get my team working for you, whether that means buying a house today or six months down the road.
