@@ -15,11 +15,6 @@ youtube_code: _r7xjoKyR4
 
 
 {% include youtube.html %}
-<div style="text-align: center;">
-<span style="font-size: normal;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&nbsp;</span></span><span style="font-size: normal;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><i><b><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Want to sell your home?<span class="Apple-converted-space">&nbsp;</span><a href="http://sandyandcompany.blogspot.com/p/home-value-report.html" style="color: #5a0000; text-decoration: none;">Get a FREE home value report</a></span></b></i>
-</span></span></div>
-<div style="-webkit-text-stroke-width: 0px; background-color: white; color: black; font-family: Arial,Tahoma,Helvetica,FreeSans,sans-serif; font-size: 15.4px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 21.56px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px;">
-<i><b><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&nbsp;Want to buy a home?<span class="Apple-converted-space">&nbsp;</span><a href="http://www.mlsfinder.com/wa_nwmls/sandychambers/" style="color: #5a0000; text-decoration: none;">Search all homes for sale</a></span></b></i></div>
 
 Just before Thanksgiving, we were introduced to a couple who weren't having much luck with their current agent. This agent was selling their house in Woodinville. She'd finally found them a buyer, but she was not returning phone calls and took days to follow up on requests. They knew that on their next purchase they needed an agent who was much more responsive. We talked with our couple that day, looked at five homes the next day, made two offers that night, and had one accepted by the weekend. **We accomplished this even though this purchase was contingent on the their existing home selling.&nbsp;**
 
