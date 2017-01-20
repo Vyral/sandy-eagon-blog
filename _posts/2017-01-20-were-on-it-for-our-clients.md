@@ -10,13 +10,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: _r7xjoKyR4
+youtube_code: r7xjoKyR4
 ---
 
 
 {% include youtube.html %}
 
-Just before Thanksgiving, we were introduced to a couple who weren't having much luck with their current agent. This agent was selling their house in Woodinville. She'd finally found them a buyer, but she was not returning phone calls and took days to follow up on requests. They knew that on their next purchase they needed an agent who was much more responsive. We talked with our couple that day, looked at five homes the next day, made two offers that night, and had one accepted by the weekend. **We accomplished this even though this purchase was contingent on the their existing home selling.&nbsp;**
+Just before Thanksgiving, we were introduced to a couple who weren't having much luck with their current agent. This agent was selling their house in Woodinville. She'd finally found them a buyer, but she was not returning phone calls and took days to follow up on requests. They knew that on their next purchase they needed an agent who was much more responsive. We talked with our couple that day, looked at five homes the next day, made two offers that night, and had one accepted by the weekend. **We accomplished this even though this purchase was contingent on the their existing home selling.**
 
 Next, it was time to schedule the inspection. It was really a clean house overall, and the inspector didn't find many issues. Then we went out to the back porch, and the light wasn’t turning on. I thought that maybe the bulb just needed to be replaced, but the bulb just turned in circles when I tried to unscrew it.
 
