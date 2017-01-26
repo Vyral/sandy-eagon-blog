@@ -4,7 +4,7 @@ title: Four Questions to Ask Yourself Before You Sell
 date: '2016-04-06T08:43:00.000-07:00'
 author: Vyral Admin
 tags:
-- Home Buyer Tips
+- Home Seller Tips
 modified_time: '2016-04-06T11:37:46.668-07:00'
 excerpt:
 enclosure:
