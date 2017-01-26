@@ -5,7 +5,6 @@ title: We Help You Limit the Stress that Typically Comes with Buying in a Tight 
 date: '2016-02-23T10:01:00.002-08:00'
 author: Vyral Admin
 tags:
-- Home Seller Tips
 - Home Buyer Tips
 modified_time: '2016-02-23T10:04:23.013-08:00'
 excerpt:
