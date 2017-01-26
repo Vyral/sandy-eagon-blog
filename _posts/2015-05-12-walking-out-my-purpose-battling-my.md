@@ -4,7 +4,7 @@ title: 'Walking Out My Purpose: Battling My Impatience'
 date: '2015-05-12T12:23:00.000-07:00'
 author: Vyral Admin
 tags:
-- Real Estate Tips and Tricks
+- More From Sandy & Company 
 modified_time: '2015-05-27T10:07:25.192-07:00'
 excerpt:
 enclosure:
