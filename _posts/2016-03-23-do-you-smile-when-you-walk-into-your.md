@@ -4,7 +4,7 @@ title: Do You Smile When You Walk into Your Puget Sound Home?
 date: '2016-03-23T10:57:00.001-07:00'
 author: Vyral Admin
 tags:
-- More From Sandy and Company 
+- More From Sandy & Company 
 excerpt:
 enclosure:
 pullquote: Your home is an extension of you.
