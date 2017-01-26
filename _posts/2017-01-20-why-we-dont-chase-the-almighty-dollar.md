@@ -2,7 +2,7 @@
 layout: post
 title: Why We Don’t Chase the Almighty Dollar
 tags:
-  - Real Estate
+  - More From Sandy & Company 
 excerpt: 'Here at Sandy and Company, if we’re going to serve you, we do it with your whole life situation in mind.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+What+makes+our+service+different%253F.mp4'
 pullquote: My job is to serve you—not the almighty dollar.
