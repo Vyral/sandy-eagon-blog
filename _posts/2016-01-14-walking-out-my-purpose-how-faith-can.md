@@ -4,7 +4,7 @@ title: 'Walking Out My Purpose: How Faith Can Get You Through Your Emotions'
 date: '2016-01-14T10:41:00.002-08:00'
 author: Vyral Admin
 tags:
-- More Sandy and Company Tips
+- More From Sandy & Company
 modified_time: '2016-01-21T14:03:41.297-08:00'
 excerpt:
 enclosure:
