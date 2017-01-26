@@ -4,7 +4,7 @@ title: What Is Most Important to You in a Real Estate Transaction?
 date: '2016-03-23T13:04:00.001-07:00'
 author: Vyral Admin
 tags:
-- Real Estate Other
+- More Sandy and Company Tips 
 excerpt:
 enclosure:
 pullquote: Think about the big picture.
