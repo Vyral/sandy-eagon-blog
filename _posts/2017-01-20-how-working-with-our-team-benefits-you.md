@@ -2,7 +2,7 @@
 layout: post
 title: How Working with Our Team Benefits You
 tags:
-  - Real Estate
+  - More From Sandy & Company 
 excerpt: Working with a team means knowing that everyone is on the same page to find the best solution as quickly as possible.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Why+work+with+our+real+estate+team%253F.mp4'
 pullquote: 'On a team, everyone has to work together to find a solution.'
