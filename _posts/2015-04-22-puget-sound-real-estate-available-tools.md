@@ -4,7 +4,7 @@ title: Are You Looking for Free Tools and Resources?
 date: '2015-04-22T13:23:00.001-07:00'
 author: Vyral Admin
 tags:
-- Other
+- More From Sandy and Company 
 modified_time: '2015-05-05T14:16:58.081-07:00'
 excerpt:
 enclosure:
