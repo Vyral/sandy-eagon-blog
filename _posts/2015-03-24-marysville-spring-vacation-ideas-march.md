@@ -4,7 +4,7 @@ title: Spring Activities in Puget Sound That Everyone Can Enjoy
 date: '2015-03-24T11:41:00.000-07:00'
 author: Vyral Admin
 tags:
-- Other
+- More From Sandy and Company
 modified_time: '2015-04-06T11:18:46.570-07:00'
 excerpt:
 enclosure:
