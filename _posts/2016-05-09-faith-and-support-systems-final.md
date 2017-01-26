@@ -4,7 +4,7 @@ title: Faith and Support Systems, Final Thoughts with Sylvia Anderson
 date: '2016-05-09T10:58:00.000-07:00'
 author: Vyral Admin
 tags:
-- Other
+- More From Sandy & Company 
 modified_time: '2016-05-10T10:46:30.223-07:00'
 excerpt:
 enclosure:
