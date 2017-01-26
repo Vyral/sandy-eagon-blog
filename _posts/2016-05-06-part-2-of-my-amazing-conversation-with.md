@@ -4,7 +4,7 @@ title: Part 2 of My Amazing Conversation with Sylvia Anderson
 date: '2016-05-06T13:13:00.000-07:00'
 author: Vyral Admin
 tags:
-- Other
+- More From Sandy & Company 
 modified_time: '2016-05-10T10:46:49.278-07:00'
 excerpt:
 enclosure:
