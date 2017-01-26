@@ -4,7 +4,7 @@ title: The Benefits of Selling During the Winter in Puget Sound
 date: '2015-12-11T10:27:00.000-08:00'
 author: Vyral Admin
 tags:
-- Winter Selling
+- Season Sellings
 excerpt:
 enclosure:
 pullquote: Many people mistakenly believe that the winter is a bad time to sell.
