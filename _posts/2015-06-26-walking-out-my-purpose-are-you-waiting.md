@@ -4,7 +4,7 @@ title: 'Walking Out My Purpose: Are You Waiting for Your Prayers to Be Answered?
 date: '2015-06-26T08:12:00.001-07:00'
 author: Vyral Admin
 tags:
-- Real Estate Tips and Tricks
+- More From Sandy and Company 
 modified_time: '2015-07-22T10:36:37.474-07:00'
 excerpt:
 enclosure:
