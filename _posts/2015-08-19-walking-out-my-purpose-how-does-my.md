@@ -4,7 +4,7 @@ title: 'Walking Out My Purpose: How Does My Faith Affect My Business?'
 date: '2015-08-19T09:19:00.002-07:00'
 author: Vyral Admin
 tags:
-- More Sandy and Company Tips
+- More From Sandy & Company
 modified_time: '2015-08-19T09:20:55.819-07:00'
 excerpt:
 enclosure:
