@@ -4,7 +4,7 @@ title: What's Happening with Real Estate in Puget Sound?
 date: '2015-06-18T12:30:00.001-07:00'
 author: Vyral Admin
 tags:
-- Market Update
+- Market Updates
 modified_time: '2015-06-18T12:31:23.633-07:00'
 excerpt:
 enclosure:
