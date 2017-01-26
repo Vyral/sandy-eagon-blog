@@ -4,7 +4,7 @@ title: Be a Savvy Investor by Using a Tax Deferred Exchange
 date: '2016-08-30T14:20:00.001-07:00'
 author: Vyral Admin
 tags:
-- Real Estate Tips and Tricks
+- More Sandy & Company Tips 
 modified_time: '2016-09-09T12:51:10.042-07:00'
 excerpt:
 enclosure:
