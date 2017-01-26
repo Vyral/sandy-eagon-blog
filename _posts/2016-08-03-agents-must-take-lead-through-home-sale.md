@@ -4,7 +4,7 @@ title: Agents Must Take the Lead through the Home Sale Process
 date: '2016-08-03T10:51:00.000-07:00'
 author: Vyral Admin
 tags:
-- Home Buyer Tips
+- Home Seller Tips
 modified_time: '2016-08-03T12:47:22.229-07:00'
 excerpt:
 enclosure:
