@@ -4,7 +4,7 @@ title: Donate to Your Local Food Bank This Fall
 date: '2016-10-12T10:59:00.000-07:00'
 author: Vyral Admin
 tags:
-- Other
+- More From Sandy & Company 
 modified_time: '2016-10-13T12:46:46.755-07:00'
 excerpt: When everything is going groovy for you, it’s easy to think of fall as a time of harvest and ample supply. However, there are many out there who are hungry. We need to be a resource to them too.
 enclosure:
