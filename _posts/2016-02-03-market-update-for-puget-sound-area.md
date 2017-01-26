@@ -4,7 +4,7 @@ title: Market Update for the Puget Sound Area
 date: '2016-02-03T06:53:00.001-08:00'
 author: Vyral Admin
 tags:
-- Market Update
+- Market Updates
 modified_time: '2016-02-12T14:34:01.374-08:00'
 excerpt: We’ve been working throughout the surrounding Puget Sound area and the market is the same in every county! There are hardly any houses for sale. 
 enclosure:
