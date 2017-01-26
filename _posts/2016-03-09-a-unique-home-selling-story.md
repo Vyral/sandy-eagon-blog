@@ -4,7 +4,7 @@ title: A Unique Home Selling Story
 date: '2016-03-09T11:34:00.000-08:00'
 author: Vyral Admin
 tags:
-- More From Sandy and Company 
+- More From Sandy & Company 
 excerpt:
 enclosure:
 pullquote: We got two full price offers and then a third offer willing to pay $5,000 above what anyone else put down.
