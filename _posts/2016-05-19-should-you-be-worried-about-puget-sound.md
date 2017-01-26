@@ -4,7 +4,7 @@ title: Should You Be Worried About Puget Sound Real Estate?
 date: '2016-05-19T10:39:00.001-07:00'
 author: Vyral Admin
 tags:
-- Market Update
+- Market Updates
 modified_time: '2016-05-23T10:31:39.825-07:00'
 excerpt:
 enclosure:
