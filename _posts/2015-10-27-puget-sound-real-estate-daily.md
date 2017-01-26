@@ -4,7 +4,7 @@ title: 'Walking Out My Purpose: Persevering for God'
 date: '2015-10-27T09:03:00.000-07:00'
 author: Vyral Admin
 tags:
-- Other
+- More Sandy and Company Tips 
 modified_time: '2015-11-03T11:49:41.270-08:00'
 excerpt:
 enclosure:
