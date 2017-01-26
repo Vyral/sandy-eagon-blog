@@ -2,7 +2,7 @@
 layout: post
 title: "We're On It For Our Clients"
 tags:
-  - Real Estate
+  - More From Sandy & Company 
 excerpt: We have a great story to share today. It’s about how we were able to help some clients out of a stalemate during the inspection period.
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+We%2527re+on+it+for+our+clients.mp4'
 pullquote: We take active responsibility and make things happen.
