@@ -4,7 +4,7 @@ title: Sandy's Tool Shed Has Two New Items
 date: '2015-08-10T12:56:00.002-07:00'
 author: Vyral Admin
 tags:
-- Other
+- More Sandy and Company Tips 
 modified_time: '2015-09-01T06:29:34.308-07:00'
 excerpt:
 enclosure:
