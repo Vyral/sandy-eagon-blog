@@ -4,7 +4,7 @@ title: Is Now the Time to Get Top Dollar for Your Home?
 date: '2015-09-03T12:47:00.002-07:00'
 author: Vyral Admin
 tags:
-- Market Update
+- Market Updates
 modified_time: '2015-09-18T13:19:49.533-07:00'
 excerpt:
 enclosure:
