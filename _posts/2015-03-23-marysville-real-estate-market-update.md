@@ -4,7 +4,7 @@ title: How Can You Take Advantage of Puget Sound Real Estate?
 date: '2015-03-23T12:24:00.002-07:00'
 author: Vyral Admin
 tags:
-- Market Update
+- Market Updates
 modified_time: '2015-04-03T09:27:28.248-07:00'
 excerpt:
 enclosure:
