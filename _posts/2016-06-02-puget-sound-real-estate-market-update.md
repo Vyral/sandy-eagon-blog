@@ -4,7 +4,7 @@ title: Puget Sound Real Estate Market Update
 date: '2016-06-02T09:22:00.000-07:00'
 author: Vyral Admin
 tags:
-- Market Update
+- Market Updates
 modified_time: '2016-06-21T14:47:00.688-07:00'
 excerpt:
 enclosure:
