@@ -4,7 +4,7 @@ title: How the Everett Gospel Mission Helps Puget Sound’s Homeless
 date: '2016-05-05T13:57:00.000-07:00'
 author: Vyral Admin
 tags:
-- Other
+- More From Sandy and Company 
 modified_time: '2016-05-10T10:47:24.325-07:00'
 excerpt:
 enclosure:
