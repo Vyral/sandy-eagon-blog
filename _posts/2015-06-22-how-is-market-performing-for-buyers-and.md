@@ -4,7 +4,7 @@ title: How Is the Market Performing for Buyers and Sellers?
 date: '2015-06-22T07:12:00.001-07:00'
 author: Vyral Admin
 tags:
-- Market Update
+- Market Updates
 modified_time: '2015-06-24T11:20:24.009-07:00'
 excerpt:
 enclosure:
