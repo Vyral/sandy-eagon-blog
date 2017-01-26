@@ -4,7 +4,7 @@ title: Puget Sound Shifting Market
 date: '2015-10-19T11:45:00.001-07:00'
 author: Vyral Admin
 tags:
-- Market Update
+- Market Updates
 modified_time: '2015-10-27T08:53:27.581-07:00'
 excerpt:
 enclosure:
