@@ -2,7 +2,7 @@
 layout: post
 title: What Do Golf and Real Estate Have in Common?
 tags:
-  - Real Estate
+  - More From Sandy & Company
 excerpt: 'Though golf is a new hobby of mine, it shares many characteristics with the real estate world. Each practice has taught me something about the other.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+How+golf+is+like+real+estate.mp4'
 pullquote: 'In both golf and real estate, I can depend on feedback in order to get better.'
