@@ -2,7 +2,7 @@
 layout: post
 title: How Do We Go the Extra Mile(s) for Our Clients?
 tags:
-  - Real Estate
+  - More From Sandy & Company 
 excerpt: 'The art of winning a negotiation for our team is based on our ability to find a solution to any problem. To show you what I mean, I have a quick story to tell you.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+How+we+go+the+extra+mile%2528s%2529+for+our+clients.mp4'
 pullquote: 'On our team, we work to find solutions.'
