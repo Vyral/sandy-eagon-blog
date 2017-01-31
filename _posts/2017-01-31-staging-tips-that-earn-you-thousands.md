@@ -4,7 +4,7 @@ title: Staging Tips that Earn You Thousands
 tags:
   - Home Seller Tips
 excerpt: 'You probably already know that when you sell a home, it’s not the same as when you live in a home. With that in mind, I have four tips for you to stage your home and sell for top dollar in today’s market.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Staging+tips+that+earn+you+thousands.mp4'
 pullquote: Use these four tips to get your home sold today for top dollar.
 enclosure_type: video/mp4
 enclosure_time:
