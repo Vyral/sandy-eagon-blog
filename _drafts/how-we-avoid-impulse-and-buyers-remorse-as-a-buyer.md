@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: YcjC_vyrueM
 ---
 
 
@@ -24,7 +24,7 @@ How do we do that? It comes with being purposeful.
 
 {% include pullquote.html %}
 
-It's a word that gets used a lot, but for us, it means helping our buyers know what's most important ahead of time so that down the road, they know they made a wise decision when they bought a home. When we sit down with buyers for the first time, we talk about what's important to you and we go through categories to make sure you've thought of everything. We talk about things like the number of bedrooms and bathrooms that you want. We also ask what you need from your home. &nbsp;If you say you need two bathrooms, for example, does that mean you need a bathtub in that second bathroom or is a shower or just a powder room OK? These are the questions that help us understand why you want to buy the amount of real estate you want.
+It's a word that gets used a lot, but for us, it means helping our buyers know what's most important ahead of time so that down the road, they know they made a wise decision when they bought a home. When we sit down with buyers for the first time, we talk about what's important to you and we go through categories to make sure you've thought of everything. We talk about things like the number of bedrooms and bathrooms that you want. We also ask what you need from your home.  If you say you need two bathrooms, for example, does that mean you need a bathtub in that second bathroom or is a shower or just a powder room OK? These are the questions that help us understand why you want to buy the amount of real estate you want.
 
 When my buyers tell me about houses they didn't get from me but they saw somewhere else, I want to take a look at why they saw it and I didn't. Is there something I wasn't considering that I should have been, or was there something I thought was important that's not? One of the biggest factors is location—a buyer might want a certain community, school district, or commute, but then send me a home that's two school districts away. **Then, we get to have that conversation about what's really most important.**
 
