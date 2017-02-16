@@ -15,19 +15,28 @@ youtube_code: YcjC_vyrueM
 
 
 {% include youtube.html %}
+{: .present-before-paste}
 
 In the really hot and impulsive Puget Sound market, we focus on being purposeful with our buyers.
+{: .present-before-paste}
 
 Have you ever made an impulsive decision and later realized you forgot to consider a number of important things? This is a notion a lot of buyers in our market are afraid of when a house is listed for sale and multiple offers seem to appear within minutes. **This is what we help our buyers avoid because the last thing I want is for you to have buyer's remorse when you make such a big purchase.**
+{: .present-before-paste}
 
 How do we do that? It comes with being purposeful.
+{: .present-before-paste}
 
 {% include pullquote.html %}
+{: .present-before-paste}
 
 It's a word that gets used a lot, but for us, it means helping our buyers know what's most important ahead of time so that down the road, they know they made a wise decision when they bought a home. When we sit down with you for the first time, we talk about what's important to you and we go through categories to make sure you've thought of everything. We talk about things like the number of bedrooms and bathrooms that you want. We also ask what you need from your home. &nbsp;If you say you need two bathrooms, for example, does that mean you need a bathtub in that second bathroom or is a shower or just a powder room OK? These are the questions that help us understand why you want to buy the amount of real estate you want.
+{: .present-before-paste}
 
 When my buyers tell me about houses they didn't get from me but they saw somewhere else, I want to take a look at why they saw it and I didn't. Is there something I wasn't considering that I should have been, or was there something I thought was important that's not? One of the biggest factors is location—a buyer might want a certain community, school district, or commute, but then send me a home that's two school districts away. **Then, we get to have that conversation about what's really most important.**
+{: .present-before-paste}
 
 When we can back away from the house and talk about what's most important to you, then we can be purposeful and help you make the right choice. This isn't the market for buyers to jump up and grab whatever comes along. It's a market to be careful, wise, and patient in so that when the right home comes along, they can jump quickly and aggressively to win the home they want.
+{: .present-before-paste}
 
 If there's anything we can do for you in this hot market, give me a call or send me an email today. I'd be happy to see if there's anything I can do to help.
+{: .present-before-paste}
