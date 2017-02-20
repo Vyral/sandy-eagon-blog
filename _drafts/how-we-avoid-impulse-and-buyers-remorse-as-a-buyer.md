@@ -3,7 +3,7 @@ layout: post
 title: "How We Avoid Impulse and Buyer's Remorse"
 tags:
   - Buyer Tips
-excerpt: Have you ever made an impulsive decision and later realized you forgot to consider a number of important things? This is a notion a lot of buyers in our market are afraid of when a house is listed for sale and multiple offers seem to appear within minutes.
+excerpt: "Have you ever made an impulsive decision and later realized you forgot to consider a number of important things? Many buyers just like you are afraid of this when a house is listed for sale and multiple offers seem to appear within minutes. This is what we help our buyers avoid. The last thing I want is for you to have buyer's remorse when you make such a big purchase."
 enclosure:
 pullquote: Finding the right home in this impulsive market comes down to being purposeful.
 enclosure_type: video/mp4
