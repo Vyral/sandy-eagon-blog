@@ -2,35 +2,294 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Marysville Real Estate Podcast Sandy Eagon</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from --CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.</description>
+    <link>http://sandyandcompanyvideos.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://sandyandcompanyvideos.com"/>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Sandy &amp; Company Real Estate - your professional  Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2016-11-16 10:29:46 -0600</lastBuildDate>
-    <media:copyright></media:copyright>
-    <media:thumbnail url="localhost:4000/img/Eagon_podcast.jpg"/>
+    <managingEditor>Sandy Eagon</managingEditor>
+    <lastBuildDate>2017-03-09 13:23:18 -0600</lastBuildDate>
+    <media:copyright>Sandy Eagon</media:copyright>
+    <media:thumbnail url="http://sandyandcompanyvideos.com/img/Eagon_Podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
-      <itunes:email>sandy@sandyandcompany.com</itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:email>Sandy@SandyAndCompany.com</itunes:email>
+      <itunes:name>Sandy Eagon</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Sandy Eagon</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/Eagon_podcast.jpg"/>
+    <itunes:image href="http://sandyandcompanyvideos.com/img/Eagon_Podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from --CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.</itunes:summary>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Sandy &amp; Company Real Estate - your professional  Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
+        <title>How We Avoid Impulse and Buyer's Remorse</title>
+        <link>http://sandyandcompanyvideos.com/how-we-avoid-impulse-and-buyers-remorse.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Sandy Eagon</author>
+        <pubDate>2017-02-21 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Being+purposeful+is+key+in+our+market.mp4</guid>
+        <description>
+
+Have you ever made an impulsive decision and later realized you forgot to consider a number of important things? Many buyers just like you are afraid of this when a house is listed for sale and multiple offers seem to appear within minutes. This is what we help our buyers avoid. The last thing I want is for you to have buyer’s remorse when you make such a big purchase.
+
+“Finding the right home in this impulsive market comes down to being purposeful.”
+
+Purposeful is a word that gets used a lot. For us, it means helping our buyers know what’s most important ahead of time. Then they know they made a wise decision when they bought a home. When we sit down with you for the first time, we talk about what’s important to you and why. We go through categories to make sure you’ve thought of everything. We talk about things like the number of bedrooms and bathrooms that you want. Then if you say you need two bathrooms, for example, does that mean you need a bathtub in that second bathroom or is a shower or just a powder room okay? These questions help us understand the reasons behind the amount of real estate you want.
+
+When my buyers tell me about houses they see somewhere else, I take a look at why they saw it and I didn’t. Is there something I wasn’t considering? Or was there something I thought was important that’s not? One of the biggest factors is location—a buyer might want a certain community, school district, or commute, but then send me a home that’s two school districts away. That’s when we have that conversation about what’s really most important.
+
+When we can back away from the house and talk about what’s most important to you, then we can be purposeful and help you make the right choice. This isn’t the market for buyers to jump up and grab whatever comes along. It’s a market to be careful, wise, and patient. And when the right home comes along, jump quickly and aggressively to win the home they want.
+
+If there’s anything we can do for you in this hot market, give me a call or send me an email today. I’d be happy to let you know how we can help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Being+purposeful+is+key+in+our+market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Being+purposeful+is+key+in+our+market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Have you ever made an impulsive decision and later realized you forgot to consider a number of important things? Many buyers just like you are afraid of this when a house is listed for sale and multiple offers seem to appear within minutes. This is what we help our buyers avoid. The last thing I want is for you to have buyer's remorse when you make such a big purchase.</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
+        <itunes:summary>Have you ever made an impulsive decision and later realized you forgot to consider a number of important things? Many buyers just like you are afraid of this when a house is listed for sale and multiple offers seem to appear within minutes. This is what we help our buyers avoid. The last thing I want is for you to have buyer's remorse when you make such a big purchase.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Staging Tips that Earn You Thousands</title>
+        <link>http://sandyandcompanyvideos.com/staging-tips-that-earn-you-thousands.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Sandy Eagon</author>
+        <pubDate>2017-01-31 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Staging+tips+that+earn+you+thousands.mp4</guid>
+        <description>
+
+You probably already know that when you sell a home, it’s not the same as when you live in a home. With that in mind, I have four tips for you to stage your home and sell for top dollar in today’s market.
+
+My first tip is to make a good first impression because the first impression is the lasting impression. Buyers take about three to five seconds to make that first impression when they pull up to the house, so clean up the exterior, add some color to the porch, and make sure your trim is freshly painted. When buyers walk into your home, you have another three to five seconds to cement that first impression.
+
+This leads me to my next tip—always be show ready. In the mornings and evenings, take a look at each room and make sure everything is how you want a buyer to see the house as they walk through it. One great tip I got from Flylady.net is to go through your house every night and pick up the misplaced things you see in each room. Then, when you get the call that someone is coming for a showing, have a list of “hot spots” to take a look at where you know things tend to accumulate quickly.
+
+“Use these four tips to get your home sold today for top dollar.”
+
+My third tip is to take the “home” out of your house. For example, you need to take personalized items like your family photos down. These photos cause buyers to see your family in the home instead of theirs. And the infamous photo wall hallways– they make buyers uncomfortable from the lack of perceived space when walking down that hallway.
+
+Next, put away about one-third of your stuff. If you have extra bookcases, tables, or trunks that are making any walkways smaller or more inconvenient, remove them. I‘m not a fan of long-term storage units, but they can come in handy when storing these items in the short term. Also, make sure all your closets are half-empty. You want people to look inside of them and see that there’s plenty of room for clothes.
+
+My last and most important tip is to hire an informed, professional agent and price it right. Pricing is critical when it comes to getting your home sold for top dollar in today’s market. I can’t tell you how many times- even this last year- I’ve seen people list their home for more than it’s worth and end up taking even less than they should have in the end. Hire an agent who’s doing business right now and understands what’s happening in your neighborhood.
+
+If you have any questions about staging or are thinking about selling your home, please give me a call. I am happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Staging+tips+that+earn+you+thousands.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Staging+tips+that+earn+you+thousands.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>You probably already know that when you sell a home, it’s not the same as when you live in a home. With that in mind, I have four tips for you to stage your home and sell for top dollar in today’s market.</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
+        <itunes:summary>You probably already know that when you sell a home, it’s not the same as when you live in a home. With that in mind, I have four tips for you to stage your home and sell for top dollar in today’s market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why We Don’t Chase the Almighty Dollar</title>
+        <link>http://sandyandcompanyvideos.com/why-we-dont-chase-the-almighty-dollar.html</link>
+        
+          <category>More From Sandy & Company</category>
+        
+        <author>Sandy Eagon</author>
+        <pubDate>2017-01-20 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+What+makes+our+service+different%253F.mp4</guid>
+        <description>
+
+Today, I wanted to talk about sales—how I serve you, and how that service also serves me at the same time.
+
+Picture a salesperson. Sometimes, I hear from people about what that picture looks like to them. In the last month, I’ve had two people share their assumptions of what it means to make a living from sales. Their emphasis was on the “sales” portion of that paradigm. Let me tell you: at Sandy and Company, we’re on the opposite side.
+
+At Keller Williams Realty, just like in many other businesses, we have mottos. One of these is “Customers always comes first.” If I can’t get a customer what they’re looking for, I will tell them. Likewise, when I believe I can help, I jump right in and make it happen.
+
+Going back to the two who shared with me. One of them said he knew I was tempted to withhold information about what might be wrong with the house in the name of getting the sale done. I told him that wasn’t true at all. Don’t get me wrong, I have temptations, but that’s never one of them.
+
+In the other conversation, she assumed my goal is to push my clients to the very top of their purchase point. In theory, that would serve me best. Once again, I had to correct her. That’s never my goal. as long as we can meet their home needs for less. On the contrary, I love it when my clients purchase well below their price points.
+
+“My job is to serve you—not the almighty dollar.”
+
+Why? Because my goal is to make sure that I serve your whole life situation. This means what’s most important is meeting your needs in the long run. If a client of mine purchases for less than they can afford, that means they could save extra money for other needs in their life. And when I serve you well, you are going to be so excited that someone is taking great care of you and giving you all of their expertise and knowledge. You’re going to tell others about me, and that meets my needs in the long run.
+
+When I’m in sales, there is a transaction happening, but what I’m thinking about is how I can serve you today. If that means we make a transaction together, great! If not, I’m satisfied as long as I know that I helped you. My clients know that about me, which make them comfortable to introduce me to their friends, family and colleagues.
+
+Just yesterday, some clients and I let go of a project we had been working on for six months. It was an arduous process, and we weren’t sure it was going to work, but we gave it a shot anyway. When the numbers didn’t add up in the end and my clients asked to kill the deal, I understood completely. My job is to serve you—not the almighty dollar.
+
+If you’re looking to buy or sell real estate, please give me a call or shoot me an email. If I’m not the right person for the job, I promise you I’ll find someone who is. I look forward to helping you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+What+makes+our+service+different%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+What+makes+our+service+different%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here at Sandy and Company, if we’re going to serve you, we do it with your whole life situation in mind.</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
+        <itunes:summary>Here at Sandy and Company, if we’re going to serve you, we do it with your whole life situation in mind.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Do Golf and Real Estate Have in Common?</title>
+        <link>http://sandyandcompanyvideos.com/what-do-golf-and-real-estate-have-in-common.html</link>
+        
+          <category>More From Sandy & Company</category>
+        
+        <author>Sandy Eagon</author>
+        <pubDate>2017-01-20 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+How+golf+is+like+real+estate.mp4</guid>
+        <description>
+
+Our warm weather is winding down here, but one of the things I really enjoy about both summer and autumn is that both seasons give us a chance to get outside and play golf. It’s a relatively new hobby of mine, and I’ve had a great time lately strengthening my game and thinking about how golf is like real estate.
+
+Golf is different than my previous hobbies like quilting, gardening, or scrapbooking. Then I could produce something tangible to show for my efforts. In golf, when I have a great score, I still feel like I’ve accomplished something.
+
+How does this relate to real estate? Real estate has an end product as well. Most of the time, you have a closing at the end—someone bought a house and someone sold a house. Whether my clients get a paycheck, a new home, or something off their shoulders that they don’t have to think about anymore, it’s a great thing to look back on.
+
+“In both golf and real estate, I can depend on feedback in order to get better.”
+
+Also, when I make a mistake while golfing, I can ask for feedback from my group and advice to improve my game. When real estate issues come up, my amazing team provides feedback and advice on the best way to serve our client. It’s very much a group effort, and we have something great to show for it at the end.
+
+As you may have seen from my Facebook post this summer, I’m using the budget model of golf. This doesn’t mean it costs less money: rather, I’m squeezing every last pennies’ worth of value because my score(strokes) are so high. I’m going to enjoy my game, appreciate the people around me, and learn from my mistakes.
+
+I was also fortunate enough to have been able to join golf and real estate in a literal sense when I sponsored a charity golf tournament this last summer for Leah’s Dream Foundation. Whenever I can put golf and real estate together, I get the chance to know people, serve them, and have a great time. So if I ever see you out on the golf course, be sure to come up and say hello!
+
+In the meantime, if you’re looking to sell or buy real estate, don’t hesitate to give me a call or shoot me an email. I look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+How+golf+is+like+real+estate.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+How+golf+is+like+real+estate.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Though golf is a new hobby of mine, it shares many characteristics with the real estate world. Each practice has taught me something about the other.</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
+        <itunes:summary>Though golf is a new hobby of mine, it shares many characteristics with the real estate world. Each practice has taught me something about the other.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>We're On It For Our Clients</title>
+        <link>http://sandyandcompanyvideos.com/were-on-it-for-our-clients.html</link>
+        
+          <category>More From Sandy & Company</category>
+        
+        <author>Sandy Eagon</author>
+        <pubDate>2017-01-20 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+We%2527re+on+it+for+our+clients.mp4</guid>
+        <description>
+
+Just before Thanksgiving, we were introduced to a couple who weren’t having much luck with their current agent. This agent was selling their house in Woodinville. She’d finally found them a buyer, but she was not returning phone calls and took days to follow up on requests. They knew that on their next purchase they needed an agent who was much more responsive. We talked with our couple that day, looked at five homes the next day, made two offers that night, and had one accepted by the weekend. We accomplished this even though this purchase was contingent on the their existing home selling.
+
+Next, it was time to schedule the inspection. It was really a clean house overall, and the inspector didn’t find many issues. Then we went out to the back porch, and the light wasn’t turning on. I thought that maybe the bulb just needed to be replaced, but the bulb just turned in circles when I tried to unscrew it.
+
+“We take active responsibility and make things happen.”
+
+We asked the seller to make sure the light was working. To our surprise, they refused this simple repair. They said it had worked the night before, so the inspector must have broken it. Because I had tried to unscrew the light, I knew I could have been the one to break it. Either way, I wasn’t going to get in the way of my client’s dream home because of a broken light fixture. I volunteered to have the light fixed and we moved on with the deal.
+
+That’s just a little slice of what we do. If we cause a problem, we take responsibility to fix it. We look for solutions, and we won’t let our pride jeopardize our clients’ goals.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+We%2527re+on+it+for+our+clients.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+We%2527re+on+it+for+our+clients.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We have a great story to share today. It’s about how we were able to help some clients out of a stalemate during the inspection period.</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
+        <itunes:summary>We have a great story to share today. It’s about how we were able to help some clients out of a stalemate during the inspection period.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Working with Our Team Benefits You</title>
+        <link>http://sandyandcompanyvideos.com/how-working-with-our-team-benefits-you.html</link>
+        
+          <category>More From Sandy & Company</category>
+        
+        <author>Sandy Eagon</author>
+        <pubDate>2017-01-20 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Why+work+with+our+real+estate+team%253F.mp4</guid>
+        <description>
+
+When you’re thinking of buying or selling a house, what you’re really thinking about is yourself. You aren’t thinking about your Realtor’s system and whether it’s set up to help you. Knowing whether that system involves working with a team or not, though, can prove critical.
+
+Some people might assume that more people means more problems, but that’s not usually true. Let me share an example.
+
+Just this last month, we were working for one of our buyers who had a few hiccups in his transaction. When we initially wrote the offer, I knew his loan wasn’t going to be the easiest. Still, it was only a matter of following a step-by-step process. Which is why we asked for a six-week closing.
+
+After the listing agent talked with the seller, she came back to me and asked,”Could we close sooner?”
+
+My standard response to this request is,”Sure, although we may ask for a couple extra days at the very end if we need them.” As per the listing agent’s wishes, we made the closing date sooner by about a week. From there, everything started moving forward—the client got the house, we completed the inspection and appraisal, and we were just about to get documents to escrow.
+
+“On a team, everyone has to work together to find a solution.”
+
+Just before the underwriter fully checked off, however, she realized that my client’s IRS auto-payment had not been deducted out of his account. Because we needed time to work with the IRS, we asked the seller for another week. Of course, the seller was not happy with this request. They were in the process of buying their own house, and they were getting charged by the builder every single day that they were late for that closing.
+
+I felt very responsible for this quagmire until my office manager reminded me that we’d originally asked for this closing date. With this in mind, we went back to the listing agent and asked for the time back that we originally gave them. Doing that made our responsibility much easier to handle and freed us up to find a solution.
+
+So you see that when we have more people involved in a transaction, we work more efficiently to get the job done. Let me know what we can do to get my team working for you, whether that means buying a house today or six months down the road.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Why+work+with+our+real+estate+team%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Why+work+with+our+real+estate+team%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Working with a team means knowing that everyone is on the same page to find the best solution as quickly as possible.</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
+        <itunes:summary>Working with a team means knowing that everyone is on the same page to find the best solution as quickly as possible.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Do We Go the Extra Mile(s) for Our Clients?</title>
+        <link>http://sandyandcompanyvideos.com/how-do-we-go-the-extra-miles-for-our-clients.html</link>
+        
+          <category>More From Sandy & Company</category>
+        
+        <author>Sandy Eagon</author>
+        <pubDate>2017-01-20 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+How+we+go+the+extra+mile%2528s%2529+for+our+clients.mp4</guid>
+        <description>
+
+What does it mean for us to go the extra mile for one of our clients? Let me tell you a story.
+
+A few months ago, I got an email from one of my past clients who needed to sell his home and buy a new one for him and his fiance. We were excited to help him. Ultimately, he chose a home in Monroe. We competed for this house against another buyer and won. When we scheduled the inspection, though, we found that the roof was toast and asked the seller to replace it.
+
+The seller took this request hard because he had just put $20,000 into the house to fix it up after he had renters in it. Since he decided it was too much for him to handle, we offered to split the cost with him. We raised the price of the house a little bit, but that wasn’t a problem for my buyer because he was going to get the full value of that roof. To give the seller confidence that we weren’t going anywhere after they put another $7,000 into their house, we also agreed to make our earnest money non-refundable after the roof was finished.
+
+Everything moved along nicely…until the house didn’t appraise. We went back and forth a couple times with the seller and his agent, but the seller wouldn’t budge. He wanted every single penny that he had originally been promised. My buyer, though, was not going to pay more for the house than he could finance, and he wasn’t going to pay more than what it was worth.
+
+“On our team, we work to find solutions.”
+
+At this point, we started talking with our lender about different finance options that could breathe life into this transaction. My lender suggested raising the interest rate a little bit so that instead of my buyer having to bring in his money to pay for his own closing costs, he could use it as a down payment and cover the roof expense. The process was a tad complicated, but the numbers equaled out in the end and my buyer was excited to hear about this compromise.
+
+When I emailed our proposal to the seller’s agent, I got no response. So I reached out again, with still no response. I decided then that I needed to jump in and make this deal personal. In our business, we don’t have a lot of face-to-face conferencing anymore. Communication in today’s real estate transactions rely on text and email. I decided, though, that it was time to show up at this agent’s office. I cleared my calendar and got in my car. When I arrived, he was in the middle of a meeting. I waited for him to finish.
+
+Once we got the chance to actually talk face to face, he relayed his seller’s frustration to me. He had already put so much work into the house, he shouldn’t have to bite the bullet and eat the whole expense. When I pointed out the counter-proposal that I’d sent to him, he hadn’t even seen it yet. He asked whether my buyer had agreed to this proposal. He promised to contact the seller and get back to me right away. The seller wasn’t excited, but it was a good middle-ground compromise. They took our proposal.
+
+Now my buyer and his fiance are having their first Christmas together in their new home. All because I went a little old-school and met face to face to explain our proposal.  That’s what I mean by going the extra mile for my clients.
+
+If you’re looking for an agent who is willing to be a part of the solution, I’m your gal. If you’re interested in buying or selling or just want to hear how today’s market affects you, please don’t hesitate to call me or send me an email. We’re happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+How+we+go+the+extra+mile%2528s%2529+for+our+clients.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+How+we+go+the+extra+mile%2528s%2529+for+our+clients.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The art of winning a negotiation for our team is based on our ability to find a solution to any problem. To show you what I mean, I have a quick story to tell you.</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
+        <itunes:summary>The art of winning a negotiation for our team is based on our ability to find a solution to any problem. To show you what I mean, I have a quick story to tell you.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Donate to Your Local Food Bank This Fall</title>
-        <link>localhost:4000/donate-to-your-local-food-bank-this-fall.html</link>
+        <link>http://sandyandcompanyvideos.com/donate-to-your-local-food-bank-this-fall.html</link>
         
-          <category>Other</category>
+          <category>More From Sandy & Company</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-10-12 12:59:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -52,22 +311,22 @@ So this fall, let’s be good neighbors to each other. If you are my neighbor an
 Again, if you have any donations for our food bank, just drop them off at our office at 1027 State Ave #102 in Marysville. If you can’t make the trip, let me know and I will collect the donations for you. I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>When everything is going groovy for you, it’s easy to think of fall as a time of harvest and ample supply. However, there are many out there who are hungry. We need to be a resource to them too.</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>When everything is going groovy for you, it’s easy to think of fall as a time of harvest and ample supply. However, there are many out there who are hungry. We need to be a resource to them too.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>How Our Buyer Shrunk Her Home and Evaporated Her Mortgage Payment</title>
-        <link>localhost:4000/how-our-buyer-shrunk-her-home-and.html</link>
+        <link>http://sandyandcompanyvideos.com/how-our-buyer-shrunk-her-home-and.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-10-05 12:54:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -89,22 +348,22 @@ And this was the very first house we looked at. We looked at a couple others, bu
 If you’re looking into your retirement years and you’re thinking about your house and your mortgage, I’d love to talk with you about it. The question is this–where are you in the cycle of your home life? Give me a call or send me an email and we’ll talk soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>I have a story I wanted to share about a buyer who we recently helped downsize into a newer home that better fit her needs as she transitioned into retirement.</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>I have a story I wanted to share about a buyer who we recently helped downsize into a newer home that better fit her needs as she transitioned into retirement.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>How to Win as a Buyer in Today’s Market </title>
-        <link>localhost:4000/how-to-win-as-buyer-in-todays-market.html</link>
+        <link>http://sandyandcompanyvideos.com/how-to-win-as-buyer-in-todays-market.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-09-21 15:59:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -126,22 +385,22 @@ We can make this happen for you. Don’t assume that just because your agent is 
 If you have any other real estate questions, please don’t hesitate to reach out to me. I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>If you are a buyer in today’s market, you probably know that things are tough out there. How can you win the house you want?</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>If you are a buyer in today’s market, you probably know that things are tough out there. How can you win the house you want?</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Be a Savvy Investor by Using a Tax Deferred Exchange</title>
-        <link>localhost:4000/be-savvy-investor-by-using-tax-deferred.html</link>
+        <link>http://sandyandcompanyvideos.com/be-savvy-investor-by-using-tax-deferred.html</link>
         
-          <category>Real Estate Tips and Tricks</category>
+          <category>More Sandy & Company Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-08-30 16:20:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -157,11 +416,15 @@ The question, then, isn’t whether investing in real estate is a good idea, but
 If any of this interests you, reach out to me by giving me a call or sending me an email. I’m excited to hear from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+If you’re an investor looking to sell a property you didn’t live in and avoid paying the capital gains tax on the sale, you need to think about using a tax deferred exchange. That means, basically, rolling the profit you’d make from that sale directly into your next purchase.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 If you’re an investor looking to sell a property you didn’t live in and avoid paying the capital gains tax on the sale, you need to think about using a tax deferred exchange. That means, basically, rolling the profit you’d make from that sale directly into your next purchase.
@@ -172,11 +435,11 @@ If you’re an investor looking to sell a property you didn’t live in and avoi
       
       <item>
         <title>How a $10 Wax Ring Could Save You $10,000</title>
-        <link>localhost:4000/how-10-wax-ring-could-save-you-10000.html</link>
+        <link>http://sandyandcompanyvideos.com/how-10-wax-ring-could-save-you-10000.html</link>
         
           <category>Real Estate Tips and Tricks</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-08-22 15:15:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -198,11 +461,15 @@ If you notice any issue with your floor, take care of it quickly. $8? or $10,000
 If you have more questions, please feel free to give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+What do you know about the wax rings on toilets? It’s a very sexy topic, I know.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 What do you know about the wax rings on toilets? It’s a very sexy topic, I know.
@@ -213,11 +480,11 @@ What do you know about the wax rings on toilets? It’s a very sexy topic, I kno
       
       <item>
         <title>Agents Must Take the Lead through the Home Sale Process</title>
-        <link>localhost:4000/agents-must-take-lead-through-home-sale.html</link>
+        <link>http://sandyandcompanyvideos.com/agents-must-take-lead-through-home-sale.html</link>
         
-          <category>Home Buyer Tips</category>
+          <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-08-03 12:51:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -237,11 +504,15 @@ My job as a consultant is to talk with you about all these different issues and 
 If you have any questions about the real estate process or you’re thinking about buying or selling a home in Puget Sound, give me a call today. Make it a great day!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Legal deadlines are one of the most important facets of real estate, so it’s important to have the help of your real estate expert with you all along the way.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Legal deadlines are one of the most important facets of real estate, so it’s important to have the help of your real estate expert with you all along the way.
@@ -252,11 +523,11 @@ Legal deadlines are one of the most important facets of real estate, so it’s i
       
       <item>
         <title>To Permit or Not To Permit</title>
-        <link>localhost:4000/to-permit-or-not-to-permit.html</link>
+        <link>http://sandyandcompanyvideos.com/to-permit-or-not-to-permit.html</link>
         
           <category>Real Estate Tips and Tricks</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-06-27 09:58:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -282,11 +553,15 @@ This is still a lesson in not only acquiring a permit, but following a permit cl
 If you have any questions for me don’t hesitate to give me a call or send me an email. I would love to hear from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+When homeowners are going to build or remodel something in their home, do they really need a permit? It might seem tempting to just skip this step, but as you’ll see, it can have some horrendous consequences.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 When homeowners are going to build or remodel something in their home, do they really need a permit? It might seem tempting to just skip this step, but as you’ll see, it can have some horrendous consequences.
@@ -297,9 +572,9 @@ When homeowners are going to build or remodel something in their home, do they r
       
       <item>
         <title>Summer 2016 Home Price Update</title>
-        <link>localhost:4000/summer-2016-home-price-update.html</link>
+        <link>http://sandyandcompanyvideos.com/summer-2016-home-price-update.html</link>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-06-03 13:50:00 -0500</pubDate>
         <guid></guid>
         <description>Clients and friends,
@@ -357,22 +632,22 @@ So, I invite you to find out what your home will sell for. It’s free to you.
 You can also email or call me at (425) 422-7372 or &#083;&#097;&#110;&#100;&#121;&#064;&#083;&#097;&#110;&#100;&#121;&#065;&#110;&#100;&#067;&#111;&#109;&#112;&#097;&#110;&#121;&#046;&#099;&#111;&#109;. I’m happy to answer any questions you have about real estate.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>Our economy is normalizing, interest rates are rising, and pent-up demand following the 2008-2009 recession is less. This is the summer to sell your home.</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>Our economy is normalizing, interest rates are rising, and pent-up demand following the 2008-2009 recession is less. This is the summer to sell your home.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Now Is the Time for Sellers to Act</title>
-        <link>localhost:4000/now-is-time-for-sellers-to-act.html</link>
+        <link>http://sandyandcompanyvideos.com/now-is-time-for-sellers-to-act.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-06-02 11:50:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -390,11 +665,15 @@ We are at the peak of the market, the growth is slowing. There’s a shift comin
 If you or someone you know has been wondering whether it’s the right time to sell, we would be happy to talk to you. Just give us a call or send us an email and we’ll be in touch!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+If you’re in the Puget Sound area and haven’t been able to sell your home in the last few years because your value isn’t quite where you want it to be, we’ve got some great information to share with you.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 If you’re in the Puget Sound area and haven’t been able to sell your home in the last few years because your value isn’t quite where you want it to be, we’ve got some great information to share with you.
@@ -405,11 +684,11 @@ If you’re in the Puget Sound area and haven’t been able to sell your home in
       
       <item>
         <title>Puget Sound Real Estate Market Update</title>
-        <link>localhost:4000/puget-sound-real-estate-market-update.html</link>
+        <link>http://sandyandcompanyvideos.com/puget-sound-real-estate-market-update.html</link>
         
-          <category>Market Update</category>
+          <category>Market Updates</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-06-02 11:22:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -423,11 +702,15 @@ I can’t tell you what the future will be like, but I can tell you that growth 
 If you’re buying, this slowing is helping you. Remember that interest rates are still very low. This is why you need to call me and discuss all the factors in our market that affect your home search. Give me a call today!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Our real estate market has been wildly hot for the past few years. It’s even been so good that some people think we’d made another bubble, but we’re starting to see some of that growth slow down. Between January 2015 to 2016, we experienced 11% growth in our market. That is pretty typical from what we have been seeing, but from month to month after January, we have seen that growth trickle slowly down to 8%.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Our real estate market has been wildly hot for the past few years. It’s even been so good that some people think we’d made another bubble, but we’re starting to see some of that growth slow down. Between January 2015 to 2016, we experienced 11% growth in our market. That is pretty typical from what we have been seeing, but from month to month after January, we have seen that growth trickle slowly down to 8%.
@@ -438,11 +721,11 @@ Our real estate market has been wildly hot for the past few years. It’s even b
       
       <item>
         <title>Should You Be Worried About Puget Sound Real Estate?</title>
-        <link>localhost:4000/should-you-be-worried-about-puget-sound.html</link>
+        <link>http://sandyandcompanyvideos.com/should-you-be-worried-about-puget-sound.html</link>
         
-          <category>Market Update</category>
+          <category>Market Updates</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-05-19 12:39:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -460,11 +743,15 @@ For sellers in Puget Sound, we have one simple question; what are you waiting fo
 If you’re looking to buy or sell in Puget Sound, please don’t hesitate to contact me. You deserve an expert at your side to navigate you through this tough market!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+We’re seeing a very small amount of homes available in Puget Sound, and demand is sky-high right now. There is less than a month’s supply of homes! That means we’re operating in a heavy seller’s market. If no new homes come on the market in the next 27 days, we would be left without any homes to buy or sell.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 We’re seeing a very small amount of homes available in Puget Sound, and demand is sky-high right now. There is less than a month’s supply of homes! That means we’re operating in a heavy seller’s market. If no new homes come on the market in the next 27 days, we would be left without any homes to buy or sell.
@@ -475,11 +762,11 @@ We’re seeing a very small amount of homes available in Puget Sound, and demand
       
       <item>
         <title>Faith and Support Systems, Final Thoughts with Sylvia Anderson</title>
-        <link>localhost:4000/faith-and-support-systems-final.html</link>
+        <link>http://sandyandcompanyvideos.com/faith-and-support-systems-final.html</link>
         
-          <category>Other</category>
+          <category>More From Sandy & Company</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-05-09 12:58:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -497,11 +784,15 @@ So to give back, I wanted to show you how you can learn more about the mission. 
 I asked Sylvia for any final thoughts. She said, “We have a responsibility to the poor. Isaiah 43 says ‘bring my sons from afar and my daughters from ends of the Earth, everyone who is called by my name who I created for my glory whom I formed and made.’ That’s what we’re doing; bringing in God’s sons and daughters, and if we’re not giving away to people who have no way to give back to us, then we’d better check our faith.”
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+I’m here recounting my interview with Sylvia Anderson. Unfortunately, we experienced some technical difficulties during recording, so I want to recreate it for you. The last portion of our talk focused on the challenging position of her team, including helping people in crisis and supporting them.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 I’m here recounting my interview with Sylvia Anderson. Unfortunately, we experienced some technical difficulties during recording, so I want to recreate it for you. The last portion of our talk focused on the challenging position of her team, including helping people in crisis and supporting them.
@@ -512,11 +803,11 @@ I’m here recounting my interview with Sylvia Anderson. Unfortunately, we exper
       
       <item>
         <title>Part 2 of My Amazing Conversation with Sylvia Anderson</title>
-        <link>localhost:4000/part-2-of-my-amazing-conversation-with.html</link>
+        <link>http://sandyandcompanyvideos.com/part-2-of-my-amazing-conversation-with.html</link>
         
-          <category>Other</category>
+          <category>More From Sandy & Company</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-05-06 15:13:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -534,11 +825,15 @@ This is just an example of the success stories that Sylvia and the Everett Gospe
 Stay tuned for part 3 of our conversation, where we will handle being emotionally supportive of the people in your life. I can’t wait to see you soon on the next step of this faith walk.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+I recently had an amazing conversation with Sylvia Anderson of the Everett Gospel Mission. We talked a lot about faith and life and although the audio was cut short, I want to share some of the things we talked about with you. This is part two of our interview.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 I recently had an amazing conversation with Sylvia Anderson of the Everett Gospel Mission. We talked a lot about faith and life and although the audio was cut short, I want to share some of the things we talked about with you. This is part two of our interview.
@@ -549,11 +844,11 @@ I recently had an amazing conversation with Sylvia Anderson of the Everett Gospe
       
       <item>
         <title>How the Everett Gospel Mission Helps Puget Sound’s Homeless</title>
-        <link>localhost:4000/how-everett-gospel-mission-helps-puget.html</link>
+        <link>http://sandyandcompanyvideos.com/how-everett-gospel-mission-helps-puget.html</link>
         
-          <category>Other</category>
+          <category>More From Sandy & Company</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-05-05 15:57:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -575,11 +870,15 @@ The Everett Gospel Mission works to build connections between the homeless and t
 Sylvia and I talked for a while, so watch out for parts two and three of our discussion in the next few days. If you have any questions, give me a call or send me an email. I would be happy to talk with you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+I recently had the pleasure of speaking with Sylvia Anderson, the CEO of Everett Gospel Mission. She’s been there for about 20 years. I took a few notes from our conversation and wanted to share those with you today.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 I recently had the pleasure of speaking with Sylvia Anderson, the CEO of Everett Gospel Mission. She’s been there for about 20 years. I took a few notes from our conversation and wanted to share those with you today.
@@ -590,11 +889,11 @@ I recently had the pleasure of speaking with Sylvia Anderson, the CEO of Everett
       
       <item>
         <title>Four Questions to Ask Yourself Before You Sell</title>
-        <link>localhost:4000/four-questions-to-ask-yourself-before.html</link>
+        <link>http://sandyandcompanyvideos.com/four-questions-to-ask-yourself-before.html</link>
         
-          <category>Home Buyer Tips</category>
+          <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-04-06 10:43:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -614,11 +913,15 @@ If you need a professional to consult with, please don’t hesitate to contact m
 Keep in mind that we expect a great spring selling season, so talk to us as soon as possible if you’re interested!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Moving from one property to another is a major decision for yourself and your family. It’s difficult to tell when the right time to sell is, but you can come closer to your answer by asking yourself a few tough questions.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Moving from one property to another is a major decision for yourself and your family. It’s difficult to tell when the right time to sell is, but you can come closer to your answer by asking yourself a few tough questions.
@@ -629,11 +932,11 @@ Moving from one property to another is a major decision for yourself and your fa
       
       <item>
         <title>What Is Most Important to You in a Real Estate Transaction?</title>
-        <link>localhost:4000/what-is-most-important-to-you-in-real.html</link>
+        <link>http://sandyandcompanyvideos.com/what-is-most-important-to-you-in-real.html</link>
         
-          <category>Real Estate Other</category>
+          <category>More Sandy & Company Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-03-23 15:04:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -649,11 +952,15 @@ If you have any questions about buying or selling in Puget Sound, please don’t
 I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Real estate transactions can be tough. You often have a lot on the line, both in thousands of dollars and in the security of your home. How can you ‘win’ what you want in a real estate transaction? It helps to determine what is most important to you. You have to ask yourself what you need to get out of a transaction.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Real estate transactions can be tough. You often have a lot on the line, both in thousands of dollars and in the security of your home. How can you ‘win’ what you want in a real estate transaction? It helps to determine what is most important to you. You have to ask yourself what you need to get out of a transaction.
@@ -664,11 +971,11 @@ Real estate transactions can be tough. You often have a lot on the line, both in
       
       <item>
         <title>Do You Smile When You Walk into Your Puget Sound Home?</title>
-        <link>localhost:4000/do-you-smile-when-you-walk-into-your.html</link>
+        <link>http://sandyandcompanyvideos.com/do-you-smile-when-you-walk-into-your.html</link>
         
-          <category>Real Estate Other</category>
+          <category>More From Sandy & Company</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-03-23 12:57:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -686,11 +993,15 @@ If you’re looking for a space to please you, give us a call or send us an emai
 With spring around the corner, it’s a perfect time to go through my 5 Step Home Review and find out what your home is worth.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Today, we’re talking about making our homes into places that make us smile. When I help clients, I explain how important it is to smile while walking through the front door.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Today, we’re talking about making our homes into places that make us smile. When I help clients, I explain how important it is to smile while walking through the front door.
@@ -701,11 +1012,11 @@ Today, we’re talking about making our homes into places that make us smile. Wh
       
       <item>
         <title>Don’t Kill Your Home with Kindness</title>
-        <link>localhost:4000/dont-kill-your-home-with-kindness.html</link>
+        <link>http://sandyandcompanyvideos.com/dont-kill-your-home-with-kindness.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-03-16 15:59:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -724,11 +1035,15 @@ Today we will discuss four different ways that you could be hurting your home in
 If you’d like to learn more, ask me for a copy of 19 Ways You’re Killing Your Home with Kindness.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Today we’re talking about how you’re killing your home with kindness. I bring this up because spring is approaching and you’re probably going to be making some improvements to your home. Most of the time the work you do will improve your home, but sometimes it can actually take away from the value of your property.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Today we’re talking about how you’re killing your home with kindness. I bring this up because spring is approaching and you’re probably going to be making some improvements to your home. Most of the time the work you do will improve your home, but sometimes it can actually take away from the value of your property.
@@ -739,11 +1054,11 @@ Today we’re talking about how you’re killing your home with kindness. I brin
       
       <item>
         <title>A Unique Home Selling Story</title>
-        <link>localhost:4000/a-unique-home-selling-story.html</link>
+        <link>http://sandyandcompanyvideos.com/a-unique-home-selling-story.html</link>
         
-          <category>Real Estate Other</category>
+          <category>More From Sandy & Company</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-03-09 13:34:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -761,11 +1076,15 @@ If you have a unique home to sell in Puget Sound, please don’t hesitate to con
 With spring around the corner, it’s a perfect time to go through my 5 Step Home Review and find out what your home is worth.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Last fall we sold a very unique home- let me share. Originally listed with a different agent, the home sat on 3 acres inside Marysville, but the home was priced too high. The home and property were beautiful, but it had all the original features in it. It’s what we affectionately call vintage,requiring at least $60,000 in updating to make this home shine again.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Last fall we sold a very unique home- let me share. Originally listed with a different agent, the home sat on 3 acres inside Marysville, but the home was priced too high. The home and property were beautiful, but it had all the original features in it. It’s what we affectionately call vintage,requiring at least $60,000 in updating to make this home shine again.
@@ -776,13 +1095,11 @@ Last fall we sold a very unique home- let me share. Originally listed with a dif
       
       <item>
         <title>We Help You Limit the Stress that Typically Comes with Buying in a Tight Puget Sound Market</title>
-        <link>localhost:4000/we-help-you-limit-stress-that-typically.html</link>
-        
-          <category>Home Seller Tips</category>
+        <link>http://sandyandcompanyvideos.com/we-help-you-limit-stress-that-typically.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-02-23 12:01:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -808,11 +1125,15 @@ We had a unique situation with pretty specific needs in finding the right house.
 With spring around the corner, it’s a perfect time to go through my 5 Step Home Review and find out what your home is worth.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+About a year and a half ago, a couple reached out to me online. They were looking for a home that fit them and their three large dogs and property with breathing room between them and neighbors. We looked for about a year, but nothing worked perfectly. Then their landlord told them that he was selling the rental they lived in. Urgency kicked in- they needed a home that they could count on rather than try to find another landlord who would allow their dogs.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 About a year and a half ago, a couple reached out to me online. They were looking for a home that fit them and their three large dogs and property with breathing room between them and neighbors. We looked for about a year, but nothing worked perfectly. Then their landlord told them that he was selling the rental they lived in. Urgency kicked in- they needed a home that they could count on rather than try to find another landlord who would allow their dogs.
@@ -823,11 +1144,11 @@ About a year and a half ago, a couple reached out to me online. They were lookin
       
       <item>
         <title>Market Update for the Puget Sound Area</title>
-        <link>localhost:4000/market-update-for-puget-sound-area.html</link>
+        <link>http://sandyandcompanyvideos.com/market-update-for-puget-sound-area.html</link>
         
-          <category>Market Update</category>
+          <category>Market Updates</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-02-03 08:53:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -843,22 +1164,22 @@ With spring around the corner, it’s a perfect time to go through my 5 Step Hom
 Reach out to me by phone or email. Capture your top dollar today!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>We’ve been working throughout the surrounding Puget Sound area and the market is the same in every county! There are hardly any houses for sale.</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>We’ve been working throughout the surrounding Puget Sound area and the market is the same in every county! There are hardly any houses for sale.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Walking Out My Purpose: How Faith Can Get You Through Your Emotions</title>
-        <link>localhost:4000/walking-out-my-purpose-how-faith-can.html</link>
+        <link>http://sandyandcompanyvideos.com/walking-out-my-purpose-how-faith-can.html</link>
         
-          <category>Other</category>
+          <category>More From Sandy & Company</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2016-01-14 12:41:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -875,11 +1196,16 @@ I’d like to share a conversation I had with my coach, Chris, about how to get 
 You can listen to the full conversation here. I would love to hear your thoughts. If there’s anything you can share or learn from each other to get us out of that rut of how we’ve always worked, please reach out to me. Let’s be purposeful in our lives and be that person we’re meant and created to be. I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+
+Today, we’re talking about walking out our purpose. I want to work on dealing with my emotions in a way that practices my faith. Our emotions affect so much of what happens in our day and how we treat other people.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 
@@ -891,11 +1217,11 @@ Today, we’re talking about walking out our purpose. I want to work on dealing 
       
       <item>
         <title>The Benefits of Selling During the Winter in Puget Sound</title>
-        <link>localhost:4000/the-benefits-of-selling-during-winter.html</link>
+        <link>http://sandyandcompanyvideos.com/the-benefits-of-selling-during-winter.html</link>
         
-          <category>Winter Selling</category>
+          <category>Seasonal Selling</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-12-11 12:27:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -917,11 +1243,15 @@ If you’re looking to sell your home quickly and for top dollar, please don’t
 
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+One of the biggest misconceptions out there is that the winter is a bad time to sell a home. Today, I have three reasons this couldn’t be further from the truth:
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 One of the biggest misconceptions out there is that the winter is a bad time to sell a home. Today, I have three reasons this couldn’t be further from the truth:
@@ -932,11 +1262,11 @@ One of the biggest misconceptions out there is that the winter is a bad time to 
       
       <item>
         <title>Have to Leave Before You Sell? We Can Help with That!</title>
-        <link>localhost:4000/puget-sound-real-estate-client-success.html</link>
+        <link>http://sandyandcompanyvideos.com/puget-sound-real-estate-client-success.html</link>
         
-          <category>Success Story</category>
+          <category>Success Stories</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-12-11 12:00:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -962,11 +1292,15 @@ We have a hands-on approach to real estate. If you know anyone who is thinking o
 We look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Recently, a client had to move out of town before they sold their property. They needed someone here in Puget Sound to manage the home sale, and we were happy to fulfill their need.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Recently, a client had to move out of town before they sold their property. They needed someone here in Puget Sound to manage the home sale, and we were happy to fulfill their need.
@@ -977,11 +1311,11 @@ Recently, a client had to move out of town before they sold their property. They
       
       <item>
         <title>The Importance of Tool Shed</title>
-        <link>localhost:4000/puget-sound-real-estate-tool-resources.html</link>
+        <link>http://sandyandcompanyvideos.com/puget-sound-real-estate-tool-resources.html</link>
         
-          <category>Real Estate Other</category>
+          <category>More Sandy & Company Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-11-30 13:32:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -995,11 +1329,15 @@ If you’re looking for any home tools, please talk to me! I can help you out. I
 As always, please don’t hesitate to reach out to me with any and all of your real estate questions. Please reach out by phone or email!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+In my tool shed at home, I made some additions and improvements. I’d like to share them with you today.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 In my tool shed at home, I made some additions and improvements. I’d like to share them with you today.
@@ -1010,11 +1348,11 @@ In my tool shed at home, I made some additions and improvements. I’d like to s
       
       <item>
         <title>Why Are We Comfortable Selling Unique Homes in the Puget Sound?</title>
-        <link>localhost:4000/puget-sound-real-estate-sell-unique.html</link>
+        <link>http://sandyandcompanyvideos.com/puget-sound-real-estate-sell-unique.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-11-03 13:44:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -1037,11 +1375,15 @@ If you are looking for someone to sell your home who takes the time to understan
 If you have any questions for us, feel free to give us a call or send us an email. We look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Recently, we sold a pretty unique property for a seller of ours, and today we’re talking about what we did to sell that home quickly and for top dollar. I got a call this summer from a colleague in the lending field who was ready to sell his home.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Recently, we sold a pretty unique property for a seller of ours, and today we’re talking about what we did to sell that home quickly and for top dollar. I got a call this summer from a colleague in the lending field who was ready to sell his home.
@@ -1052,11 +1394,11 @@ Recently, we sold a pretty unique property for a seller of ours, and today we’
       
       <item>
         <title>Walking Out My Purpose: Persevering for God</title>
-        <link>localhost:4000/puget-sound-real-estate-daily.html</link>
+        <link>http://sandyandcompanyvideos.com/puget-sound-real-estate-daily.html</link>
         
-          <category>Other</category>
+          <category>More From Sandy & Company</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-10-27 11:03:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1072,11 +1414,15 @@ Once again, if you’d like to hear the full interview, you can listen to it her
 I hope that you find value in this. If you have any questions, please don’t hesitate to contact me!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Today I want to show you a brief snippet of a longer interview that I did with Pastor Chris Manginelli. You can find the full interview here.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Today I want to show you a brief snippet of a longer interview that I did with Pastor Chris Manginelli. You can find the full interview here.
@@ -1087,15 +1433,11 @@ Today I want to show you a brief snippet of a longer interview that I did with P
       
       <item>
         <title>Puget Sound Shifting Market</title>
-        <link>localhost:4000/puget-sound-shifting-market.html</link>
+        <link>http://sandyandcompanyvideos.com/puget-sound-shifting-market.html</link>
         
-          <category>Market Update</category>
+          <category>Market Updates</category>
         
-          <category>Home Seller Tips</category>
-        
-          <category>Home Buyer Tips</category>
-        
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-10-19 13:45:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1119,11 +1461,15 @@ If you’re making a decision about buying or selling, sit down and talk with me
 If you have any questions, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Today, we’re talking about our current market. Right now, our market is shifting, so you definitely need to hear this.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Today, we’re talking about our current market. Right now, our market is shifting, so you definitely need to hear this.
@@ -1134,11 +1480,11 @@ Today, we’re talking about our current market. Right now, our market is shifti
       
       <item>
         <title>Puget Sound Real Estate Home Selling Tips</title>
-        <link>localhost:4000/puget-sound-real-estate-home-selling.html</link>
+        <link>http://sandyandcompanyvideos.com/puget-sound-real-estate-home-selling.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-10-14 11:01:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1154,11 +1500,15 @@ A lot of people wanted to fire the buyer. We had to deal with the escrow people,
 So here’s my question to you: Who do you know right now who is looking for a real estate professional who will make a sale happen for them? Whether they have equity on the home or not, we will work every angle to get that job done. Give us a call or send us an email. We would love to guide you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+We have a lot of professionals who ask us about handling short sale situations, particularly when their clients are in distress mode and need to sell.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 We have a lot of professionals who ask us about handling short sale situations, particularly when their clients are in distress mode and need to sell.
@@ -1169,11 +1519,11 @@ We have a lot of professionals who ask us about handling short sale situations, 
       
       <item>
         <title>Puget Sound Real Estate Replacing an Old Roof</title>
-        <link>localhost:4000/puget-sound-real-estate-replacing-old.html</link>
+        <link>http://sandyandcompanyvideos.com/puget-sound-real-estate-replacing-old.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-10-05 09:16:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1188,11 +1538,15 @@ It’s important to keep in mind that cutting corners like  covering up rotten p
 If you have any more questions or concerns about this issue, please don’t hesitate to contact me. I look forward to speaking with you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Sellers will commonly ask me whether they should get an entire new roof or can they  just put a second layer of composition shingles on top. Putting an entire new roof on a home is expensive, so this is a very important question.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Sellers will commonly ask me whether they should get an entire new roof or can they  just put a second layer of composition shingles on top. Putting an entire new roof on a home is expensive, so this is a very important question.
@@ -1203,11 +1557,11 @@ Sellers will commonly ask me whether they should get an entire new roof or can t
       
       <item>
         <title>Is Now the Time to Get Top Dollar for Your Home?</title>
-        <link>localhost:4000/is-now-time-to-get-top-dollarfor-your.html</link>
+        <link>http://sandyandcompanyvideos.com/is-now-time-to-get-top-dollarfor-your.html</link>
         
-          <category>Market Update</category>
+          <category>Market Updates</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-09-03 14:47:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1223,11 +1577,15 @@ For sellers, we’re still getting full-priced offers in competitive situations.
 If you have any questions about how you can make this market work for you, don’t hesitate- reach out to me. I would love to hear from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Where is the Puget Sound market heading? Today I’ll explain how conditions are changing in our area and what it means for you!
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Where is the Puget Sound market heading? Today I’ll explain how conditions are changing in our area and what it means for you!
@@ -1238,11 +1596,11 @@ Where is the Puget Sound market heading? Today I’ll explain how conditions are
       
       <item>
         <title>Walking Out My Purpose: How Does My Faith Affect My Business?</title>
-        <link>localhost:4000/walking-out-my-purpose-how-does-my.html</link>
+        <link>http://sandyandcompanyvideos.com/walking-out-my-purpose-how-does-my.html</link>
         
-          <category>Other</category>
+          <category>More From Sandy & Company</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-08-19 11:19:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1260,11 +1618,15 @@ I have found that I have more peace and understanding that all will be well, bot
 If you have any questions for me, or would like to discuss how you deal with impatience or anxiety, give me a call or send me an email. I would love to chat, and am always here to be there for you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Waiting on the Lord is an evolving experience. When I have an obstacle or issue, I start to worry. When things don’t happen right, that’s where my worry kicks in.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Waiting on the Lord is an evolving experience. When I have an obstacle or issue, I start to worry. When things don’t happen right, that’s where my worry kicks in.
@@ -1275,11 +1637,11 @@ Waiting on the Lord is an evolving experience. When I have an obstacle or issue,
       
       <item>
         <title>Sandy's Tool Shed Has Two New Items</title>
-        <link>localhost:4000/puget-sound-real-estate-tools-for-rent.html</link>
+        <link>http://sandyandcompanyvideos.com/puget-sound-real-estate-tools-for-rent.html</link>
         
-          <category>Other</category>
+          <category>More From Sandy & Company</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-08-10 14:56:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1297,11 +1659,15 @@ So now Sandy’s Tool Shed includes 2 extension ladders, a carpet cleaner, plumb
 Always refer to us as your #1 resource for real estate in Puget Sound!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+As you may know, we like to share our tools with our clients. We call it Sandy’s Tool Shed! Any of our clients are able to use them, and we have two more tools available in our shed.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 As you may know, we like to share our tools with our clients. We call it Sandy’s Tool Shed! Any of our clients are able to use them, and we have two more tools available in our shed.
@@ -1312,11 +1678,11 @@ As you may know, we like to share our tools with our clients. We call it Sandy�
       
       <item>
         <title>How to Purchase After a Foreclosure</title>
-        <link>localhost:4000/how-to-purchase-after-foreclosure.html</link>
+        <link>http://sandyandcompanyvideos.com/how-to-purchase-after-foreclosure.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-07-08 10:26:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1332,11 +1698,15 @@ I suggest stepping back for a moment to examine where your priorities lie for yo
 You have the power to decide where your money goes and how it’s used. If you have goals that are on hold and need assistance with any step of this process, please don’t hesitate to contact me!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Today I’m going to be speaking about how you can prepare to buy a home again after a major life event like a bankruptcy, foreclosure, or short sale. A lot of people are finding themselves in this situation after the market crashed in 2007. If you’re having difficulty when you’re speaking with a lender or a real estate agent, I have one important question to ask you:
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Today I’m going to be speaking about how you can prepare to buy a home again after a major life event like a bankruptcy, foreclosure, or short sale. A lot of people are finding themselves in this situation after the market crashed in 2007. If you’re having difficulty when you’re speaking with a lender or a real estate agent, I have one important question to ask you:
@@ -1347,11 +1717,11 @@ Today I’m going to be speaking about how you can prepare to buy a home again a
       
       <item>
         <title>Walking Out My Purpose: Are You Waiting for Your Prayers to Be Answered?</title>
-        <link>localhost:4000/walking-out-my-purpose-are-you-waiting.html</link>
+        <link>http://sandyandcompanyvideos.com/walking-out-my-purpose-are-you-waiting.html</link>
         
-          <category>Real Estate Tips and Tricks</category>
+          <category>More From Sandy & Company</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-06-26 10:12:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1369,11 +1739,15 @@ When you can do these things, you are more able to handle the tough things that 
 Thanks for watching, and I hope everyone gets something good out of this conversation!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Today I’m speaking with my coach about what we do when we are waiting for our prayers to be answered.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Today I’m speaking with my coach about what we do when we are waiting for our prayers to be answered.
@@ -1384,11 +1758,11 @@ Today I’m speaking with my coach about what we do when we are waiting for our 
       
       <item>
         <title>How Can An Escalation Clause Help You?</title>
-        <link>localhost:4000/how-can-escalation-clause-help-you.html</link>
+        <link>http://sandyandcompanyvideos.com/how-can-escalation-clause-help-you.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-06-24 13:16:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1404,11 +1778,15 @@ This made our offer seem very strong and very urgent, and it ended up working! E
 This just goes to show how important it is to craft a good offer in a competitive market, such as the one that we have here in Puget Sound.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Today I have a good story about how I helped some buyers get a home for less than what they were willing to pay.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Today I have a good story about how I helped some buyers get a home for less than what they were willing to pay.
@@ -1419,11 +1797,11 @@ Today I have a good story about how I helped some buyers get a home for less tha
       
       <item>
         <title>How Is the Market Performing for Buyers and Sellers?</title>
-        <link>localhost:4000/how-is-market-performing-for-buyers-and.html</link>
+        <link>http://sandyandcompanyvideos.com/how-is-market-performing-for-buyers-and.html</link>
         
-          <category>Market Update</category>
+          <category>Market Updates</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-06-22 09:12:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1439,11 +1817,15 @@ For buyers, sellers are still getting 98 or 99% of their asking price, so low-ba
 If you have any questions for us, feel free to give us a call or send us an email. We look forward to hearing from you soon!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Hey everyone, today we are going to talk about what’s going on in the Puget Sound real estate market, for buyers and sellers.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Hey everyone, today we are going to talk about what’s going on in the Puget Sound real estate market, for buyers and sellers.
@@ -1454,11 +1836,11 @@ Hey everyone, today we are going to talk about what’s going on in the Puget So
       
       <item>
         <title>What's Happening with Real Estate in Puget Sound?</title>
-        <link>localhost:4000/puget-sound-real-estate-market-update.html</link>
+        <link>http://sandyandcompanyvideos.com/puget-sound-real-estate-market-update.html</link>
         
-          <category>Market Update</category>
+          <category>Market Updates</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-06-18 14:30:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1474,11 +1856,15 @@ The important thing to remember is to price your home correctly when you’re se
 Hopefully this information is useful to you if you’re planning on buying or selling a home in Puget Sound this summer. Please contact me with any questions you may have!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+As we near the end of spring and begin to enter summer, I thought it would be useful to provide you with a real estate market update.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 As we near the end of spring and begin to enter summer, I thought it would be useful to provide you with a real estate market update.
@@ -1489,11 +1875,11 @@ As we near the end of spring and begin to enter summer, I thought it would be us
       
       <item>
         <title>Walking Out My Purpose: Battling My Impatience</title>
-        <link>localhost:4000/walking-out-my-purpose-battling-my.html</link>
+        <link>http://sandyandcompanyvideos.com/walking-out-my-purpose-battling-my.html</link>
         
-          <category>Real Estate Tips and Tricks</category>
+          <category>More From Sandy & Company</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-05-12 14:23:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1507,11 +1893,15 @@ I’d like to share what the Lord is working on with me right now regarding pati
 If you have any comments or questions about this, please don’t hesitate to contact me and I’ll be sure to get back to you quickly.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+We’re all very busy in our lives. We have work to do, people to see, and probably a million other odds and ends that we need to accomplish. This is why today I’ll be speaking with my coach about being more purposeful in order to improve my personal life, my professional life, and my spiritual life.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 We’re all very busy in our lives. We have work to do, people to see, and probably a million other odds and ends that we need to accomplish. This is why today I’ll be speaking with my coach about being more purposeful in order to improve my personal life, my professional life, and my spiritual life.
@@ -1522,11 +1912,11 @@ We’re all very busy in our lives. We have work to do, people to see, and proba
       
       <item>
         <title>How to Sell Quickly and For Top Dollar in Puget Sound</title>
-        <link>localhost:4000/puget-sound-real-estate-home-seller.html</link>
+        <link>http://sandyandcompanyvideos.com/puget-sound-real-estate-home-seller.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-04-27 13:24:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1542,11 +1932,15 @@ My question for you is: who do you know out there who wants to sell their home q
 We know how to find serious buyers that are willing to pay top dollar for your property. If you are looking to buy or sell anytime soon, please don’t hesitate to contact me!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+A while back, I worked with some attorneys who ran into a sticky situation. The long story short is that they needed to sell their home quickly. The home itself was a project home with lots of repairs that needed to be done, but the owners didn’t have the time or resources to put in the necessary repairs.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 A while back, I worked with some attorneys who ran into a sticky situation. The long story short is that they needed to sell their home quickly. The home itself was a project home with lots of repairs that needed to be done, but the owners didn’t have the time or resources to put in the necessary repairs.
@@ -1557,11 +1951,11 @@ A while back, I worked with some attorneys who ran into a sticky situation. The 
       
       <item>
         <title>What Should You Be Doing to Your Home Before You Sell?</title>
-        <link>localhost:4000/puget-sound-real-estate-home-seller-tips.html</link>
+        <link>http://sandyandcompanyvideos.com/puget-sound-real-estate-home-seller-tips.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-04-23 12:14:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1579,11 +1973,15 @@ If you don’t have the time to do these things for yourself, I know excellent c
 As always, if you need assistance when you’re buying or selling in Marysville, please don’t hesitate to contact me.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Today I’ll be giving you advice on certain things you should not be doing to your home before you go to sell it, and then I’ll also give some suggestions on other things that you can do instead.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Today I’ll be giving you advice on certain things you should not be doing to your home before you go to sell it, and then I’ll also give some suggestions on other things that you can do instead.
@@ -1594,11 +1992,11 @@ Today I’ll be giving you advice on certain things you should not be doing to y
       
       <item>
         <title>Are You Looking for Free Tools and Resources?</title>
-        <link>localhost:4000/puget-sound-real-estate-available-tools.html</link>
+        <link>http://sandyandcompanyvideos.com/puget-sound-real-estate-available-tools.html</link>
         
-          <category>Other</category>
+          <category>More From Sandy & Company</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-04-22 15:23:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1614,11 +2012,15 @@ Please let me know which tools you’re looking for- I’m gathering the equipme
 As always, please contact me if you’re looking to buy or sell in Puget Sound.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+Do you have a project that you’re waiting to complete because you don’t have the right tools? Depending on what you need, tools can be extremely expensive.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 Do you have a project that you’re waiting to complete because you don’t have the right tools? Depending on what you need, tools can be extremely expensive.
@@ -1629,11 +2031,11 @@ Do you have a project that you’re waiting to complete because you don’t have
       
       <item>
         <title>Spring Activities in Puget Sound That Everyone Can Enjoy</title>
-        <link>localhost:4000/marysville-spring-vacation-ideas-march.html</link>
+        <link>http://sandyandcompanyvideos.com/marysville-spring-vacation-ideas-march.html</link>
         
-          <category>Other</category>
+          <category>More From Sandy & Company</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-03-24 13:41:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1651,11 +2053,15 @@ We would love for you to share ideas on what you do for fun in this area. We’r
 As always, please refer to us with any questions you might have about our local real estate market. We’re always here to help you - except for when we’re out enjoying this beautiful area!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+We’re extremely fortunate here in the Pacific Northwest to have such great scenery around us. There is so much for us to do -  we have mountains, oceans, and much more.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 We’re extremely fortunate here in the Pacific Northwest to have such great scenery around us. There is so much for us to do -  we have mountains, oceans, and much more.
@@ -1666,11 +2072,11 @@ We’re extremely fortunate here in the Pacific Northwest to have such great sce
       
       <item>
         <title>How Can You Take Advantage of Puget Sound Real Estate?</title>
-        <link>localhost:4000/marysville-real-estate-market-update.html</link>
+        <link>http://sandyandcompanyvideos.com/marysville-real-estate-market-update.html</link>
         
-          <category>Market Update</category>
+          <category>Market Updates</category>
         
-        <author></author>
+        <author>Sandy Eagon</author>
         <pubDate>2015-03-23 14:24:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1687,11 +2093,15 @@ Thanks for tuning in again, I hope this information will be helpful to you when 
 
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://sandyandcompanyvideos.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>
+
+In order to prepare you for a successful spring real estate transaction, I’d like to share some information with you in the hopes that you can use it to your own advantage when you enter the real estate market.
+
+</itunes:subtitle>
+        <itunes:author>Sandy Eagon</itunes:author>
         <itunes:summary>
 
 In order to prepare you for a successful spring real estate transaction, I’d like to share some information with you in the hopes that you can use it to your own advantage when you enter the real estate market.
@@ -1700,9 +2110,9 @@ In order to prepare you for a successful spring real estate transaction, I’d l
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+    <copyright>Sandy Eagon</copyright>
+    <media:credit role="author">Sandy Eagon</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from --CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Sandy &amp; Company Real Estate - your professional  Real Estate Agents.</media:description>
   </channel>
 </rss>

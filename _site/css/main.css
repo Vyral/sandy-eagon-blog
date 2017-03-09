@@ -1,4 +1,7 @@
 @charset "UTF-8";
+p {
+  font-size: 18px; }
+
 /* ==========================================================================
    Normalize.scss settings
    ========================================================================== */
@@ -1367,9 +1370,7 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 28rem;
-  -webkit-filter: drop-shadow(0 2px 7px black);
-  filter: drop-shadow(0 2px 7px black); }
+  max-width: 28rem; }
 
 .site-title {
   color: white;
