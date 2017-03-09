@@ -16,9 +16,9 @@ youtube_code: htEUsznozAg
 
 {% include youtube.html %}
 
-When you buy a home, the strong temptation is  to grab the keys and move in immediately. But there are a few things to do before you bring in that first box.
+When you buy a home, the strong temptation is to grab the keys and move in immediately. But there are a few things to do before you bring in that first box.
 
-First, look at your key. How many people have had access to your new home before you bought it? The previous owner may have given spare keys to friends, family members, and the neighbor's cousin. **This is a good time to change those locks. Either call a locksmith and having your locks re-keyed or buy new hardware and switch them out.**
+First, look at your key. How many people have had access to your new home before you bought it? The previous owner may have given spare keys to friends, family members, and the neighbor's cousin.&nbsp;**This is a good time to change those locks. Either call a locksmith and having your locks re-keyed or buy new hardware and switch them out.**
 
 Secondly, change out the air filter in the furnace. The previous owner had different scents, so make the home your own by breathing in that fresh air.
 
@@ -26,7 +26,7 @@ Secondly, change out the air filter in the furnace. The previous owner had diffe
 
 Finally, check out the toilet seats. Put seats on there that are clean and look good without any cracking paint or broken hinges.
 
-Soon you'll settle into daily life in the new home. That doesn’t mean you should neglect home maintenance. Everyone forgets some of the regular maintenance routine, **so we have a quick list of things to share that you should keep up with regularly in your home.**
+Soon you'll settle into daily life in the new home. That doesn’t mean you should neglect home maintenance. Everyone forgets some of the regular maintenance routine,&nbsp;**so we have a quick list of things to share that you should keep up with regularly in your home.**
 
 1. Service the furnace by swapping out the previously mentioned air filter twice per year.
 
