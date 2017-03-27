@@ -4,7 +4,7 @@ title: How Do You Make Big Decisions?
 tags:
   - Buyer Tips
 excerpt: 'Life is like a box of chocolates, or maybe it’s like a bowl of cherries. I believe that making big life decisions is like the Now and Later candy; all of the life decisions that you make have something to do with now and something to do with later. So, how do you make those big decisions?'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Email+Assets/Puget+Sound+Real+Estate+Agent-+3+tips+for+making+big+life+decisions.mp4'
 pullquote: Make sure that what you see is really what you’ll get.
 enclosure_type: video/mp4
 enclosure_time:
