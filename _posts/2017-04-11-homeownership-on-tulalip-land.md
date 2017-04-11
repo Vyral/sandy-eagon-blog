@@ -4,7 +4,7 @@ title: Homeownership on Tulalip Land
 tags:
   - Buyer Tips
 excerpt: 'Today I wanted to talk about land on the Tulalip Reservation, which can either be leased land from the Fryeburgs or it can be deeded.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Purchasing+a+home+on+the+Tulalip+Reservation.mp4'
 pullquote: 'When you buy a home on Tulalip leased land, you pay a monthly or annual lease fee.'
 enclosure_type: video/mp4
 enclosure_time:
