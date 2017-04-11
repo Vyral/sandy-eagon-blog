@@ -22,7 +22,7 @@ If it's leased, then the lease is either through the Tulalip Tribe or through th
 
 **When the land is owned by the tribe you pay them a monthly lease fee that's based on the value of the land and reassessed every three years.**
 
-**When you lease from the Fryberg family—who are part of the Tulalip Tribe and own the land—you pay an annual lease fee to them.**&nbsp;The Fryberg leases are overseen by the Bureau of Indian Affairs. The Fryberg family leased land is reassessed every five years.
+**When you lease from the Fryberg family—who are part of the Tulalip Tribe and own the land—you pay an annual lease fee to them.** The Fryberg leases are overseen by the Bureau of Indian Affairs. The Fryberg family leased land is reassessed every five years.
 
 {% include pullquote.html %}
 
