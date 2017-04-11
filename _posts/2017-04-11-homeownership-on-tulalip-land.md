@@ -8,9 +8,9 @@ enclosure:
 pullquote: 'When you buy a home on Tulalip leased land, you pay a monthly or annual lease fee.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/hwS-R0vVgAo'
+youtube_code: hwS-R0vVgAo
 ---
 
 
