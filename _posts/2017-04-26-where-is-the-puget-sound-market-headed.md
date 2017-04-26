@@ -5,7 +5,7 @@ tags:
   - Market Update
 excerpt: The question of “Where is our market headed?” is one that I get a lot. I’m going to answer it today.
 enclosure:
-pullquote: We’re in line for a market stabilization.
+pullquote: The question of “Where is our market headed?” is one that I get a lot. I’m going to answer it today.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
