@@ -18,7 +18,7 @@ youtube_code: bgrQnLV1j2U
 
 The question of “Where is our market headed?” is one that I get a lot. I’m going to answer it today.
 
-**The direction the market is heading is a concern for both buyers and sellers.**&nbsp;Sellers want to make sure they don’t miss out on the top price, and buyers want to make sure they don’t pay too much.
+**The direction the market is heading is a concern for both buyers and sellers.** Sellers want to make sure they don’t miss out on the top price, and buyers want to make sure they don’t pay too much.
 
 Compared to last year, our growth has slowed a little bit. But make no mistake—our market is still growing. Although we saw an incredible 13.2% growth in 2016 and that number is down to 10.4% in 2017, any appreciation rate close to 10% is outstanding.
 
