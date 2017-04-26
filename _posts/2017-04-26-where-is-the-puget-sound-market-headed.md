@@ -4,7 +4,7 @@ title: Where Is the Puget Sound Market Headed?
 tags:
   - Market Update
 excerpt: The question of “Where is our market headed?” is one that I get a lot. I’m going to answer it today.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+An+update+on+the+Puget+Sound+real+estate.mp4'
 pullquote: The question of “Where is our market headed?” is one that I get a lot. I’m going to answer it today.
 enclosure_type: video/mp4
 enclosure_time:
