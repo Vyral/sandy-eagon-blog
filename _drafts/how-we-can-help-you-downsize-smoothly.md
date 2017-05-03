@@ -22,7 +22,7 @@ Now this neighbor is a number of months late on her mortgage payment. She’s be
 
 {% include pullquote.html %}
 
-If you’re asking yourself this same question, **we have the resources and know many experts who specialize in assisting with the downsizing process.** They can clear out any clutter and help you sift through the loads of paperwork that you don’t need to hang on to anymore. We also know people who can help you find your next place and help you determine if you’re capable of maintaining your own apartment or you would like some assisted living.
+If you’re asking yourself this same question, **we have the resources and know many experts who specialize in assisting with the downsizing process.** They can clear out any clutter and help you sift through the loads of paperwork that you don’t need to hang on to anymore. We also know people who can help you find your next place and help you determine if you’re capable of maintaining your own apartment or if you would like assisted living.
 
 These are the additional questions you need to ask yourself, and **we can help you with that at no charge**. Although I have a senior real estate specialist designation, that doesn’t really mean anything other than I have a heart for seniors and I’m ready to use my expertise for their benefit.
 
