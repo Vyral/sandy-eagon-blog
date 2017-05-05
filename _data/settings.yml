@@ -5,6 +5,8 @@ show_custom_links: true
 custom_links:
   - title: "Sandy's Toolshed"
     url: /toolshed
+  - title: "Testimonials"
+    url: /client-testimonials
 client:
   name: Sandy Eagon
   license_number:
