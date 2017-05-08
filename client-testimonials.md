@@ -46,3 +46,66 @@ layout: default
   <p class="testimonial-author"> - Nancy</p>
 
 </div>
+
+<div class="client-testimonial">
+<p class="testimonial-text">"Sandy is one of the most positive, upbeat, motivated, caring and just plain nice people I have ever worked with.  I believe she is actually interested in helping improve the lives of each and every client that is lucky enough to have come in contact with her.
+
+We had a unique situation with pretty specific needs in finding the right house.   We searched and searched with Sandy and her team, looking at house after house.  We looked at so many I was worried about Sandy giving up on us.  She never did at all.  We finally found "the house" and Sandy negotiated a great deal for us.  The very night we signed the agreement the winds came up and blew not one but three trees down on the house destroying much of the upper level.  Sandy was out there with us every step again and when it became apparent the repair project would not meet our time frame needs, it was off to look at more houses.  I just knew now she had to be sick of us and would send us on our way to find another agent, but not a chance.  With the same care and energy from day one she set out to find us a great home.  After many more appointments and miles and miles of travel for Sandy and her team, we found an even better home in a beautiful location with plenty of room and trees to enjoy for years to come.  I am amazed that Sandy always had the same big smile and enthusiasm at each property we viewed and I believe that that through all this journey to find our home we were so very lucky to have come across Sandy Eagon." </P>
+  <p class="testimonial-author"> - John. J.</p>
+
+</div>
+
+<div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/310004347&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">“The house had four offers in four days and went for $40,000 above asking. We had looked for a property two years prior, she had helped us. We had looked at 10 different options and didn’t pull the trigger on any of them and she was fine with it. We apologized and she said there’s no obligation there so we wanted to stick with her when two years later my parents were listing their house. She was really easy to work with, easy to get ahold of. Text, email, or phone. If she didn’t answer she would call back within an hour, so if you had questions it was really easy to get ahold of her.” </P>
+  <p class="testimonial-author"> - Reed </p>
+
+</div>
+
+<div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/304183447&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">“Well we had Sandy as our buying agent and we purchased our home and we closed on time and we had our house and everything was taken care of on the backend. I didn’t really have to worry about much. I was informed at all times of where the progress was at and what the issues might be and any flags that could have potentially been there in the process. I felt very looped in but at the same time I didn’t have to ask for it. They were visibly and notably on top of everything. There was something that, because we were buying in contingencies so there were some issues on my selling end. My selling agent wasn’t really involved enough and taking care of the process enough so Sandy just jumped in and reached out to the right people and tried to understand what the issues are and she helped us figure it out. That definitely wasn’t her job to do. She also put us in touch with some CPAs and lawyers when we had some tax questions about the buying. So, definitely quite a few instances, these are just the two that are top of mind.” </P>
+  <p class="testimonial-author"> </p>
+
+</div>
+
+<div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301261925&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">“We got a house we wanted, we got rid of a house we didn’t want. In spite of all the little things that were caused by other things outside of her control it went really well. The buyers of our house that we were [selling] were making it difficult and she was going out of her way to help us get everything taken care of. Getting it repaired, she actually supplied us with a moving truck and couple of strong guys to help us move since we got behind the 8-ball between the buyers of our old house and getting into our new house. I mean considering all the stuff that happened it went really well. I mean there was a lot of things that got in the way, a lot of circumstantial stuff that doesn’t normally happen in the process of buying and selling homes and she was working for us on the selling and the buying aspect. Considering all the stuff that tried to sidetrack us it all went really well and she kept going above and beyond to get us where we needed to be and get into the new house.” </P>
+  <p class="testimonial-author"> </p>
+
+</div>
+
+<div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294448852&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">"Well the best way to answer that question would be that this was actually the second offer we made on a house. And the first offer we made we didn't get any feedback and the offer was turned down. But then the second offer we got some feedback from Sandy and that feedback is what helped us get the offer. It wasn't like it was a lot of information, but it was exactly what we needed because we had no idea what we were doing. This was the first time we bought a house. The Realtor we were working with wasn't as helpful but Sandy was showing the house that we eventually bought and she gave us the right tools that we needed. Other than that she was very helpful about letting us know on a day-to-day basis, schedules and things of that nature. I almost wish she'd been our Realtor, would have been really nice." </P>
+  <p class="testimonial-author"> </p>
+</div>
+
+<div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/292141789&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">"Oh the results were fantastic. We looked for a house for several years and Sandy was always there for us. She'd constantly send us updates on notes, she was right on top of everything as far as what we were looking for. We called on a Wednesday or a Thursday and said, "We're coming down for the weekend, can you meet us?" And she was there on Saturday and had houses lined up for us to look at and we bought one of those."</P>
+  <p class="testimonial-author"> - Marvin </p>
+
+</div>
+
+<div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/257297126&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">“It was great, everybody in their office, and Sandy included, handled my stress. I was crying sometimes I had to pay a bill, there was a lien on my home that I knew nothing about and they were so genuinely nice. They didn’t judge, it was just, it was great. If I had to ever do anything again she’d be my lady I’d call. I did a lot of the selling of the home, the short sale, without my husband, I mean because he was so busy, but they handled my stress. Every question, she was right there. She was like, I’ll show it, get the house and get all the paperwork [ready] don’t worry. That was above and beyond. A lot of people think oh they’re doing a short sale, no big thing. Or you know, oh look at them, they didn’t criticize or judge or do any of that and I felt comfortable with that. It made me feel good.”</P>
+  <p class="testimonial-author"> - Jodi </p>
+
+</div>
+
+<div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/257297126&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">“It was great, everybody in their office, and Sandy included, handled my stress. I was crying sometimes I had to pay a bill, there was a lien on my home that I knew nothing about and they were so genuinely nice. They didn’t judge, it was just, it was great. If I had to ever do anything again she’d be my lady I’d call. I did a lot of the selling of the home, the short sale, without my husband, I mean because he was so busy, but they handled my stress. Every question, she was right there. She was like, I’ll show it, get the house and get all the paperwork [ready] don’t worry. That was above and beyond. A lot of people think oh they’re doing a short sale, no big thing. Or you know, oh look at them, they didn’t criticize or judge or do any of that and I felt comfortable with that. It made me feel good.”</P>
+  <p class="testimonial-author"> - Jodi </p>
+
+</div>
+
+<div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/251865672&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<p class="testimonial-text">“We had been trying to sell our house with a different agent. [Then] we got Sandy. Very much of a go getter and which was appreciated because my husband and I didn’t have a whole lot of time to set up things like open houses and what not. I mean she did a lot of work setting up open houses and marketing it. [She] had a great photographer come in. If something needed to be checked at the house, my husband and I were both out of the house for a time, and sometimes we’d need a quick turnaround on looking at something and we wouldn’t be able to make it up and so she’d actually go over and handle it. Like I think there were a couple times she took the garbage can down from the road. Which I wasn’t even expecting her to do that. But that was fantastic. We had a question of the square footage and she actually went over and measured the whole house and you know did a quick estimate there just to do a quick sanity check. So that was really good.”</P>
+  <p class="testimonial-author"> - Genevieve </p>
+
+</div>
