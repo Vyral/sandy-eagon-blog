@@ -97,13 +97,6 @@ We had a unique situation with pretty specific needs in finding the right house.
 <hr>
 
 <div class="client-testimonial">
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/257297126&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-<p class="testimonial-text">“It was great, everybody in their office, and Sandy included, handled my stress. I was crying sometimes I had to pay a bill, there was a lien on my home that I knew nothing about and they were so genuinely nice. They didn’t judge, it was just, it was great. If I had to ever do anything again she’d be my lady I’d call. I did a lot of the selling of the home, the short sale, without my husband, I mean because he was so busy, but they handled my stress. Every question, she was right there. She was like, I’ll show it, get the house and get all the paperwork [ready] don’t worry. That was above and beyond. A lot of people think oh they’re doing a short sale, no big thing. Or you know, oh look at them, they didn’t criticize or judge or do any of that and I felt comfortable with that. It made me feel good.”</P>
-  <p class="testimonial-author"> - Jodi </p>
-
-<hr>
-
-<div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/251865672&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <p class="testimonial-text">“We had been trying to sell our house with a different agent. [Then] we got Sandy. Very much of a go getter and which was appreciated because my husband and I didn’t have a whole lot of time to set up things like open houses and what not. I mean she did a lot of work setting up open houses and marketing it. [She] had a great photographer come in. If something needed to be checked at the house, my husband and I were both out of the house for a time, and sometimes we’d need a quick turnaround on looking at something and we wouldn’t be able to make it up and so she’d actually go over and handle it. Like I think there were a couple times she took the garbage can down from the road. Which I wasn’t even expecting her to do that. But that was fantastic. We had a question of the square footage and she actually went over and measured the whole house and you know did a quick estimate there just to do a quick sanity check. So that was really good.”</P>
   <p class="testimonial-author"> - Genevieve </p>
