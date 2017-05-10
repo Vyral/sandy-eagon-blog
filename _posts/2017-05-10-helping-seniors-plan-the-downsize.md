@@ -4,7 +4,7 @@ title: Helping Seniors Plan the Downsize
 tags:
   - Real Estate
 excerpt: 'If you’re a homeowner who is looking to downsize, what’s the next place that works best for you?'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Helping+seniors+plan+the+downsize.mp4'
 pullquote: We’re here to help.
 enclosure_type: video/mp4
 enclosure_time:
