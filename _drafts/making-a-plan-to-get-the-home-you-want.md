@@ -26,7 +26,7 @@ First, **do you have an emergency fund?**By this I mean a sum of at least $1,000
 {% include pullquote.html %}
 {: .present-before-paste}
 
-Second, what’s happening with your debt? Is it going up or down? If this sounds familiar, you might be listening to Dave Ramsey. If not, Dave Ramsey is a financial advisor who has sound financial sense, hates debt, and wants to make sure you’re constantly moving toward being on secure ground financially so you can do what you need to do for you and your family. I highly recommend you check out his site at [DaveRamsey.com](https://www.daveramsey.com/) for more information.
+Second, what’s happening with your debt? Is it going up or down? If this sounds familiar, you might be listening to Dave Ramsey. If not, Dave Ramsey is a financial advisor who has sound financial sense, hates debt, and wants to make sure you’re constantly moving toward being on secure ground financially so you can do what you need to do for you and your family. I highly recommend you check out his site at [DaveRamsey.com](https://www.daveramsey.com/){:target="_blank"} for more information.
 {: .present-before-paste}
 
 Lastly, **have you made a plan to figure out how to chunk that debt away?** If you don’t have a plan, that’s fine. Let’s talk about making one. If you do have a plan, let’s talk about how close you are and how you might accelerate yourself to be ready. It’s not just about the house payment; it’s about what’s going out and what’s coming in.
