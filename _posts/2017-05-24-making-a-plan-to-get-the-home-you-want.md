@@ -17,10 +17,10 @@ youtube_code: SDLVPXy_hVg
 {% include youtube.html %}
 {: .present-before-paste}
 
-Last night, I had some first-time homebuyers ask me if they were ready to purchase and what I thought of their situation. In response, I had a couple questions for them. These questions are the same ones you need to ask yourself if you’re in a similar situation so you can make a plan to get the home you want. &nbsp;
+Last night, I had some first-time homebuyers ask me if they were ready to purchase and what I thought of their situation. In response, I had a couple questions for them. These questions are the same ones you need to ask yourself if you’re in a similar situation so you can make a plan to get the home you want.
 {: .present-before-paste}
 
-First, **do you have an emergency fund?&nbsp;**By this I mean a sum of at least $1,000 set aside for when certain things go wrong—maybe the car needs new brakes or the hot water heater needs to be replaced. These are things that you know will happen at some point in the future, but you just don’t know when. It’s not an unexpected expense; it’s an unscheduled expense.
+First, **do you have an emergency fund?**By this I mean a sum of at least $1,000 set aside for when certain things go wrong—maybe the car needs new brakes or the hot water heater needs to be replaced. These are things that you know will happen at some point in the future, but you just don’t know when. It’s not an unexpected expense; it’s an unscheduled expense.
 {: .present-before-paste}
 
 {% include pullquote.html %}
