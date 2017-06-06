@@ -3,7 +3,7 @@ layout: post
 title: Don’t Become a Hog in This Market
 tags:
   - Home Seller Tips
-excerpt: 'I met an awesome couple about a month ago who were looking to sell their condo and buy a home with more space. When we got ready to price their condo, we looked at what the most recent sales numbers were...'
+excerpt: 'I met an awesome couple about a month ago who were looking to sell their condo and buy a home with more space. When we got ready to price their condo, we looked at what the most recent sales numbers were. We listed for the same as the last identical sale, knowing that the market would bring the price up all on its own.'
 enclosure:
 pullquote: 'To our surprise, the appraisal came in at $250,000.'
 enclosure_type: video/mp4
