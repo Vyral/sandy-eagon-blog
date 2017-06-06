@@ -20,7 +20,7 @@ I met an awesome couple about a month ago who were looking to sell their condo a
 <br>&nbsp;
 <br>In a market like this, you want to be a little bit under where buyers will come in so they feel like they have a bit of control and they can then push you up to where you want to go and you can get the benefit of that competition.
 <br>&nbsp;
-<br>We priced the condo at $210,000 and lo and behold, we got six offers in two days. The highest offer was all the way up at $250,000!. The big question now whether the condo was going to appraise because it sold for so much higher than any comparable condos.
+<br>We priced the condo at $210,000 and lo and behold, we got six offers in three days. The highest offer was all the way up at $250,000!. The big question now whether the condo was going to appraise because it sold for so much higher than any comparable condos.
 
 {% include pullquote.html %}
 
