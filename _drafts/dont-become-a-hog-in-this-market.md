@@ -24,7 +24,7 @@ I met an awesome couple about a month ago who were looking to sell their condo a
 
 {% include pullquote.html %}
 
-We knew we didn’t have time to mess around if the appraisal came in low, so the sellers agreed that they would accept the price at whatever the appraisal came in at and move forward. To our surprise (and our excitement), the appraisal came in at $250,000! My clients got everything they needed and more. They are absolutely ecstatic and so are we.
+**We knew we didn’t have time to mess around if the appraisal came in low**, so the sellers agreed that they would accept the price at whatever the appraisal came in at and move forward. To our surprise (and our excitement), the appraisal came in at $250,000! My clients got everything they needed and more. They are absolutely ecstatic and so are we.
 <br>&nbsp;
 <br>What does this have to do with pigs and hogs? Well, my lender has a phrase that goes like this: “Pigs get fat but hogs get slaughtered.” It’s one thing to get nice, fat, and sassy about where you could possibly sell your home at; it’s another to become a hog and demand that a buyer pay the price even if the appraisal comes in under that number and their lender won’t lend on the full amount. **Just something to keep in mind if you or someone you know is in a similar situation.**
 <br>&nbsp;
