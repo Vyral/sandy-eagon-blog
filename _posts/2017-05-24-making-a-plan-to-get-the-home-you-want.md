@@ -4,7 +4,7 @@ title: Making a Plan to Get the Home You Want
 tags:
   - Buyer Tips
 excerpt: 'Last night, I had some first-time homebuyers ask me if they were ready to purchase and what I thought of their situation. In response, I had a couple questions for them. These questions are the same ones you need to ask yourself if you’re in a similar situation so you can make a plan to get the home you want.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Making+a+home+purchasing+plan.mp4'
 pullquote: Let  me help you figure out a plan to get the home you want.
 enclosure_type: video/mp4
 enclosure_time:
