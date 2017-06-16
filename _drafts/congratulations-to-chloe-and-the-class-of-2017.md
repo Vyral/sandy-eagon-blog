@@ -3,7 +3,7 @@ layout: post
 title: Congratulations to Chloe and the Class of 2017
 tags:
   - 'More From Sandy & Company'
-excerpt:
+excerpt: 'I want to take a step away from the real estate market for a moment to talk about my darling Chloe, who graduates from community college this month. We are celebrating that big life step in our family.'
 enclosure:
 pullquote: I am so excited for Chloe and her bright future.
 enclosure_type: video/mp4
@@ -32,7 +32,7 @@ I said, “Why don’t you go work for NASA and bake on the weekends?”
 Chloe is good at really big math problems, but having to do that all the time was just not her cup of tea, and she really loved to bake. So, she went to community college to study business administration and prepare to open the bakery. When she took her first accounting class, she found that this step really made sense for her.
 {: .present-before-paste}
 
-**I am so proud of Chloe.** &nbsp;She is totally open to looking at the different parts of her life, figuring out how to make things work, and she has found something that really makes sense for her. She just finished up at Everett Community College and she will move to the University of Washington Bothell campus in the fall.
+**I am so proud of Chloe.**  She is totally open to looking at the different parts of her life, figuring out how to make things work, and she has found something that really makes sense for her. She just finished up at Everett Community College and she will move to the University of Washington Bothell campus in the fall.
 {: .present-before-paste}
 
 {% include pullquote.html %}
