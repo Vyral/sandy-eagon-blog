@@ -26,7 +26,7 @@ I asked, “Why don’t you go work for NASA and bake on the weekends?”
 
 Chloe is good at really big math problems, but having to do that all the time was just not her cup of tea. And she really loved to bake. So, she went to community college to study business administration and prepare to open the bakery. When she took her first accounting class, she realized how much accounting made sense for her.
 
-**I am so proud of Chloe.** She just finished up at Everett Community College and she will move to the University of Washington Bothell campus in the fall.
+**I am so proud of Chloe.**&nbsp;She just finished up at Everett Community College and she will move to the University of Washington Bothell campus in the fall.
 
 {% include pullquote.html %}
 
@@ -34,7 +34,7 @@ These transitions give us opportunity. How great is it that we get to celebrate 
 
 I am so excited for Chloe and her future. She’s made some awesome steps. She has been working for Chick-fil-A for the last year and before that she worked at Alfie’s. She's been so strong and responsible, and I am excited because her future is bright.
 
-I hope that you take the time to talk to your own graduates and tell them how proud you are. After all, they’ve done something really big, whether they are graduating from some other school or training program. They are taking a step forward, making themselves better, and **working to be the best person they can be.**
+I hope that you take the time to talk to your own graduates and tell them how proud you are. After all, they’ve done something really big, whether they are graduating from high school, college or some other training program. They are taking a step forward, making themselves better, and&nbsp;**working to be the best person they can be.**
 
 This is the time of year to celebrate your family and friends’ accomplishments. So, I would like to take a minute to say:
 
