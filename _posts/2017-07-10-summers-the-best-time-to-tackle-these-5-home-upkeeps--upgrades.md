@@ -26,8 +26,8 @@ Summer can be a great time for some to-do list items around the house that are a
 
 {% include pullquote.html %}
 
-**4. The driveway:**This could mean just cleaning if there are no big cracks that trip people or chunks of grass growing through. I'll even lend you my power washer if you need it! Is it time to pour new concrete? Options from aggregate to stamping designs can change your driveway to beautiful and inviting.
+**4. The driveway:&nbsp;**This could mean just cleaning if there are no big cracks that trip people or chunks of grass growing through. I'll even lend you my power washer if you need it! Is it time to pour new concrete? Options from aggregate to stamping designs can change your driveway to beautiful and inviting.
 
-**5. Yard space:** Where do you gather with your family and friends? Updating your yard can be as easy as putting in a fire pit, or you could go the outdoor kitchen route with a grill, oven, and a cover for year-round entertaining. Covered decks and patios are important in our part of the country where clear skies are a little less dependable. You could also add in some game spots like horseshoes or a volleyball net. Make your yard a place that you can enjoy as an extension of your home.
+**5. Yard space:**&nbsp;Where do you gather with your family and friends? Updating your yard can be as easy as putting in a fire pit, or you could go the outdoor kitchen route with a grill, oven, and a cover for year-round entertaining. Covered decks and patios are important in our part of the country where clear skies are a little less dependable. You could also add in some game spots like horseshoes or a volleyball net. Make your yard a place that you can enjoy as an extension of your home.
 
 If you have any questions or you're looking for recommendations for the best tasks to tackle in your home this summer, or you're looking to make a move this season, give me a call or send me an email. I'd love to help you!
