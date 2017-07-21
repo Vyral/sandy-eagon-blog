@@ -3,7 +3,7 @@ layout: post
 title: An Unexpected but Welcome Summer Vacation
 tags:
   - 'More From Sandy & Company'
-excerpt: 'My family was supposed to head up to Victoria, B.C. over the 4th of July for some much needed relaxation time. However, not everyone could make it so we decided to scratch the plans for now and stay in the beautiful NW instead.'
+excerpt: 'My family was supposed to head up to Victoria, B.C. over the last days of June for some much-needed relaxation time. However, not everyone could make it so we decided to scratch the plans for now and stay in the beautiful NW instead.'
 enclosure:
 pullquote: I accomplished quite a bit.
 enclosure_type: video/mp4
@@ -15,19 +15,13 @@ youtube_code: WjCAV1YPmMI
 
 
 {% include youtube.html %}
-{: .present-before-paste}
 
-My family was supposed to head up to Victoria, B.C. over the 4th of July for some much needed relaxation time. However, not everyone could make it so we decided to scratch the plans for now and stay in the beautiful NW instead. It was fine because I was still able to spend time with the people I love.
-{: .present-before-paste}
+My family was supposed to head up to Victoria, B.C. over the last days of June for some much-needed relaxation time. However, not everyone could make it so we decided to scratch the plans for now and stay in the beautiful NW instead. It was fine because I was still able to spend time with my awesome peeps.
 
-**I also accomplished quite a bit during my time off.** I spent some time cleaning my garage and even fixed a shelf in there. I also planted a new cherry tree in the yard from Flower World and other assorted plants from Sunnyside Nursery.
-{: .present-before-paste}
+**I also accomplished quite a bit during my time off.** I cleaned my garage and fixed a shelf that had fallen off. We planted a new cherry tree from **[Flower World](http://www.flowerworldusa.com/)** and other assorted color spots from **[Sunnyside Nursery](http://www.sunnysidenursery.net/)**. Our yard is looking good!
 
 {% include pullquote.html %}
-{: .present-before-paste}
 
-I was even able to do some golfing up at Semiahmoo and had a lovely time up there. Between the time around home, in nurseries, and at the golf course, I was rejuvenated when it was time to go back to work. **I was able to spend my vacation at the places I love with the people I love and it was exactly what I needed.**
-{: .present-before-paste}
+I had dinner one night with my dear friend in Bellingham, and Don and I golfed up at **[Semiahmoo](http://www.semiahmoo.com/)**- it's gorgeous up there! With relaxing time around home, in nurseries, and at the golf course, I was rejuvenated when it was time to go back to work. **I was able to spend my time off at the places I love with the people I love: exactly what I needed.**
 
-I would love to hear what you’re doing for fun and relaxation this summer. If you want to let me know or if you have any questions about real estate, give me a call or send me an email. I look forward to hearing from you.
-{: .present-before-paste}
+I would love to how you're getting fun and relaxation this summer. Let me know! Or if you have any questions about real estate, give me a call, facebook message me or send me an email. I look forward to hearing from you.
