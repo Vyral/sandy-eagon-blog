@@ -24,4 +24,4 @@ My family was supposed to head up to Victoria, B.C. over the last days of June f
 
 I had dinner one night with my dear friend in Bellingham, and Don and I golfed up at **[Semiahmoo](http://www.semiahmoo.com/)**- it's gorgeous up there! With relaxing time around home, in nurseries, and at the golf course, I was rejuvenated when it was time to go back to work. **I was able to spend my time off at the places I love with the people I love: exactly what I needed.**
 
-I would love to how you're getting fun and relaxation this summer. Let me know! Or if you have any questions about real estate, give me a call, facebook message me or send me an email. I look forward to hearing from you.
+I would love to how you're getting fun and relaxation this summer. Let me know! Or if you have any questions about real estate, give me a call, Facebook message me or send me an email. I look forward to hearing from you.
