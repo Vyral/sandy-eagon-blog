@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: uChuQ8pf5tg
+youtube_code: qBMH-VXXbzU
 ---
 
 
@@ -18,11 +18,11 @@ youtube_code: uChuQ8pf5tg
 
 Have you ever been curious about who our lenders use for their Realtors?
 
-The truth is that everyone from our lenders, our title representatives, and our inspectors see a lot of agents each day.
+The truth is that everyone from our lenders, our title representatives, and our inspectors see a lot of agents each day. &nbsp;
 
 Since they work so closely with so many agents, they’ve come to understand the difference between an agent who serves their clients and one who may not do so much.
 
-Recently, one of my lenders sent me to his colleague who was looking to buy a duplex with her husband. The plan was for them to live in one side while close family lived in the other.
+Recently, one of my lenders sent me to his colleague who was looking to buy a duplex with her husband. The plan was for them to live in one side while a close family lived in the other.
 
 {% include pullquote.html %}
 
