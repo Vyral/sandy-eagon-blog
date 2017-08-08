@@ -18,7 +18,7 @@ youtube_code: qBMH-VXXbzU
 
 Have you ever been curious about who our lenders use for their Realtors?
 
-The truth is that everyone from our lenders, our title representatives, and our inspectors see a lot of agents each day. &nbsp;
+The truth is that everyone from our lenders, our title representatives, and our inspectors see a lot of agents each day.
 
 Since they work so closely with so many agents, they’ve come to understand the difference between an agent who serves their clients and one who may not do so much.
 
