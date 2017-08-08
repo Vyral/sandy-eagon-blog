@@ -4,7 +4,8 @@ title: What Kind of Agents Do Lenders Recommend?
 tags:
   - Real Estate
 excerpt: Have you ever been curious about who our lenders use for their Realtors?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Whom+do+lenders+trust%253F.mp4
 pullquote: My buyers won this home because this lender knew me and my skills.
 enclosure_type: video/mp4
 enclosure_time:
