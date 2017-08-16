@@ -25,9 +25,9 @@ You may know that buying and selling real estate is one of the top five most str
 
 One of my couples was buying a new home, and in the beginning it was a truly exciting time for them. But then they ran into an issue with the lender, who was creating problems where there weren't any.
 
-At one point, the husband told me something that I could totally relate to: “I know I’m supposed to give this to God, but I just keep going back and picking it back up again.” I’m sure you can relate to that.
+At one point, the husband told me something that I could totally relate to: “I know I’m supposed to give this to God, but I just keep going back and picking it back up again.” **I’m sure you can relate to that.**
 
-Then I began to look at their situation a little differently. God said repeatedly in the Bible, “Remember when...” &nbsp;Over and over, he provided for his chosen people what they needed, at the exact moment that they needed it. And then God told them to remember those times of his provision when they had another crisis. These memories built their faith and confidence. **So I told my client, “I think the Lord is creating a ‘remember when’ moment for you.”**
+Then I began to look at their situation a little differently. God said repeatedly in the Bible, “Remember when…” &nbsp;Over and over, he provided for his chosen people what they needed, at the exact moment that they needed it. And then God told them to remember those times of his provision when they had another crisis. These memories built their faith and confidence. **So I told my client, “I think the Lord is creating a ‘remember when’ moment for you.”**
 
 We can't remember when he did great things for us if we didn't have those moments to go through in the first place. Later on, he'll remember that the Lord's provision came through for him before. And it will again. Because God's goodness never changes- he is the same yesterday, today and tomorrow.
 
