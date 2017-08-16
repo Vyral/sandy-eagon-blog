@@ -9,8 +9,8 @@ excerpt: >-
   death, divorce, and losing a job.
 enclosure:
 pullquote: >-
-  The words in the Bible are supposed to help us understand what’s happening in
-  our lives at the current moment.
+  The  Bible helps us understand what’s happening in our lives at the current
+  moment.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -23,18 +23,20 @@ youtube_code: swEPkDyn0WU
 
 You may know that buying and selling real estate is one of the top five most stressful things that someone can go through in their life, right along with death, divorce, and losing a job.
 
-One of my clients was going through the stress of buying a new home, and in the beginning, it was a truly exciting time for them. They ran into an issue with the lender, who was creating problems with my client where there didn’t need to be any.
+One of my couples was buying a new home, and in the beginning it was a truly exciting time for them. But then they ran into an issue with the lender, who was creating problems where there weren't any.
 
-We were discussing together how to deal with this lender issue, and my client had done everything they could to get the process moving again. He told me something while we were working on it that really resonated with me: “I know I’m supposed to give this to God, but I just keep going and picking it back up again.” **I’m sure you can relate to that.**
+At one point, the husband told me something that I could totally relate to: “I know I’m supposed to give this to God, but I just keep going back and picking it back up again.” I’m sure you can relate to that.
 
-Then I began to look at that situation a little differently. God has said over and over in the Bible, “Remember when.” **Over and over, God provided for his chosen people what they needed**, **at the exact moment that they needed it.** And I told my client, “I think the Lord is creating a ‘remember when moment’ for you.”
+Then I began to look at their situation a little differently. God said repeatedly in the Bible, “Remember when...” &nbsp;Over and over, he provided for his chosen people what they needed, at the exact moment that they needed it. And then God told them to remember those times of his provision when they had another crisis. These memories built their faith and confidence. **So I told my client, “I think the Lord is creating a ‘remember when’ moment for you.”**
+
+We can't remember when he did great things for us if we didn't have those moments to go through in the first place. Later on, he'll remember that the Lord's provision came through for him before. And it will again. Because God's goodness never changes- he is the same yesterday, today and tomorrow.
 
 {% include pullquote.html %}
 
-I had to remind my client that even though the situation seemed hopeless, and was getting worse, that if he continued to rely on God, then we would see some positive results. What ended up happening was that the lender referred us to someone who could help with the transaction. Eight days after we began working with a new lender, I was handing my client the keys to his new home.
+I reminded my client that even though the situation seemed hopeless to him, if he stopped worrying about what-if's and focused instead on building that airplane (he's a Boeing guy), and let God take care of this, he was going to turn out okay. Ultimately, the lender referred us to someone else who could finish his loan. Eight days after we began working with this new lender, I was handing my clients the keys to their new home.
 
-**God has promised to provide for us.&nbsp;**He says in Deuteronomy 31:6, “Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; he will never leave you nor forsake you.” That sentiment is echoed in Hebrew 13:5 and Philippians 4:19.
+**God promises to provide for us.** He says in Deuteronomy 31:6, “Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; he will never leave you nor forsake you.” That's echoed in Hebrew 13:5. Philippians 4:19 says "And my God will supply all your needs according to the riches of his glory in Christ Jesus." All means ALL.
 
-The words in the Bible are supposed to help us understand what’s happening in our lives at the current moment. The real-life situations that we deal with on a regular basis aren’t just supposed to be earthly conversations, we must allow God into them.
+The Bible helps us understand what’s happening in our lives at the current moment. In the same way, our real-life issues aren’t just earthly conversations—that's why we must invite God into them on a daily basis.
 
-It was such a joy to be able to work with my client through this situation and share this heavenly experience with him. If there is anything that I can do to help you and your family, whether it be real estate or otherwise, please give me a call. I would be honored to help.
+It was such a joy to be able to work with my client through this situation and share this faith experience with him. If there is anything that I can do to help you and your family, whether it be real estate or otherwise, please give me a call. I would be honored to help.
