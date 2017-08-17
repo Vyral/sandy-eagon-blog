@@ -7,7 +7,8 @@ excerpt: >-
   You may know that buying and selling real estate is one of the top five most
   stressful things that someone can go through in their life, right along with
   death, divorce, and losing a job.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Building+your+faith+in+your+everyday+life.mp4
 pullquote: >-
   The  Bible helps us understand what’s happening in our lives at the current
   moment.
