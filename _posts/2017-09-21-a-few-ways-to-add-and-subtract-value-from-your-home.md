@@ -22,11 +22,13 @@ youtube_code: ZB5prLFCUcQ
 If you’re thinking about selling your home in the near future, making some upgrades isn’t a bad idea. However, you need to know the difference between which renovations you should do and which you should avoid.
 
 We’ve got six different upgrade tips for you today. Two of them are things you should absolutely do if they apply to you. Two of them are things that you want to do if you can afford them. There are also two upgrades that you shouldn’t even consider.
+
 <u>The Must Do&rsquo;s</u>
 
 **1. Your siding.** If you have older siding that is buckling or expanding, it’s time to take a look at some new siding. Buyers will look at how well you took care of the structure of your home and if you’re letting water in through your siding, it doesn't matter what your kitchen looks like.
 
-**2. Replace aluminum windows.**Use vinyl, double-pane windows instead, so the buyer of your home has the lowest possible energy bills.
+**2. Replace aluminum windows.&nbsp;**Use vinyl, double-pane windows instead, so the buyer of your home has the lowest possible energy bills.
+
 <u>The Want-to-Do&rsquo;s</u>
 
 **1. The kitchen.** Making upgrades here can get you an 85% return on your investment. However, you want to keep the budget of this project within 20% of your home’s value so you don’t overbuild for your neighborhood.
@@ -34,6 +36,7 @@ We’ve got six different upgrade tips for you today. Two of them are things you
 {% include pullquote.html %}
 
 **2. The bathroom.** Another area that can get you great bang for your buck is the bathroom. You can get up to an 80% return.
+
 <u>The Don&rsquo;t Do&rsquo;s</u>
 
 **1. Combining small rooms into larger rooms.** Any time you reduce the bedroom count in your home, its value is going to take a big hit, especially if you’re making a 3-bedroom a 2-bedroom. That’s going to drive away most of the families out there.
