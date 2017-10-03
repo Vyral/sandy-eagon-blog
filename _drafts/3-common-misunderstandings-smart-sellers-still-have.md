@@ -4,12 +4,9 @@ title: 3 Common Misunderstandings Smart Sellers Still Have
 tags:
   - Home Seller Tips
 excerpt: >-
-  Buying and selling real estate is a hot topic, both in the media and in casual
-  conversation. A lot of people have a lot of experience buying and selling real
-  estate, but the problem with that is sometimes that experience happened as far
-  back as 10 to 20 years ago in different places than where they’re located now.
-  In real estate, things happen differently in different times and different
-  areas.
+  There are three common misunderstandings smart sellers still have about
+  certain parts of a real estate transaction. Here’s the truth behind these
+  misunderstandings.
 enclosure:
 pullquote: >-
   Talk to a Realtor you can trust to lead you down the right path of making
