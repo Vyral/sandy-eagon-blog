@@ -28,9 +28,9 @@ Buying and selling real estate is a hot topic, both in the media and in casual c
 
 With that in mind, there are three main misunderstandings some of my smart sellers have had lately:
 
-**1. Who pays for what?** Sometimes sellers assume that in this hot seller’s market they can get the buyer to pay their closing costs, right? Wrong. The seller always pays their own fees. There’s a title fee, an escrow fee, excise tax, and commissions. And the seller pays commissions for both the buyer’s and seller’s agent. Remember, current prices reflect a market where the seller customarily pays those fees, so you’re actually getting the money for it, just not until the very end.
+**1. Who pays for what?**&nbsp;Sometimes sellers assume that in this hot seller’s market they can get the buyer to pay their closing costs, right? Wrong. The seller always pays their own fees. There’s a title fee, an escrow fee, excise tax, and commissions. And the seller pays commissions for both the buyer’s and seller’s agent. Remember, current prices reflect a market where the seller customarily pays those fees, so you’re actually getting the money for it, just not until the very end.
 
-**2. What is personal property?**I had a seller recently insist that the buyer pay him separately for his propane tank separately from the purchase price of the house. It took a while for him to understand that in this part of the country, the propane tank stays with the house because it’s connected to it and that’s how it gets its fuel. A lawnmower, on the other hand, is something you could sell to your buyer separately from the house’s purchase price.
+**2. What is personal property?&nbsp;**I had a seller recently insist that the buyer pay him separately for his propane tank separately from the purchase price of the house. It took a while for him to understand that in this part of the country, the propane tank stays with the house because it’s connected to it and that’s how it gets its fuel. A lawnmower, on the other hand, is something you could sell to your buyer separately from the house’s purchase price.
 
 {% include pullquote.html %}
 
@@ -38,7 +38,7 @@ With that in mind, there are three main misunderstandings some of my smart selle
 
 Some of these things are common sense, and some can be a different way of viewing a real estate transaction. It doesn’t mean you’re stupid; it just means you’ve looked at something differently than the way it’s done here and now.
 
-This is why it’s so important to **talk to a Realtor you can trust to lead you down the right path of making smart decisions** and you don’t end up shooting yourself in the foot.
+This is why it’s so important to&nbsp;**talk to a Realtor you can trust to lead you down the right path of making smart decisions**&nbsp;and you don’t end up shooting yourself in the foot.
 
 If you have any questions about this how it's really done or you’re thinking of buying or selling a home in our Puget Sound market, don’t hesitate to give me a call or shoot me an email. I’d love to help you.
 
