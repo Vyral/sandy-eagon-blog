@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   There are a couple of great ways that you can be a hero around the
   Thanksgiving or Christmas dinner table.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Be+the+hero+this+holiday+season.mp4
 pullquote: >-
   Nine times out of 10, I help these referrals and end up liking them in the
   process.
