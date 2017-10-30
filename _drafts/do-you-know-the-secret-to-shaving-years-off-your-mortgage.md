@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: hNnHyJvESSg
 ---
 
 
@@ -30,7 +30,7 @@ At the beginning of this year, I decided I wanted to be at a certain point in my
 
 After that, **I found the difference between these two figures and divided that number into 12 payments to add on top of my mortgage.** If you are looking for wealth, use this tip.
 
-How much of a difference did this actually make? Well, using a loan term calculator that you can find here, I did some math. It turns out that I’m shaving off 14 years from my mortgage by doing this. **Additionally, I’m saving about $90,000 &nbsp;in interest that I won’t have to pay over the term of my mortgage.**
+How much of a difference did this actually make? Well, using a loan term calculator that you can find here, I did some math. It turns out that I’m shaving off 14 years from my mortgage by doing this. **Additionally, I’m saving about $90,000  in interest that I won’t have to pay over the term of my mortgage.**
 
 Many of us are guilty of simply seeing a number on our statement and just paying that particular amount. But, this doesn’t have to be your strategy. Just imagine all that you could be saving by using this simple tip. You can implement this incrementally, as well.
 
