@@ -24,7 +24,7 @@ There are a couple of great ways that you can be a hero around the Thanksgiving 
 
 When I talk with my clients and friends about how we can help their family and friends with their home purchase or sale, I often hear something like, “My sister would be a great person you could help.” Other times, I hear something like, “Well, my cousin Bob needs help, but you don’t want to work with him.”
 
-We may be able to help your cousin Bob and&nbsp;**make you a hero by being his real estate resource.**
+We may be able to help your cousin Bob and **make you a hero by being his real estate resource.**
 
 Some of our family and friends can be hard to please. Let me decide who I can best work with.
 
@@ -34,7 +34,7 @@ Since I work with them in a professional setting, I can be professional and let 
 
 It doesn’t always mean that it’s going to be peaches and cream or that I’m going to be sitting around eating pizza with them on a Seahawks game day. However, I can keep this transaction professional and still make them feel good since we were able to get their house sold.
 
-The first way you can be a hero is to tell your friend or relative, “You should talk to Sandy. She has helped a lot of people over the last 14 years and she has &nbsp;great ideas to help you.”
+The first way you can be a hero is to tell your friend or relative, “You should talk to Sandy. She has helped a lot of people over the last 14 years and she has  great ideas to help you.”
 
 The second is to tell them, “I’m going to have Sandy call you. Sandy has helped so many people in our area over the last 14 years. She is an expert and a resource. She’s patient and she will help you get through this process and get your next home.”
 
