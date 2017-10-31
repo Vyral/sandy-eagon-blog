@@ -3,7 +3,9 @@ layout: post
 title: Do You Know the Secret to Shaving Years off Your Mortgage?
 tags:
   - Buyer Tips
-excerpt:
+excerpt: >-
+  Today, I’ve got one easy way you can pay your mortgage off sooner and
+  ultimately for less money.
 enclosure:
 pullquote: I’m shaving 14 years off my mortgage by using this tip.
 enclosure_type: video/mp4
