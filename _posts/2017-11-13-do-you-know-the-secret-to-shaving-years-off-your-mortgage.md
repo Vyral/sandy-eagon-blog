@@ -35,7 +35,7 @@ So I found what I was paying in principal only each month, and where that would 
 
 Then I **subtracted my goal number from the number it would be without any different payment. I divided that difference by 12 (for each month).** That number plus my regular payment was doable for me. If you are looking for wealth, use this tip.
 
-How much of a difference did this actually make? Well, using a loan term calculator that you can find [here](http://www.free-online-calculator-use.com/missing-term-loan-calculator.html#calculator), I did some math. It turns out that I’m shaving 14 years off my mortgage. **Additionally, I’ll save about $90,000  in interest that I won’t have to pay.**
+How much of a difference did this actually make? Well, using a loan term calculator that you can find [here](http://www.free-online-calculator-use.com/missing-term-loan-calculator.html#calculator){:target="_blank"}, I did some math. It turns out that I’m shaving 14 years off my mortgage. **Additionally, I’ll save about $90,000  in interest that I won’t have to pay.**
 
 Many of us are guilty of simply seeing a number on our statement and just paying that particular amount. But this doesn’t have to be your strategy. Imagine all that you could be saving by using this simple tip. You can implement this incrementally, as well.
 
@@ -43,7 +43,7 @@ Even if you pay just $50 extra per month on your mortgage, you would still be sh
 
 **These tips can help even if you aren’t currently paying a mortgage.** Let’s say you’re making car payments right now. Use the calculator to see how a little higher payment each month can make a big difference to your bottom line. This can apply to any payment plan you're on.
 
-Now remember, if you need to take care of other areas of your finances before you can implement this strategy, visit [www.DaveRamsey.com.](https://www.daveramsey.com/)
+Now remember, if you need to take care of other areas of your finances before you can implement this strategy, visit [www.DaveRamsey.com.](https://www.daveramsey.com/){:target="_blank"}
 
 Be a great steward of your resources. What you have is what you've been given to take care of.
 
