@@ -24,7 +24,7 @@ One of the things that I constantly keep an eye on is our inventory. What’s ha
 
 In October of 2015, we had 2.2 months of supply. In October of 2016, we had 1.7 months of inventory. This past October, we only had 1.1 months of supply.
 
-When I say there is only one month of inventory, that means that if no new homes came on the market, everything would be gone in just one month. **That is the lowest amount of inventory that we have had in recorded history.**
+When I say there is only one month of inventory, that means that if no new homes came on the market, everything would be gone in just one month.&nbsp;**That is the lowest amount of inventory that we have had in recorded history.**
 
 There is a dip in the springtime, so what does that leave us with? &nbsp;
 
@@ -34,11 +34,11 @@ It was really hard. We had to ask buyers if they wanted to pay for an inspection
 
 {% include pullquote.html %}
 
-If last spring gave us two black eyes, this spring will probably give us a bloody nose. If you want to be in a home this spring, we need to talk right now about how to make this market work for you instead of against you.
+If last spring gave us two black eyes, this spring will probably give us that along with a bloody nose. If you want to be in a home this spring, we need to talk right now about how to make this market work for you instead of against you.
 
-The only ways buyers are going to have a chance is by **losing contingencies and raising offer prices.** I would rather have you in a home by January or February and have that 10% price increase work in your favor instead of making you work even harder.
+The only ways buyers are going to have a chance is by&nbsp;**losing contingencies and raising offer prices.**&nbsp;I would rather have you in a home by January or February and have that 10% price increase work in your favor instead of making you work even harder.
 
-One of my clients said, “If prices are going to be 10% higher this spring, should I wait until spring to sell?” Maybe. However, if you are looking to buy a home at the same time, you will still have to go out and buy in the spring market. Your offer will be contingent on the sale of your current home, which will only make things harder.
+One of my seller clients said, “So if prices are going to be 10% higher this spring, shouldn't I wait until spring to sell?” Maybe. However, if you are looking to buy a home at the same time, you will still have to go out and buy in the spring market.&nbsp;
 
 No matter what market you are going to buy and sell in, you are going to buy and sell in that market. I recommend that you make that happen this winter. That way, you will have peace of mind in March, April, and May while everyone else is scrambling to find a home, because you already found the home that works for you.
 
