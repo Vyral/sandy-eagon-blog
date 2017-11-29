@@ -2,7 +2,7 @@
 layout: post
 title: The Puget Sound Market Is Only Going to Get More Competitive
 tags:
-  - Home Seller Tips
+  - Buyer Tips
 excerpt: >-
   If you are thinking of buying a home this spring, then we have to talk right
   now to make this work for you.
