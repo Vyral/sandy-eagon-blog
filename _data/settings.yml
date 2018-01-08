@@ -23,7 +23,7 @@ client:
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
-  VR_form: 'http://oi.vresp.com?fid=bca494bc85'
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808112';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/SandyandCompany'
