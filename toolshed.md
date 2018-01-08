@@ -1,17 +1,55 @@
 ---
 layout: default
 ---
+
+
 # Sandy's Toolshed
 
-The newest addition to Sandy's Tool Shed: A-frame Extension Ladder!
+&nbsp;
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1634375581%2Fvideos%2F10209327521978425%2F&show_text=0&width=400" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>{:style="margin: 10px auto; display: block"}
+While you’re getting your home ready to sell let us know if you need any of the following…
+
+&nbsp;
+
+**2 Extension Ladders**
+
+**Pressure Washer**
+
+**Cordless Drill**
+
+**Cordless Bit Driver**
+
+**Circular Saw and Sawhorses**
+
+**Ratcheting Straps (for holding truck loads)**
+
+**Paint Sprayer**
+
+**Stud Finder**
+
+**Carpet Cleaner**
+
+**And more…**
+
+&nbsp;
+
+We lend them at no charge!
+
+&nbsp;
+
+If there is something else you needthat’s not on the list,just let us know and we’ll see if can help!
+
+&nbsp;
+
+The newest addition to Sandy's Tool Shed: Post Hole Digger!
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1634375581%2Fvideos%2F10209327521978425%2F&amp;show_text=0&amp;width=400" width="400" height="400" style="margin: 10px auto; display: block" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
 
 Look at Shirley's really clean sidewalk! Shirley borrowed Sandy and Company's pressure washer that we lend to clients and community members, and her son used it over Memorial Day weekend. Just another way we are your home resources, Making Lives Better!!
 
 Happiness is organized, clean shelf and storage! I bought IKEA shelves and Lowe's molly bolts, and used Sandy's Tool Shed's drill and bit driver to make it happen. Remember- We are here to help you with your home, when you're buying and selling and in between for sale prep and maintenance. We also have a pressure washer, extension ladder, circular saw, sawhorses and more! Ask us before you rent or buy that next tool! 425-422-7372
 
-<iframe width="502" height="282" src="https://www.youtube.com/embed/vWOJxDr84vk" frameborder="0" allowfullscreen></iframe>{:style="padding-bottom: 20px"}
+<iframe width="502" height="282" src="https://www.youtube.com/embed/vWOJxDr84vk" frameborder="0" allowfullscreen="" style="padding-bottom: 20px"></iframe>
 
 In my tool shed at home, I made some additions and improvements. I’d like to share them with you today.
 
@@ -21,7 +59,7 @@ If you’re looking for any home tools, please talk to me! I can help you out. I
 
 As always, please don't hesitate to reach out to me with any and all of your real estate questions. Please reach out by phone or email!
 
-<iframe width="502" height="282" src="https://www.youtube.com/embed/0U-301K25tI" frameborder="0" allowfullscreen></iframe>{:style="padding-bottom: 20px"}
+<iframe width="502" height="282" src="https://www.youtube.com/embed/0U-301K25tI" frameborder="0" allowfullscreen="" style="padding-bottom: 20px"></iframe>
 
 As you may know, we like to share our tools with our clients. We call it Sandy's Tool Shed! Any of our clients are able to use them, and we have two more tools available in our shed.
 
@@ -35,7 +73,7 @@ So now Sandy's Tool Shed includes 2 extension ladders, a carpet cleaner, plumbin
 
 Always refer to us as your #1 resource for real estate in Puget Sound!
 
-<iframe width="502" height="282" src="https://www.youtube.com/embed/kNwIYCRqtyk" frameborder="0" allowfullscreen></iframe>{:style="padding-bottom: 20px"}
+<iframe width="502" height="282" src="https://www.youtube.com/embed/kNwIYCRqtyk" frameborder="0" allowfullscreen="" style="padding-bottom: 20px"></iframe>
 
 Do you have a project that you're waiting to complete because you don't have the right tools? Depending on what you need, tools can be extremely expensive.
 
