@@ -7,9 +7,9 @@ layout: default
 
 &nbsp;
 
-<font face="Cambria, serif"><span style="font-size: 32px;">While you're getting your home ready to sell let us know if you need any of the following...</span></font>
+While you're getting your home ready to sell let us know if you need any of the following...
 
-&nbsp;
+
 
 * **2 Extension Ladders**
 * **Pressure Washer**
@@ -26,9 +26,9 @@ We lend them at no charge!
 
 If there is something else you need that's not on the list, just let us know and we'll see if we can help!
 
-&nbsp;
 
-The newest addition to Sandy's Tool Shed: Post Hole Digger!
+
+:sparkle:The newest addition to Sandy's Tool Shed: Post Hole Digger!
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1634375581%2Fvideos%2F10209327521978425%2F&amp;show_text=0&amp;width=400" width="400" height="400" style="margin: 10px auto; display: block" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
 
