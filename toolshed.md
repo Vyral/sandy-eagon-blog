@@ -7,7 +7,7 @@ layout: default
 
 &nbsp;
 
-While you're getting your home ready to sell let us know if you need any of the following…
+<p align="center"> While you're getting your home ready to sell let us know if you need any of the following…
 
 ## **2 Extension Ladders**
 
@@ -31,7 +31,7 @@ While you're getting your home ready to sell let us know if you need any of the 
 
 We lend them at no charge!
 
-If there is something else you need that's not on the list, just let us know and we'll see if we can help!
+If there is something else you need that's not on the list, just let us know and we'll see if we can help!</p>
 
 :sparkle: The newest addition to Sandy's Tool Shed: Post Hole Digger!
 
