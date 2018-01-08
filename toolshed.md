@@ -27,6 +27,8 @@ While you're getting your home ready to sell let us know if you need any of the 
 
 ## **Carpet Cleaner**
 
+## **Post Hole Digger**
+
 ## **And more…**
 
 We lend them at no charge!
