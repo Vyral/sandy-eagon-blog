@@ -4,7 +4,8 @@ title: Does Your Home Work for You in 2018?
 tags:
   - More From Sandy & Company
 excerpt: Does your house work for you in 2018?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Is+your+home+ready+for+2018%253F.mp4
 pullquote: We’re  the resource to help you find the right person for the job.
 enclosure_type: video/mp4
 enclosure_time:
