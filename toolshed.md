@@ -9,16 +9,25 @@ layout: default
 
 While you're getting your home ready to sell let us know if you need any of the following…
 
-* ## **2 Extension Ladders**
-* ## **Pressure Washer**
-* ## **Cordless Drill**
-* ## **Cordless Bit Driver**
-* ## **Circular Saw and Sawhorses**
-* ## **Ratcheting Straps (for holding truck loads)**
-* ## **Paint Sprayer**
-* ## **Stud Finder**
-* ## **Carpet Cleaner**
-* ## **And more…**
+## **2 Extension Ladders**
+
+## **Pressure Washer**
+
+## **Cordless Drill**
+
+## **Cordless Bit Driver**
+
+## **Circular Saw and Sawhorses**
+
+## **Ratcheting Straps (for holding truck loads)**
+
+## **Paint Sprayer**
+
+## **Stud Finder**
+
+## **Carpet Cleaner**
+
+## **And more…**
 
 We lend them at no charge!
 
