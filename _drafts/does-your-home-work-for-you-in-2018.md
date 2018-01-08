@@ -20,7 +20,7 @@ Does your house work for you in 2018?
 
 Did you get a new puppy for Christmas and now you need to put up a fence? I have a post hole digger I’d be glad to share with you.
 
-Check out [SandyAndCompanyVideos.com/Toolshed](/toolshed.html) and browse all the tools we’d let you use.
+Check out [SandyAndCompanyVideos.com/Toolshed](/toolshed.html){:target="_blank"} and browse all the tools we’d let you use.
 
 Sometimes you need a tool, but you don’t need to buy it, so let us be there for you if that’s your situation.
 
