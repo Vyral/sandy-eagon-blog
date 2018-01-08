@@ -7,37 +7,24 @@ layout: default
 
 &nbsp;
 
-While you’re getting your home ready to sell let us know if you need any of the following…
+<font face="Cambria, serif"><span style="font-size: 32px;">While you're getting your home ready to sell let us know if you need any of the following...</span></font>
 
 &nbsp;
 
-**2 Extension Ladders**
-
-**Pressure Washer**
-
-**Cordless Drill**
-
-**Cordless Bit Driver**
-
-**Circular Saw and Sawhorses**
-
-**Ratcheting Straps (for holding truck loads)**
-
-**Paint Sprayer**
-
-**Stud Finder**
-
-**Carpet Cleaner**
-
-**And more…**
-
-&nbsp;
+* **2 Extension Ladders**
+* **Pressure Washer**
+* **Cordless Drill**
+* **Cordless Bit Driver**
+* **Circular Saw and Sawhorses**
+* **Ratcheting Straps (for holding truck loads)**
+* **Paint Sprayer**
+* **Stud Finder**
+* **Carpet Cleaner**
+* **And more…**
 
 We lend them at no charge!
 
-&nbsp;
-
-If there is something else you needthat’s not on the list,just let us know and we’ll see if can help!
+If there is something else you need that's not on the list, just let us know and we'll see if we can help!
 
 &nbsp;
 
