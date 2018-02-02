@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Where are you getting your “real estate IQ?” If most of your information has
   been coming from the news, you may want to start looking elsewhere.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Beyond+the+newsyour+real+values.mp4
 pullquote: >-
   It is critical that you’re getting your information about the market from a
   full-time, professional Realtor.
