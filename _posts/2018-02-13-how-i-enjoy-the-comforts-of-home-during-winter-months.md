@@ -23,7 +23,7 @@ youtube_code: x285lZ3orEM
 
 {% include youtube.html %}
 
-During the wet windy winter months, I like to hunker down in my home and enjoy some of my favorite activities.&nbsp;
+During the wet and windy winter months, I like to hunker down in my home and enjoy some of my favorite activities.&nbsp;
 
 **Whether it’s reading a good book, like John Eldredge’s “Moving Mountains,” journaling, or knitting, I have been really enjoying making the most of my downtime.**
 
