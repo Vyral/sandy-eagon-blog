@@ -5,7 +5,7 @@ layout: default
 <h1>Testimonials</h1>
 
 <div class="client-testimonial">
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/407206218&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/407206218&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <p class="testimonial-text">“Sandy helped walk us through the system, getting our house ready for sale, letting us know what was and was not worth fixing, and just completing the process satisfactorily. She was very responsive to our questions when those would arise, and we communicated quite frequently by text. She probably made a couple of extra visits to our home just to help us address some situations. And I just felt very, very listened to and like our transaction was important to her. I would say that she is a very pleasant professional, that she will shoot straight with you, but that she will also listen to you and consider your input.I would unreservedly recommend her to help anybody for their buying or selling needs."</p>
   <p class="testimonial-author"> -Michelle</p>
 
