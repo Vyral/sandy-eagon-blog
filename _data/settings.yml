@@ -23,7 +23,9 @@ client:
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
+
 emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808112';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/SandyandCompany'
@@ -35,7 +37,7 @@ socials:
   pinterest_url:
   zillow_url: 'http://www.zillow.com/profile/SandyandCompany/Reviews/'
   trulia_url: 'http://www.trulia.com/profile/sandy-eagon-agent-marysville-wa-zgm3z2wc/overview'
-  yelp_url: 
+  yelp_url:
   podcast_url: 'https://itunes.apple.com/us/podcast/marysville-real-estate-podcast-sandy-eagon/id1203343775?mt=2'
 podcast:
   title: Marysville Real Estate Podcast Sandy Eagon
