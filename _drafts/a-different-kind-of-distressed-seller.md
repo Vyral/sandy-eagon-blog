@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: JUicet58JB8
+youtube_code: 0iwxENJJ1mU
 ---
 
 {% include youtube.html %}
@@ -34,6 +34,6 @@ She had talked to a bankruptcy attorney about the debt she had as a result of he
 
 We had extensive marketing. We hit the neighborhoods, social media, and made sure that everyone who wanted a house in Sultan knew about this one. (Yes, houses are selling in Sultan!) We got about seven offers, and two weeks later, Susie is out from under this house payment. She is out from under a bank hovering over her and threatening foreclosure. She has $48,000 in the bank and doesn’t have to go into bankruptcy at this point.&nbsp;
 
-I am so excited for and proud of Susie. Let me tell you why—**she didn’t let her pride get in the way of what she needed to do for herself right now.**Susie will be okay and she will buy a home again, but she did the right thing for right now. &nbsp;
+I am so excited for and proud of Susie. Let me tell you why—**she didn’t let her pride get in the way of what she needed to do for herself right now.&nbsp;**Susie will be okay and she will buy a home again, but she did the right thing for right now. &nbsp;
 
 Who do you know right now who’s scared because the dominos are falling all around them and they don’t know what to do? Give me a call. Let’s make a plan and put it into motion. I would be happy to help you.
