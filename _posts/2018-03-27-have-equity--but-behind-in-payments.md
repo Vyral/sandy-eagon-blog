@@ -5,7 +5,9 @@ tags:
   - Real Estate
   - Real Estate Tips and Tricks
   - More Sandy & Company Tips
-excerpt:
+excerpt: >-
+  Are you in over your head in life and behind on your housing payments? We can
+  help you, just like we helped this distressed home seller.
 enclosure:
 pullquote: Our houses are a huge source of pride in our culture.
 enclosure_type: video/mp4
