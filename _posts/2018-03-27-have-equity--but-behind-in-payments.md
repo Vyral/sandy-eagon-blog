@@ -19,9 +19,7 @@ youtube_code: 0iwxENJJ1mU
 
 {% include youtube.html %}
 
-You’ve
-
-probably heard of distressed sellers, like those selling foreclosures or short-sale properties. Today, I want to talk about a different kind of distressed seller.
+You’ve probably heard of distressed sellers, like those selling foreclosures or short-sale properties. Today, I want to talk about a different kind of distressed seller.
 
 We sold a home in Sultan to one of my clients about four years ago. We’ll call her Susie. She was in her early 30s, had a great career, and was moving upwards.
 
