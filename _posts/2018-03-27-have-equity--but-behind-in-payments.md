@@ -39,8 +39,6 @@ We had extensive marketing. We hit the neighborhoods, social media, and made sur
 
 Two weeks later, Susie is out from under this house payment. She is out from under a bank hovering over her and threatening foreclosure. She has $48,000 in the bank and doesn’t have to file bankruptcy at this point.
 
-I am so excited for and proud of Susie. **She didn’t let her pride get in the way of what she needed to do for herself right now.** Susie will be okay. She will buy a home again. But she did the right thing for right now. &nbsp;
+I am so excited for and proud of Susie. **She didn’t let her pride get in the way of what she needed to do for herself right now.** Susie will be okay. She will buy a home again. But she did the right thing for right now.
 
 Who do you know right now who’s scared because the dominoes are falling all around them and they don’t know what to do? Give me a call. Let’s make a plan and put it into motion. I would be happy to help you and them.
-
-&nbsp;
