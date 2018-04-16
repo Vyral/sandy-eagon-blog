@@ -26,10 +26,10 @@ Here are three ways you can increase your home’s sale price that you might not
 
 {% include pullquote.html %}
 
-**2. Painting certain rooms in your home blue.**This task you have a little more control over. If you’ve been thinking of painting the interior of your home to get it ready to sell, don’t go with gray—go with blue. According to reports, homes with blue kitchens sold for an $1,800 premium, and homes with light blue and periwinkle bathrooms can earn you an extra $5,000.&nbsp;
+**2. Painting certain rooms in your home blue.**This task you have a little more control over. If you’ve been thinking of painting the interior of your home to get it ready to sell, don’t go with gray—go with blue. According to reports, homes with blue kitchens sold for an $1,800 premium, and homes with light blue and periwinkle bathrooms can earn you an extra $5,000. 
 
-**3. Add a barnhouse door or a farmhouse sink.** If you’re remodeling, try getting back to your roots without actually feeling like it. Homes that touted “barnhouse doors” and “farmhouse sinks” in their marketing sold 57 days faster and for 13.4% more than what was expected. These are easy remodels that are cool and trendy.&nbsp;
+**3. Add a barnhouse door or a farmhouse sink.** If you’re remodeling, try getting back to your roots without actually feeling like it. Homes that touted “barnhouse doors” and “farmhouse sinks” in their marketing sold 57 days faster and for 13.4% more than what was expected. These are easy remodels that are cool and trendy. 
 
-Remember, anytime you’re thinking about making changes to your home, do them smart and do them right—not just for yourself, but for the next buyer as well.&nbsp;
+Remember, anytime you’re thinking about making changes to your home, do them smart and do them right—not just for yourself, but for the next buyer as well. 
 
 If you have any more questions about how to upgrade your home to get top dollar for it or you have any other real estate needs, don’t hesitate to give me a call or send me an email. I’d be happy to help you.
