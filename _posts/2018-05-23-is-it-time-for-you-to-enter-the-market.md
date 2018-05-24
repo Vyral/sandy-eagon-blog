@@ -22,12 +22,10 @@ Today I would like to talk about timing the real estate market. Is it possible o
 
 In short, **the answer is no.** Any time that you want to sell at the very peak of the market, the only way that you can know that it was the peak is to let it pass you.&nbsp;
 
-Similarly, **if you are looking to purchase at the low, the only way to know that was the lowest point is when it starts to go back up.**
+Similarly, **if you are looking to purchase at the lowest point, the only way to know that was the lowest point is when it starts to go back up.**
 
 {% include pullquote.html %}
 
 The important question to ask is, “Is it time for you to enter the market?” Does your home fit? Does it function? Is it the kind of place that makes you smile when you come home? Does it serve the purpose you and your family require of it?
 
-**If not, then it is probably time you entered the market to sell.** Feel free to reach out to me. We can help you create a plan or use a plan you already have in order to get you where you need to be.
-
-PQ: &nbsp;Any time that you want to sell at the very peak of the market, the only way that you can know that it was the peak is to let it pass you.
+**If not, then it is probably time you entered the market to sell.** If you are interested in selling, feel free to reach out to me. We can help you create a plan or use a plan you already have in order to get you where you need to be.
