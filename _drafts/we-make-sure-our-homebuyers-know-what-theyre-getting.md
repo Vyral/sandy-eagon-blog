@@ -2,7 +2,7 @@
 layout: post
 title: We Make Sure Our Homebuyers Know What They’re Getting
 tags:
-  - Home Seller Tips
+  - Home Buyer Tips
 excerpt: >-
   There’s more to buying a home than just finding a property. Here’s a little
   more about what I mean.
@@ -24,6 +24,6 @@ That’s just the way it is in the country. This is where we live, and it’s al
 
 {% include pullquote.html %}
 
-**When you’re looking for the home that really works for you, we want to make sure you know all about what’s around it.** That’s why we have disclosures and why we have experience.&nbsp;
+**When you’re looking for the home that really works for you, we want to make sure you know all about what’s around it.** That’s why we have disclosures and why we have experience. 
 
 If you have any questions for us about how we can get you into the right home in the right place for your family, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
