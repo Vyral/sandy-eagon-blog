@@ -5,6 +5,13 @@ layout: default
 <h1>Testimonials</h1>
 
 <div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/502307745&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<p class="testimonial-text">"She was recommended by our realtor that sold our old home, and we met with her and liked her. So we kind of set up the parameters of what we were looking for and spent a couple weekends looking with her, and we found our home. We'd made an offer on a first house, and we had an inspector come in, and I think that saved us from making a poor decision, so I think she stepped in and had the right people to recommend and a get a hold of, and was able to get it done for us in a timely manner.
+She's great, very helpful. After talking to us for a little bit, she pretty much knew what we were looking for, and the nice thing was that every time something came on the market that was what we were kind of looking for, I'd say "yea" or "nay." There wasn't a lot of legwork and having to look at stuff we weren't interested in. 
+She's really nice, outgoing, and we enjoyed our time with her."</p>
+  <p class="testimonial-author"> - Jeannette</p>
+
+<div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/491926596&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <p class="testimonial-text">"She worked with us on our previous transaction and stayed in touch, so we went with her for the sale of our home. She was always really thorough. She's good at follow-through and getting back to folks in a timely manner."</p>
   <p class="testimonial-author"> -Mandy</p>
