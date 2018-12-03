@@ -11,7 +11,7 @@ excerpt: >-
   working on your behalf? Actually, yes—and the story I’ll be sharing today is a
   perfect illustration as to why this matters.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Dont+Buy+a+New+Construction+Home+Without+an+Agent.mp4
+  https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Dont+Buy+a+New+Construction+Home+Without+a+Realtor+(1).mp4
 pullquote: >-
   The agents you will find at new construction homes are there to represent the
   builders’ best interests—not yours.
@@ -19,7 +19,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/11-29-new-construction-np.jpg
-youtube_code: fMD07Mhu1tM
+youtube_code: wJRu-JBx_i8
 ---
 
 {% include youtube.html %}
