@@ -23,6 +23,8 @@ youtube_code: z0B_Tn4Q-aM
 
 {% include youtube.html %}
 
+Welcome Back, Old Friend!
+
 What makes now a great time to be a buyer who also has a house to sell in our market?&nbsp;
 
 In a rushed market, people sometimes don’t have time to achieve all of their real estate goals. So many of my clients over the past couple years have been concerned that they can’t sell their current home because they won’t be able to find their next home. They need more bedrooms, more space, more room to park, etc. They’ve been living in smaller homes that function okay for them but aren’t really what they need for their family.&nbsp;
