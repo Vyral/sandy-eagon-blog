@@ -23,7 +23,7 @@ youtube_code: z0B_Tn4Q-aM
 
 {% include youtube.html %}
 
-Welcome Back, Old Friend!
+Welcome back, old friend!
 
 What makes now a great time to be a buyer who also has a house to sell in our market?&nbsp;
 
