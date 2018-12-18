@@ -27,5 +27,3 @@ I’ve got an amazing life and amazing family and amazing clients, and I have be
 Thank you so much for being a part of my life. I love you, and I'm so excited to look forward to 2019 and see what it brings both of us.
 
 Have a blessed Christmas. Every day.
-
-&nbsp;
