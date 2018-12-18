@@ -6,7 +6,9 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: >-
+  Thank you so much for being a part of my life. I love you, and I'm so excited
+  to look forward to 2019 and see what it brings both of us.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
