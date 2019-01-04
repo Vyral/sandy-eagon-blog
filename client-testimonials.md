@@ -5,6 +5,11 @@ layout: default
 <h1>Testimonials</h1>
 
 <div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/554183412&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<p class="testimonial-text">"She has a lot of experience. She's also very hard-working. She took the ferry because the property I did end up buying was on the Olympic Peninsula, so she had to take the ferry over there a couple of times. She even met the inspector, and after the repairs were done she went back there and had to take another ferry. What I expected, she went over and above. She negotiated some different aspects of it and was very good at the negotiation. She did it very kindly, with integrity and professional kindness, and I really, really liked that because that's the kind of person I am. It was a pleasure to work with her and have her represent myself and my family."</p>
+  <p class="testimonial-author"> - Barbara</p>
+
+<div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/502307745&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <p class="testimonial-text">"She was recommended by our realtor that sold our old home, and we met with her and liked her. So we kind of set up the parameters of what we were looking for and spent a couple weekends looking with her, and we found our home. We'd made an offer on a first house, and we had an inspector come in, and I think that saved us from making a poor decision, so I think she stepped in and had the right people to recommend and a get a hold of, and was able to get it done for us in a timely manner.
 She's great, very helpful. After talking to us for a little bit, she pretty much knew what we were looking for, and the nice thing was that every time something came on the market that was what we were kind of looking for, I'd say "yea" or "nay." There wasn't a lot of legwork and having to look at stuff we weren't interested in. 
