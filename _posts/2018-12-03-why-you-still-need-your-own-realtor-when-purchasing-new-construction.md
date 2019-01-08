@@ -34,7 +34,7 @@ Imagine their shock when **the totals came back at $40,000 more than what they h
 
 I followed up quickly. As we found out during this next meeting, the site agent had explained the customization and upgrades in a way that sounded like we had $40,000 to spend in upgrades that were included in our agreed-on price. Not the case.
 
-At this point, it was up to my clients to decide what truly did matter to them. Because while they were happy with the standard finish options, certain customization options can have a significant impact on the livability of a new construction home.  
+At this point, it was up to my clients to decide what truly *did* matter to them. Because while they were happy with the standard finish options, certain customization options can have a significant impact on the livability of a new construction home. &nbsp;
 
 For example, current new construction doesn't include overhead lighting in dining rooms, living rooms, or bedrooms. These are the sort of details that buyers might not think to consider until they’ve been prompted. After all, **most people wouldn’t assume that overhead lighting would be an extra expense.**
 
@@ -46,7 +46,7 @@ The gas BBQ stub (which would have added $600 to the cost of the home) and a rai
 
 By cutting out even just these three features, my clients saved thousands below what the initial bundled cost had been.
 
-Thanks to this meeting, my clients walked away all smiles. When all was said and done, I helped them save just under $7,000.  
+Thanks to this meeting, my clients walked away all smiles. When all was said and done, I helped them save just under $7,000. &nbsp;
 
 As you can see, **customizing a new construction home can quickly rack up a high price tag.** So if you’re interested in purchasing a new construction home, bring your Realtor. You don't know what you don't know. Put our experience to use to make sure you're getting what you want and not paying for what you don't.
 
