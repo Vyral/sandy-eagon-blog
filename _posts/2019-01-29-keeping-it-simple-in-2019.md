@@ -28,7 +28,7 @@ Christmastime that we just passed through is an excellent time to give us an exa
 
 What did we do with our family at Christmastime? We got to talk about Jesus, which is our favorite story to tell, we saw our family, whether they were coming to see us or we were going to see them, and Don and I also talked about what’s most important for 2019 and what we can do to get there.
 
-**Keep it simple and keep the top priority the top priority. **
+**Keep it simple and keep the top priority the top priority.&nbsp;**
 
 In just the same way, I am working for my clients whether they are looking to sell their house or to buy. We have to talk about what is most important about this investment: Is it the space? Is it the security? Is it what it’s going to do for their life—whether it’s going to shorten their commute or allow them to provide for other family members? What will it do for your life? So keep it simple and keep it the most important.
 
