@@ -18,7 +18,7 @@ youtube_code: YCr-2Bs4mH4
 
 {% include youtube.html %}
 
-We are in the spring competition and guess what? We are winning. Whether we are working for our sellers or our buyers, we have actually won for the last couple of months and we are loving it.&nbsp;
+We are in the spring competition and guess what? We are winning. Whether we are working for our sellers or our buyers, we have actually won for the last couple of months and we are loving it. 
 
 **Every time we enter this new competition, we are learning more and more about how to serve our clients and that’s what I love.** I have great clients all the time and the last buyers that we’ve had, I’ve had a couple of them that have competed against two other people, one other person, and a couple that have competed against eight different offers.
 
