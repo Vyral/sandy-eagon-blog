@@ -18,7 +18,7 @@ youtube_code: YCr-2Bs4mH4
 
 {% include youtube.html %}
 
-We are in the spring competition and guess what? We are winning. Whether we are working for our sellers or our buyers, we have actually won for the last couple of months and we are loving it. 
+We are in the spring competition and guess what? We are winning. Whether we are working for our sellers or our buyers, we have actually won for the last couple of months and we are loving it.&nbsp;
 
 **Every time we enter this new competition, we are learning more and more about how to serve our clients and that’s what I love.** I have great clients all the time and the last buyers that we’ve had, I’ve had a couple of them that have competed against two other people, one other person, and a couple that have competed against eight different offers.
 
@@ -26,7 +26,7 @@ You know what? **We are learning how to win in this climate and we are learning 
 
 {% include pullquote.html %}
 
-For our sellers, the last two times we’ve sat down with offers it has been six offers. I actually have 12 offers in two days and wow, did you see those bald eagles going fast? That was amazing. Wow. Bunny trail. You know, this is what I love about my job. It’s never the same thing every day and it’s never boring.
+For our sellers, the last two times we’ve sat down with offers, it has been six offers. I actually have 12 offers in two days and wow, did you see those bald eagles going fast? That was amazing. Wow. Bunny trail. You know, this is what I love about my job. It’s never the same thing every day and it’s never boring.
 
 My last seller has six offers. The one before had 12 offers in two days. I love what I do. I love to help my clients. We strategize. **We make sure that we’re going to be on top in getting their needs met.**
 
