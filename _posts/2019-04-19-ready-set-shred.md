@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Clients Are Winning the Spring Competition
+title: 'Ready, Set, Shred!'
 tags:
   - Real Estate
 excerpt: >-
