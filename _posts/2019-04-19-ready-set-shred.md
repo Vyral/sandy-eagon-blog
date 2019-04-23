@@ -30,8 +30,8 @@ For our sellers, the last two times we’ve sat down with offers, it has been si
 
 You know, this is what I love about my job. It’s never the same thing every day and it’s never boring.
 
-So-- My last seller had six offers. The one before had 12 offers in two days. I love what I do. I love to help my clients. We strategize.&nbsp;**We make sure that we’re going to be on top in getting their needs met.**
+So-- My last seller had six offers. The one before had 12 offers in two days. I love what I do. I love to help my clients. We strategize. **We make sure that we’re going to be on top in getting their needs met.**
 
-Let me know what I can do to help you. If you’re looking to buy right now, go ahead and click on the box to search all area homes. If you are looking to sell, click on the box for your home’s value in&nbsp;**today’s**&nbsp;market.
+Let me know what I can do to help you. If you’re looking to buy right now, go ahead and click on the box to search all area homes. If you are looking to sell, click on the box for your home’s value in **today’s** market.
 
 Thanks so much\! I’m excited to talk to you about your real estate needs. Have an amazing day and go check out our Northwest and see a bald eagle or two. There’s another one right there\! It’s just so cool. Have a great day, I’m going to go look at this bald eagle.
