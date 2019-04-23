@@ -12,7 +12,7 @@ pullquote: It's not just all about the price.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/4-19-spring-competition-and-eagles-np-1.jpg
+youtube_alternate_image: /uploads/4-23-shred-np.jpg
 youtube_code: YCr-2Bs4mH4
 ---
 
