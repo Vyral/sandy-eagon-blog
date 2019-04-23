@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ready, Set, Shred!'
+title: Spring Competition and Eagles
 tags:
   - Real Estate
 excerpt: >-
