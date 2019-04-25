@@ -7,7 +7,7 @@ excerpt: >-
   Our real estate market is still extremely competitive for homebuyers, but our
   buyer clients are winning more often than not. Here’s how.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Ready%2C+Set%2C+Shred!.mp4
+  https://s3.amazonaws.com/vyralmarketing/Sandy+Eagon/Puget+Sound+Real+Estate+Agent-+Spring+Competition+and+Eagles.mp4
 pullquote: It’s not just all about price.
 enclosure_type: video/mp4
 enclosure_time:
