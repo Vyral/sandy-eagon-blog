@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top 10 Star Fox Bosses
+title: Ready… Set… Shred!
 tags:
   - Market Update
   - Real Estate
