@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-9-shred-np.jpg
-youtube_code: fAQAjzC1BYo
+youtube_code: 4KLtGNBXGyA
 ---
 
 {% include youtube.html %}
