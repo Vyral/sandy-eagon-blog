@@ -25,7 +25,7 @@ Hi there, this is Sandy Eagon of Keller Williams Realty, and today we’re talki
 
 We are traditionally a market that gets its values in the springtime. Most of our increase is from February until May, and what we have seen this year is that we did not get the rise in values that we thought we would. And, in fact, in a couple of places, we’ve even gotten less.&nbsp;
 
-In Lynnwood, we have a real flat spot that went from August until March. And then, come March and going into April, we actually dropped back. And so we actually had a drop in market from March to April. That is unheard of in our spring area. So, just something to keep an eye on.&nbsp;
+In Lynnwood, we have a real flat spot that went from August until March. And then, come March and going into April, we actually dropped back. And so we actually had a drop in the market from March to April. That is unheard of in our spring area. So, just something to keep an eye on.&nbsp;
 
 Everett, on the other hand, saw a bit of an increase, going up until April—but then, from April to May, it dropped. So these are things we need to keep an eye on as Realtors, so we can help our clients do the best that they need to in this market.
 
