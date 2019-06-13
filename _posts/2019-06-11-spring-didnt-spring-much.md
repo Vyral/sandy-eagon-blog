@@ -31,7 +31,7 @@ Everett, on the other hand, saw a bit of an increase, going up until April—but
 
 {% include pullquote.html %}
 
-Who is this market good for right now? Honestly, everyone, but there is a couple of people in particular that, again, have a great opportunity over this coming summer. The contingent buyer. Who is the contingent buyer, and what does that mean? The contingent buyer is the person who is in a home that just doesn’t quite fit for them anymore, so they’re looking for something else—whether it’s something a little bigger, whether they’re looking for more trees or fewer. Let me know.&nbsp;
+Who is this market good for right now? Honestly, everyone, but there are a couple of people in particular that, again, have a great opportunity over this coming summer, including the contingent buyer. Who is the contingent buyer, and what does that mean? The contingent buyer is the person who is in a home that just doesn’t quite fit for them anymore, so they’re looking for something else—whether it’s something a little bigger, whether they’re looking for more trees or fewer. Let me know.&nbsp;
 
 This is a time to sit down and say, “Okay, what do you have right now (that you own)?” But you don’t have to sell that before you can buy now. You used to do that in the last few years. It was really hard to be a homeowner and buy the new place before you sold the old place. So now you can actually make offers on those homes—the move-up style homes—that they know that someone is likely to have a home to sell before they can buy, and they will give you time to do it.&nbsp;
 
