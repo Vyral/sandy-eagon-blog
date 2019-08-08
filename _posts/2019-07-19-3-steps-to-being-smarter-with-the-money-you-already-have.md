@@ -16,7 +16,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/hqdefault.jpg
+youtube_alternate_image: /uploads/7-19yt.jpg
 youtube_code: HGutAv_jLec
 ---
 
