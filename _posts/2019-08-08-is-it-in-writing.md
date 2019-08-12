@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why You Should Make SMART Goals
+title: '"Is It In Writing?"'
 tags:
   - Market Update
   - Real Estate
