@@ -15,7 +15,7 @@ pullquote: 'If I don''t have a focused, written goal, I don''t get a lot done.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/eagon-youtube.jpg
+youtube_alternate_image: /uploads/sandy-eagon-is-it-in-writing-youtube.png
 youtube_code: sppvF9h5Ecs
 ---
 
