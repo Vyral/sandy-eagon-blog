@@ -34,5 +34,3 @@ I decided that since I was already down there I would go do the oven. I took the
 **Our motto is “Making lives better.”** Part of that is helping you live in your home for a longer time and feel better about it. Have you loved your appliances lately? Grab a vacuum, grab a rag. These little things make them and you love each other for a longer time.
 
 If you have any questions for me about buying or selling a home, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
-
-Teaser: I was doing some cleaning recently in the kitchen and knocked off the guard on the front of my fridge. When I went down to put it back on, I saw that the coils and the floor underneath were disgusting. I knew that this was an area that you should be cleaning to extend the life of the fridge, so I vacuumed and cleaned underneath. To learn more about why you should be loving your appliances like this, watch this short video.
