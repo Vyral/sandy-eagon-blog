@@ -23,9 +23,9 @@ youtube_code: 6Hv_wamqfRM
 
 I’m doing a little Saturday cleaning this morning. It’s raining and one of those Saturdays where you know it’s time to pay attention to the house.&nbsp;
 
-When I washed the floor and bumped off the guard on my fridge, I realized I hadn’t vacuumed under there for a very long time. **I’ve been told that when you vacuum the coils of your fridge, you extend the life of its motor for years.&nbsp;**
+When I washed the floor and bumped off the guard on my fridge, I realized I hadn’t vacuumed under there for a very long time. **I’ve been told that when you vacuum the coils of your fridge, you extend the life of its motor for years.**&nbsp;
 
-It was disgusting. There was dirt and food left over from what had been kicked underneath as well as a bunch of hair. Once I got down there, I vacuumed under the fridge and I could practically hear it say “Thank you\!” **It’s breathing better, it’s working better, and I’m going to be able to have my fridge that I like a lot for quite some time.**
+It was disgusting. There was dirt and food left over from what had been kicked underneath. Once I got down there, I vacuumed under the fridge and I could practically hear it say “Thank you\!” **It’s breathing better, it’s working better, and I’m going to be able to have my fridge that I like a lot for quite some time.**
 
 {% include pullquote.html %}
 
@@ -33,4 +33,4 @@ I decided that since I was already down there, I would go do the oven. I took th
 
 **Our motto is “Making lives better.”** Part of that is helping you live in your home for a longer time and feel better about it. Have you loved your appliances lately? Grab a vacuum, grab a rag. These little things make them and you love each other for a longer time.
 
-If you have any questions for me about buying or selling a home, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+If you want to be in a home that makes you excited to clean those spots under the fridge and stove, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
