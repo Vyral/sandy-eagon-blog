@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why You Should Love Your Appliances
+title: Why You Should Love On Your Appliances
 tags:
   - Market Update
   - Real Estate
