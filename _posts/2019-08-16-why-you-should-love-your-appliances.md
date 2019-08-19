@@ -29,7 +29,7 @@ It was disgusting. There was dirt and food left over from what had been kicked u
 
 {% include pullquote.html %}
 
-I decided that since I was already down there I would go do the oven. I took the drawer out from underneath it and did the same thing. For most of our ovens, you can just take that bottom drawer out, vacuum underneath, and that’s just part of honoring what you have—being good stewards.
+I decided that since I was already down there, I would go do the oven. I took the drawer out from underneath it and did the same thing. For most of our ovens, you can just take that bottom drawer out, vacuum underneath, and that’s just part of honoring what you have—being good stewards.
 
 **Our motto is “Making lives better.”** Part of that is helping you live in your home for a longer time and feel better about it. Have you loved your appliances lately? Grab a vacuum, grab a rag. These little things make them and you love each other for a longer time.
 
