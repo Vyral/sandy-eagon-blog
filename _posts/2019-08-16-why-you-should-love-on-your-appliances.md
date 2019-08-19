@@ -15,7 +15,7 @@ pullquote: Our motto is “Making lives better.”
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/sandy-eagon-why-you-should-love-your-appliances-youtube.png
+youtube_alternate_image: /uploads/sandy-eagon-why-you-should-love-on-your-appliances-youtube.png
 youtube_code: 6Hv_wamqfRM
 ---
 
