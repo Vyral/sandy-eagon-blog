@@ -18,11 +18,11 @@ youtube_code: 'https://youtu.be/eveUdkNoaQw'
 
 {% include youtube.html %}
 
-The fall is a great time to buy or sell a home in the Puget Sound area. Here’s why.
+<p style="text-align: center;"><em>The fall is a great time to buy or sell a home in the Puget Sound area. Here’s why.</em></p>
 
 I always get that question: Is it a good time to buy? Autumn is an amazing time because on both the buying and the selling side, buyers and sellers need to make this happen and there is much more motivation and much less competition.
 
-The short answer is, “Yes\! It’s a great time to sell your house.” And the short answer is, “Yes\! It is a great time to buy a house.” You have fewer sellers to compete with, and the ones that are out there really need to make it happen.
+**The short answer is, “Yes\! It’s a great time to sell your house.”** And the short answer is, “Yes\! It is a great time to buy a house.” You have fewer sellers to compete with, and the ones that are out there really need to make it happen.
 
 {% include pullquote.html %}
 
