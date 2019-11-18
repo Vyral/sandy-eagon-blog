@@ -21,6 +21,8 @@ youtube_code: 60bHf03Nej0
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Families change, and that may mean your home needs change too.</em></p>
+
 Our families change. Whether we’re getting pets, saying goodbye to pets, welcoming new children into our lives, sending children off into their own lives, or **whatever the change may be, our homes need to change as well.** For example, we have a new member of our family. I’m delighted to say we just got a new dog named Harley\!&nbsp;
 
 When your family is evolving, that’s when you should think about whether your home needs still fit with your family. If you think your home no longer fits your family, I would love to be a part of that conversation. We are here to assist you whether you are selling, buying, or even staying put, because, in each scenario, you’ll need things for your home. For instance, we recently got a pergola installed. Even when we stay where we are, we do things to alter our homes.
