@@ -2,10 +2,7 @@
 layout: post
 title: Changing Families Mean Changing Needs
 tags:
-  - Market Update
   - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
 excerpt: 'Families change, and that may mean your home needs change too.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2019/Changing+Families+Mean+Changing+Needs.mp4
@@ -14,8 +11,8 @@ pullquote: >-
   home still fits with your family's needs.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/familyyt.jpg
+use_youtube_image: true
+youtube_alternate_image: 
 youtube_code: 60bHf03Nej0
 ---
 
