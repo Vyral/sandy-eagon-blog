@@ -22,7 +22,7 @@ youtube_code: 60bHf03Nej0
 
 Our families change. Whether we’re getting pets, saying goodbye to pets, welcoming new children into our lives, sending children off into their own lives, or **whatever the change may be, our homes need to change as well.** For example, we have a new member of our family. I’m delighted to say we just got a new dog named Harley\!&nbsp;
 
-When your family is evolving, that’s when you think about whether your home still fits with your family's needs. I would love to be a part of that conversation. We're here to assist you whether you are selling, buying, or even staying put, because, in each scenario, you’ll need things for your home. For instance, we recently had a pergola built on our deck. When we stay, we alter our homes to fit.
+When your family is evolving, that’s when you think about whether your home still fits with your family's needs. I would love to be a part of that conversation. We're here to assist you whether you are selling, buying, or even staying put because in each scenario you’ll need things for your home. For instance, we recently had a pergola built on our deck. When we stay, we alter our homes to fit.
 
 {% include pullquote.html %}
 
