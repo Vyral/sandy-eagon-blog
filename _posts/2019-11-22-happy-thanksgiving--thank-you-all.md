@@ -16,7 +16,7 @@ youtube_code: 'https://youtu.be/JemT6GonZzs'
 
 {% include youtube.html %}
 
-Thank you to every single one of you for playing a part in our success.
+<p style="text-align: center;"><em>Thank you to every single one of you for playing a part in our success.</em></p>
 
 I just wanted to take time today to thank you all so much for the part that you play in our success. We have had a wonderful year helping people buy and sell their homes and their investments, and **we couldn’t do it without all of you—every single one of you.**
 
