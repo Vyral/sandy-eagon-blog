@@ -5,13 +5,13 @@ tags:
   - Real Estate
 excerpt: Thank you to every single one of you for playing a part in our success.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2019/Puget+Sound+Real+Estate+Agent-+Have+a+Wonderful+Thanksgiving.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2019/Puget+Sound+Real+Estate+Agent-+Happy+Thanksgiving.mp4
 pullquote: 'You have made our job not just a job, but truly a passion and a calling.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/JemT6GonZzs'
+youtube_code: 'https://youtu.be/8nATT95zIC8'
 ---
 
 {% include youtube.html %}
