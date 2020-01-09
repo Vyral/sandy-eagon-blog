@@ -18,7 +18,7 @@ youtube_code: fdozZcJgBG4
 
 {% include youtube.html %}
 
-What can you expect from our Puget Sound real estate market in 2020? Here are my projections.
+<p style="text-align: center;"><em>What can you expect from our Puget Sound real estate market in 2020? Here are my projections.</em></p>
 
 Today we are talking about the 2020 real estate market projection. Our local real estate market is doing so well for the last year and we expect through this next year, in large part because our local economy is also so strong.&nbsp;
 
