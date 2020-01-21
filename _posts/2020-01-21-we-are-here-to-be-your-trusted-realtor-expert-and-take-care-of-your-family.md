@@ -18,7 +18,7 @@ youtube_code: CDSLBZm1ths
 
 {% include youtube.html %}
 
-If you’re buying or selling a home, you need to hire a Realtor you can trust with your family.
+<p style="text-align: center;"><em>If you’re buying or selling a home, you need to hire a Realtor you can trust with your family.</em></p>
 
 Today we’re talking about helping out family.&nbsp;
 
