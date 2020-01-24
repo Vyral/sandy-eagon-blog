@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Are Here to Be Your Trusted Realtor Expert and Take Care of Your Family
+title: We are Here to be Your Trusted Realtors Who Take Care of Your Family
 tags:
   - Real Estate
 excerpt: >-
