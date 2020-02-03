@@ -18,7 +18,7 @@ youtube_code: n2f4nxczOLo
 
 {% include youtube.html %}
 
-If it’s time to change your home, we’re here to help.&nbsp;
+<p style="text-align: center;"><em>If it’s time to change your home, we’re here to help.&nbsp;</em></p>
 
 Your home changes, both in the good times and when times get tough.
 
