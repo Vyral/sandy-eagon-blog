@@ -5,6 +5,11 @@ layout: default
 <h1>Testimonials</h1>
 
 <div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/767589946&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<p class="testimonial-text">"She basically just narrowed in on exactly what I wanted. I just wanted a place that wasn't gigantic. Something around 850 square feet. And I ended up in this place and I really like it it's nice. The process was super easy and Sandy is always great so I have no complaints or anything it was pretty smooth. Sandy always you know wants to make sure I get the best deal so trust her implicitly."
+  <p class="testimonial-author"> - Erinn</p>
+
+<div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/554183412&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <p class="testimonial-text">"She has a lot of experience. She's also very hard-working. She took the ferry because the property I did end up buying was on the Olympic Peninsula, so she had to take the ferry over there a couple of times. She even met the inspector, and after the repairs were done she went back there and had to take another ferry. What I expected, she went over and above. She negotiated some different aspects of it and was very good at the negotiation. She did it very kindly, with integrity and professional kindness, and I really, really liked that because that's the kind of person I am. It was a pleasure to work with her and have her represent myself and my family."</p>
   <p class="testimonial-author"> - Barbara</p>
