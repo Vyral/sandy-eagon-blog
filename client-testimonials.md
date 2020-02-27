@@ -5,6 +5,11 @@ layout: default
 <h1>Testimonials</h1>
 
 <div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/767592388&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<p class="testimonial-text">"It was very clear and very professional. Sandy let me know right up front how things were going to go. Sandy was able to get what she thought was fair but also possible for me. She was real but also tried to work in my benefit as much as possible. Whenever I had questions Sandy was right there to help me out."
+  <p class="testimonial-author"> - Jason</p>
+  
+<div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/767589946&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <p class="testimonial-text">"She basically just narrowed in on exactly what I wanted. I just wanted a place that wasn't gigantic. Something around 850 square feet. And I ended up in this place and I really like it it's nice. The process was super easy and Sandy is always great so I have no complaints or anything it was pretty smooth. Sandy always you know wants to make sure I get the best deal so trust her implicitly."
   <p class="testimonial-author"> - Erinn</p>
