@@ -20,7 +20,7 @@ youtube_code: BUQWAwV1X68
 
 {% include youtube.html %}
 
-We are doing absolutely top-notch things for all of our clients here in today’s market, and here’s a story to prove it.
+<p style="text-align: center;"><em>We are doing absolutely top-notch things for all of our clients here in today’s market, and here’s a story to prove it.</em></p>
 
 It’s a crazy market out there. We’ve helped one of my clients with a couple of different houses, so we when we sat down to talk about selling her house up here in the north end of Marysville, we took a look at what had been for sale and we chose a price right between the last two sales in the market.&nbsp;
 
