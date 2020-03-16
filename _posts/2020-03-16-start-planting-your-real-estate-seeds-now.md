@@ -21,7 +21,7 @@ youtube_code: V8IsHoLJQNY
 
 {% include youtube.html %}
 
-<p style="texdt-align: center;"><em>Hey there, Sandy with Sandy & Company! Today we’re talking about planting seeds.</em></p>
+<p style="text-align: center;"><em>Hey there, Sandy with Sandy & Company! Today we’re talking about planting seeds.</em></p>
 
 Now they say that Rome wasn’t built in a day, and neither was a garden. Here at the office, we made a little garden with two raised beds about three or four years ago. I noticed when I got out of my car today that not only was this raised bed filled with kale that got planted when we started on the garden, but it had spilled over the sides into the weeds around it. These gardens were not watered over the summertime—they were actually sorely neglected, and guess what’s coming back? Kale. Lots and lots of it.
 
