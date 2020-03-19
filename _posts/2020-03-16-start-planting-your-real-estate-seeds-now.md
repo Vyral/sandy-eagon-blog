@@ -29,4 +29,4 @@ Now they say that Rome wasn’t built in a day, and neither was a garden. Here a
 
 So if you like kale chips, this is a great time to come on down, and if you’re looking to buy or sell a home, talk to me. Let’s do something one step at a time. If you need to pay down debt, if you need to get your credit in better shape, plant seeds. Plant seeds today that will grow. You will water them, you will fertilize them, and even if you neglect them for a while, guess what? **The steps that you take right now are going to pay off down the road. I guarantee it.**
 
-Call me today, whether you’re looking to sell or sell a house. We’ll let you know the strategies to get top dollar and how we can help you and your real estate needs. Thanks so much\! Have an amazing day. Plant some seeds, and let’s talk about the harvest. Have a great day.
+Call me today, whether you’re looking to sell or buy a house. We’ll let you know the strategies to get top dollar and how we can help you and your real estate needs. Thanks so much\! Have an amazing day. Plant some seeds, and let’s talk about the harvest. Have a great day.
