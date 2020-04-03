@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   In these uncertain times, life seems to change every single day. So what’s
   next for real estate?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2020/Puget+Sound+Real+Estate+Agent-+And+Then+What_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
