@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Points to Keep in Mind During the Pandemic
+title: 'Remembering There Will Be a Tomorrow...'
 tags:
   - Real Estate
   - COVID-19
@@ -21,8 +21,8 @@ youtube_code: V0z3LXHCTiw
 
 <p style="text-align: center;"><em>In these uncertain times, life seems to change every single day. So what’s next for real estate?</em></p>
 
-A couple of weeks ago, I spoke with a client who worked in sales and who told me he had been laid off. When I asked how he’s doing, he told me that he’s okay because his landlords wouldn’t be able to evict him for quite some time. If you determine that you cannot make your mortgage or rent payment , just understand that, if you decide not to pay, there may be no turning back.
+A couple weeks ago, I spoke with a client who worked in sales. He told me he'd been laid off. When I asked how he’s doing, he told me that he’ll be okay because his landlords wouldn’t be able to evict him for quite some time. 
 
-Even though a $2-trillion stimulus package helps, don’t believe that the government alone will carry us through this crisis. You’ll also need the support of your neighborhood and community.
+If you decide that you can't make your mortgage or rent payment , PLEASE understand there may be no turning back. Stimulus aside, don’t believe that the government alone will carry us through this crisis. 
 
-To see my full message about what we need to keep in mind as we navigate the pandemic, watch the video above.
+To hear my urgent message about what we need to keep in mind as we navigate through today, watch this important video.
