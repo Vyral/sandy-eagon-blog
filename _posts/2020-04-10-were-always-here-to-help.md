@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We’re Always Here to Help
+title: How We’re Helping Now
 tags:
   - Market Update
   - Real Estate
