@@ -21,7 +21,7 @@ youtube_code: tPUqpXzkG5o
 
 {% include youtube.html %}
 
-If you need anything from me during this difficult time, I’m here to help. Whether it’s a real estate need or not.
+<p style="text-align: center;"><em>If you need anything from me during this difficult time, I’m here to help. Whether it’s a real estate need or not.</em></p>
 
 Today we’re talking about what’s happening in the market right now. With all the uproar about the coronavirus, for good or for bad, there are ways that we are affected that you may not even be thinking about.
 
