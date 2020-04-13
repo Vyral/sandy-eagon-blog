@@ -29,8 +29,8 @@ Today we’re talking about what’s happening in the market right now. With all
 
 {% include pullquote.html %}
 
-So, what do you need for real estate? And we’re here to provide that. And just like usual, **if there’s anything else that I can help you with, house-wise or otherwise, we’re here for you.** If you need something, I will get it for you or I will get it to you. One or the other. If there’s something at all that I can do to help, please let me know.
+So, what do you need for real estate? And we’re here to provide that. And just like usual, if there’s anything else that I can help you with, house-wise or otherwise, we’re here for you. If you need something, I will get it for you or I will get it to you. One or the other. If there’s something at all that I can do to help, please let me know.
 
 If you are looking to sell or buy a house, please click the link or give me a call—direct message me. Let’s be in touch. Let’s have a conversation and see how I can help you right now, whether it’s to sell your house right now or whether it’s to get ready for upcoming.
 
-Have an amazing day. Stay healthy, stay safe, and let’s all get through this together. Be blessed.
+Have an amazing day. **Stay healthy, stay safe, and let’s all get through this together.** Be blessed.
