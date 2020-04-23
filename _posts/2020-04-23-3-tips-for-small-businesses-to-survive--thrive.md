@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Today we’re talking about helping our local businesses not only get through
   this but actually thrive and be stronger on the other side.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2020/Puget+Sound+Real+Estate+Agent-+3+Tips+for+Small+Businesses+to+Survive+and+Thrive.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,7 +21,7 @@ youtube_code: dUpTUakCJcs
 
 {% include youtube.html %}
 
-Today we’re talking about helping our local businesses not only get through this but actually thrive and be stronger on the other side.
+<p style="text-align: center;"><em>Today we’re talking about helping our local businesses not only get through this but actually thrive and be stronger on the other side.</em></p>
 
 If you’re a small business owner in need of a few ideas to help your business not just survive the COVID-19 pandemic, but also *thrive*, here are three ideas:
 
