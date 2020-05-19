@@ -18,4 +18,4 @@ youtube_code: zG27vrXAQEw
 
 <p style="text-align: center;"><em>Today we are talking about Sandy’s toolshed.</em></p>
 
-This message is just a reminder that I help my clients and our community whether or not you’re buying or selling a house. One of the ways I do that is with my toolshed. In my shed, we have a carpet cleaner, power washer, trimmer, and a fruit-picker. All you have to do is come on over\! If you need a tool for your home maintenance needs, let me know; I’d be happy to help you. To see my telescoping tree-trimmer in action, watch this short video.
+This message is just a reminder that I help my clients and our community whether you’re buying a house, selling a house, or staying put. One of the ways I do that is with my toolshed. We have a carpet cleaner, pressure washer, tree trimmer and a fruit-picker, compressor, paint sprayer, and more. All for you to borrow for free. If you need a tool for your home maintenance needs, call or email me today. To see my telescoping tree-trimmer in action, watch this short one-and-a-half minute video.
