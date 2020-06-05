@@ -2,10 +2,7 @@
 layout: post
 title: Guard Your Castle
 tags:
-  - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
+  - Home Owner Tips
 excerpt: Here are my tips on how to safeguard your home’s equity.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2020/Puget+Sound+Real+Estate+Agent-+Safeguarding+Your+Equity.mp4
