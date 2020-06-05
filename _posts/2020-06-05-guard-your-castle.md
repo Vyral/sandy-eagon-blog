@@ -16,7 +16,7 @@ youtube_code: VvzWEJx2Tjk
 
 {% include youtube.html %}
 
-Here are my tips on how to safeguard your home’s equity.
+<p style="text-align: center;"><em>Here are my tips on how to safeguard your home’s equity.</em></p>
 
 In these uncertain times, the longer we go, the more uncertain it gets. We have got to be thinking about how we can be conservative and do well by our home and our family.
 
