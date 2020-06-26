@@ -21,7 +21,7 @@ youtube_code: _iG4HJ93NYg
 
 {% include youtube.html %}
 
-When this client needed help to fix a problem, my team was there.
+<p style="text-align: center;"><em>When this client needed help to fix a problem, my team was there.</em></p>
 
 Today I’d like to share how we helped a client fix a problem.&nbsp;
 
