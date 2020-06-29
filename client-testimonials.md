@@ -4,7 +4,8 @@ layout: default
 
 # Testimonials
 
-<div class="client-testimonial"><p><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/840611932&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe></p><p
+<div class="client-testimonial"><p><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/849076570&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe></p><p
+class="testimonial-text">"Our house was well prepped [by Sandy] and prepared to sell our house. I understood [from Sandy] how the [texting] system worked as far as making the appointments and stuff therefore I had a lot of appointments the three days that it took to sell my house. If I had any questions I'd just call and ask Sandy or if she needed something done she let us know. It was a wonderful experience."</p><p class="testimonial-author">- Aretta</p><div class="client-testimonial"><p><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/840611932&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe></p><p
 class="testimonial-text">C - "How did the team prepare you for what to expect during the process?"
 S - "Very good and my expectation was total."
 C - "How would you describe the team's overall technique and communication level when negotiating on your behalf?"
