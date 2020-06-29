@@ -10,7 +10,7 @@ excerpt: 'When this client needed help to fix a problem, my team was there.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2020/Puget+Sound+Real+Estate+Agent-+Helping+a+Client+Fix+a+Problem.mp4
 pullquote: >-
-  We’ve got the resources and we have the connections to make sure it’s a great
+  We have the connections to make sure it’s a great
   experience for you.
 enclosure_type: video/mp4
 enclosure_time:
@@ -35,6 +35,6 @@ So, they moved out and it was time to sell. The house needed a little work, but 
 
 That’s when I called my people. I have a great electrician, a great plumber, and a fabulous clean-out guy who came and did all the work and got paid for it out of closing when my seller actually had the funds readily available. They were incredibly relieved to know that this work was taken care of for them, that they didn’t have to give the money up front, and that their buyer was going to be well cared for in a great house that’s going to serve them for many years to come—happy all around\! We are solutions-oriented.&nbsp;
 
-**Who’s the next person you know who’s looking for that Realtor who’s both patient (this took a couple of years, remember) and efficient?** We’ve got the resources and we have the connections to make sure it’s a great experience for you and that what needs to happen happens. Send me their contact information and we’ll take great care of them because that is what we do for you and for everyone you care about.&nbsp;
+**Who’s the next person you know who’s looking for that Realtor who’s both patient (this took a couple of years, remember) and efficient?** We’ve got the resources and we have the connections to make sure it’s a great experience for you and that what needs to happen happens. Send me their contact information, and we’ll take great care of them because that is what we do for you and for everyone you care about.&nbsp;
 
 Have an amazing day, be blessed, stay healthy, and I look forward to talking to you when there’s anything that I can do for real estate.
