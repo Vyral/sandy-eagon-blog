@@ -8,7 +8,7 @@ tags:
   - Home Seller Tips
 excerpt: 'When this client needed help to fix a problem, my team was there.'
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2020/Puget+Sound+Real+Estate+Agent-+Helping+a+Client+Fix+a+Problem.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2020/Puget+Sound+Real+Estate+Agent-+helping+a+client.mp4
 pullquote: >-
   We have the connections to make sure it’s a great
   experience for you.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: _iG4HJ93NYg
+youtube_code: 1QTc4S2QvzA
 ---
 
 {% include youtube.html %}
