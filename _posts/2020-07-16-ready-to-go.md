@@ -16,7 +16,7 @@ youtube_code: h5EyqChyPHg
 
 {% include youtube.html %}
 
-No matter which of the two trends describes your needs, we’re here to help.
+<p style="text-align: center;"><em>No matter which of the two trends describes your needs, we’re here to help.</em></p>
 
 Whether you’re staying home because of safety reasons or because of work reasons (working from home), or whether you’re looking for a different place to live because your family is changing, or your work is changing and it’s time to follow through, you are in good company.&nbsp;
 
