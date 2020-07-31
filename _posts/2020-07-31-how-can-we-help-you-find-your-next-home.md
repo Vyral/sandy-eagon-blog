@@ -4,7 +4,8 @@ title: How Can We Help You Find Your Next Home?
 tags:
   - Buyer Tips
 excerpt: Here’s why an off-market home transaction might make sense for you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2020/Puget+Sound+Real+Estate+Agent-+Your+Next+Home+May+Be+Your+Neighbors.mp4
 pullquote: We help our clients fulfill their best interests as they see them.
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +16,7 @@ youtube_code: 7IoRtKFo--k
 
 {% include youtube.html %}
 
-Here’s why an off-market home transaction might make sense for you.
+<p style="text-align: center;"><em>Here’s why an off-market home transaction might make sense for you.</em></p>
 
 Let me tell you about the not-so-new trend of checking out your neighbor’s house. You like it? Make an offer. Let me tell you how we can help you with that.
 
