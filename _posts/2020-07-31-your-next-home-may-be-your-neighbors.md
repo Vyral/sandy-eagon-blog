@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Can We Help You Find Your Next Home?
+title: Your Next Home May Be Your Neighbor’s
 tags:
   - Buyer Tips
 excerpt: Here’s why an off-market home transaction might make sense for you.
