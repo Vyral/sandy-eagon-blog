@@ -6,7 +6,7 @@ tags:
 excerpt: Here’s why an off-market home transaction might make sense for you.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2020/Puget+Sound+Real+Estate+Agent-+Your+Next+Home+May+Be+Your+Neighbors.mp4
-pullquote: We help our clients fulfill their best interests as <i>they</i> see them.
+pullquote: We help our clients fulfill their best interests as <u>they</u> see them.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
