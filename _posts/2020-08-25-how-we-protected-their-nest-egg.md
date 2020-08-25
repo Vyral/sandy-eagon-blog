@@ -16,7 +16,7 @@ youtube_code: AY0RVXrsckc
 
 {% include youtube.html %}
 
-Here’s one example of how I’m able to help clients with their goals.
+<p style="text-align: center;"><em>Here’s one example of how I’m able to help clients with their goals.</em></p>
 
 This February, one of my clients let me know that she knew of an elderly couple who were headed into assisted living, and that their kids were working on the house over the weekend, and that I should go meet them—they definitely needed my help.&nbsp;
 
