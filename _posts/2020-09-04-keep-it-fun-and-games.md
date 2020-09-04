@@ -16,7 +16,7 @@ youtube_code: eqplFUzDa5c
 
 {% include youtube.html %}
 
-Here’s why it’s so important to have fun and play games as we head to fall.
+<p style="text-align: center;"><em>Here’s why it’s so important to have fun and play games as we head to fall.</em></p>
 
 **I’m here to remind you that just because the summer is winding down, it doesn’t mean the fun has to.** What have you been doing for fun this summer? Golfing? Hiking? Swimming? Going out on the boat?
 
