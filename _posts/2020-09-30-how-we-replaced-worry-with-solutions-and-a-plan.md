@@ -16,7 +16,7 @@ youtube_code: _p7vFifEM7E
 
 {% include youtube.html %}
 
-Here’s the story of two families that we helped at the same time.
+<p style="text-align: center;"><em>Here’s the story of two families that we helped at the same time.</em></p>
 
 Hey there\! It’s Sandy with Sandy and Company here today, and I”m going to share with you two families that we helped all at once.
 
