@@ -18,13 +18,13 @@ youtube_code: _p7vFifEM7E
 
 <p style="text-align: center;"><em>Here’s the story of two families that we helped at the same time.</em></p>
 
-Hey there\! It’s Sandy with Sandy and Company here today, and I”m going to share with you two families that we helped all at once.
+Hey there\! It’s Sandy with Sandy & Company here today, and I'm going to share with you two families that we helped all at once.
 
 Doug and Kim had been looking for a new home for about five months. They were renting shop space and needed that as well as a little bit of elbow room to boot.
 
 Judy’s husband had just passed away, and even before then, they were having trouble getting around and keeping up with the maintenance on their property, house, and shop. The two of them were in the same friend group and realized they could solve each other’s issues.
 
-We were invited to help, and so we sat down, had a round table discussion, and let them know what could be done—and helped them decide what *should* be done.
+**We were invited to help, and so we sat down, had a round table discussion, and let them know what could be done**—and helped them decide what *should* be done.
 
 {% include pullquote.html %}
 
@@ -32,6 +32,6 @@ That’s just what we do. We do this every time with every single one of our cli
 
 Afterward, Judy and her family told Kerri that we were in good hands and that everything was going to be okay.
 
-Buying and selling real estate can be really stressful, but it’s what we do all the time. We can take the stress out of it and let you know that we are here to help you. I often say that real estate is in the middle of life. This is life, and we are glad to help. I’m glad to help make it right.
+Buying and selling real estate can be really stressful, but it’s what we do all the time. **We can take the stress out of it and let you know that we are here to help you.** I often say that real estate is in the middle of life. This is life, and we are glad to help. I’m glad to help make it right.
 
 Let us know how we can help you with your particular situation. We want to be your resource so that you can know you’re in good hands. Have a blessed day\! I look forward to talking to you soon.
