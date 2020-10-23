@@ -17,7 +17,7 @@ youtube_code: EQyvyHojezk
 
 {% include youtube.html %}
 
-The path to a brighter future for everyone starts with just a single step.
+<p style="text-align: center;"><em>The path to a brighter future for everyone starts with just a single step.</em></p>
 
 Today we’re talking about how bright is your future. I have the distinct pleasure of helping my son pick out his first home right now. It’s going to be a condo near work and he is so excited talking about how he’s going to be able to have his friends over, have the youth group over to play games, and even we’ll be invited for Thanksgiving dinner.
 
