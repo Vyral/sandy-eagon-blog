@@ -29,4 +29,4 @@ Looking at our lives right now, how much do you have that’s really good that y
 
 If there’s something that you can do to make your future brighter and make it positive and make it something that’s really exciting to look forward to, take that first step. Whether it’s today, whether it’s this week, what can you do right now to make your present look like yesterday’s future?
 
-Have an amazing day. If there is something I can help you with house-wise to make your future turn in your present, let me know. **We’re here to help.** Stay safe, stay healthy, and most of all, be blessed. I’ll talk to you soon.
+Have an amazing day. If there is something I can help you with house-wise to make your future turn into your present, let me know. **We’re here to help.** Stay safe, stay healthy, and most of all, be blessed. I’ll talk to you soon.
