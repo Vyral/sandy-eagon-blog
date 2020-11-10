@@ -15,7 +15,7 @@ youtube_code: AK3Aziqms5M
 
 {% include youtube.html %}
 
-Here’s how we were able to help a buyer lock in her Marysville dream home.
+<p style="text-align: center;"><em>Here’s how we were able to help a buyer lock in her Marysville dream home.</em></p>
 
 I got a call a couple months ago from a lady who was looking at one of my houses I had for sale in north Marysville. It was the absolutely perfect house for what she was looking for. Her big criteria for privacy was that she would have enough privacy that she could drink her coffee in her jammies in the morning, and this place had it.&nbsp;
 
