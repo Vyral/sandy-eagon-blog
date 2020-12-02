@@ -17,7 +17,7 @@ youtube_code: _wbFA3u6Qpo
 
 {% include youtube.html %}
 
-Here’s why the holidays are best served with a side of mindful priorities.
+<p style="text-align: center;"><em>Here’s why the holidays are best served with a side of mindful priorities.</em></p>
 
 Yesterday I had an agent call, as they often do when we put a new house on the market for sale, and asked “What is most important to yourself? As they’re crafting an offer, they want to know what they can do to make their offer acceptable to my seller.
 
