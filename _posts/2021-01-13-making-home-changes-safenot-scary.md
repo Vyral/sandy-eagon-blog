@@ -17,7 +17,7 @@ youtube_code: tf2YlDr1nQg
 
 {% include youtube.html %}
 
-Here’s how we’re protecting our clients in this wild market of ours.
+<p style="text-align: center;"><em>Here’s how we’re protecting our clients in this wild market of ours.</em></p>
 
 With this market being so hot and houses selling so quickly, and for so much with so few protections, it brings a lot of fear for both the sellers and the buyers. We’ve done a lot of things over the last few months to try to cool that down for all of our clients—there’s a lot of worry on both sides. Many sellers are concerned that they’re either going to be left homeless, or that in order to complete a transaction they’re going to have to do a whole lot of repairs that may not be necessary.&nbsp;
 
