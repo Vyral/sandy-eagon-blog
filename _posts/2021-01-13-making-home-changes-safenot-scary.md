@@ -23,7 +23,7 @@ With this market being so hot and houses selling so quickly, and for so much wit
 
 For one of our sellers right now, we actually had a buyer who was looking for just *their* home. I’ve been talking to this couple for a while, so we gave them a really long closing date that they shorten up at any time, and sure enough, **they were able to use that secure sale to be able to get into their next house more easily**, and were able to wrap that up more quickly than they had thought earlier.&nbsp;
 
-On the buying side, we have a lot of buyers who are being asked to waive inspections, waive financing, waive their title contingency—most people don’t even know what that is or why they would even want to waive it; I *do* know what it is, and I *still* don’t know why anyone would want to waive that. But the bottom line is that **not every buyer is ready to jump in and put caution to the wind and throw everything into getting a house**, because something might happen down the right, and that’s why we have those contingencies.
+On the buying side, we have a lot of buyers who are being asked to waive inspections, waive financing, waive their title contingency—most people don’t even know what that is or why they would even want to waive it; I *do* know what it is, and I *still* don’t know why anyone would want to waive that. But the bottom line is that **not every buyer is ready to jump in and put caution to the wind and throw everything into getting a house** because something might happen down the right, and that’s why we have those contingencies.
 
 {% include pullquote.html %}
 
