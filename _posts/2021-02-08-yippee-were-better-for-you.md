@@ -4,7 +4,8 @@ title: Yippee!! We’re Better for You!!
 tags:
   - Real Estate
 excerpt: The newest addition to Sandy and Company has been a match made in heaven.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2021/Puget+Sound+Real+Estate+Agent_+Meet+Our+New+Agent+Sarah.mp4
 pullquote: >-
   Our motto on our team is ‘making lives better,’ and Sarah definitely does that
   for all of us.
