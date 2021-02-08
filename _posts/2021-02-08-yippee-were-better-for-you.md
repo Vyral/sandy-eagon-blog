@@ -17,7 +17,7 @@ youtube_code: btqkoLLBZck
 
 {% include youtube.html %}
 
-The newest addition to Sandy and Company has been a match made in heaven.
+<p style="text-align: center;"><em>The newest addition to Sandy and Company has been a match made in heaven.</em></p>
 
 Hey there\! It’s Sandy with Sandy and Company, and today I'm so excited I get to introduce Sarah Green.&nbsp;
 
