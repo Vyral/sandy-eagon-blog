@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Had to Sell—But They’d Just Bought!"
-tags: 
+date: 2021-03-08 00:00:00
+tags:
   - Buyer Tips
 excerpt: Here’s a story about how we helped our clients who were going through rough times.
 enclosure: >-
