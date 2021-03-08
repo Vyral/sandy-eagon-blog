@@ -4,7 +4,7 @@ title: "Had to Sell—But They’d Just Bought!"
 tags: 
   - Buyer Tips
 excerpt: Here’s a story about how we helped our clients who were going through rough times.
-enclosure: >-.
+enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2021/Puget+Sound+Real+Estate+Agent_+Meet+Our+New+Agent+Sarah.mp4
 pullquote: We were able to find a buyer for them that not only helped them break even, but also put some money in their pockets.
 enclosure_type: video/mp4
