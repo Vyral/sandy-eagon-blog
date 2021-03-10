@@ -28,7 +28,7 @@ So we talked about how much we would list the house for, and that amount would b
 
 There were a couple other things that were worrying the sellers when we were starting out. Like I said, they were a young couple; they didn’t have all the fancy furniture and decorations. They didn’t know what it would take to make their house look good in today’s hot market. So it was such a relief for them to know that they wouldn’t have 40 people tromping through their house and looking through their stuff.
 
-Our sellers were thrilled that we were able to find a buyer for them that not only helped them break even, but also put some money in their pockets so they could go on to a fresh start. This is such an important process, and we are honored to help them out. When we spoke at the very beginning, they said that they called us because we helped them so well when they bought. **There wasn’t anyone else to call, and they knew that we’d take good care of them.**
+Our sellers were thrilled that we were able to find a buyer for them that not only helped them break even, but also put some money in their pockets so they could go on to a fresh start. This is such an important process, and we are honored to help them out. When we spoke at the very beginning, they said that they called us because we helped them so well when they bought. **There wasn’t anyone else to call since they knew that we’d take good care of them.**
 
 Who do you know that needs help with their house? Who do you know that is in a spot where they’re not quite sure what they can do next? We would love to talk with them about their options and what we can do to help them through their best-case scenario.
 
