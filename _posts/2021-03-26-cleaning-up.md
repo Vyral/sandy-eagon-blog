@@ -18,13 +18,13 @@ youtube_code: RjpBKFWPxEM
 
 {% include excerpt.html %}
 
-Today we’re talking about how to make our little corner of the world better. Lots of us these days are taking walks out around the neighborhood and down through the parks, and we know it’s good for our health. We know it’s good for our dogs if we have them. I’ve got puppy down here with me right now.&nbsp;
+Today we’re talking about how to make our little corner of the world better. Lots of us these days are taking walks out around the neighborhood and down through the parks, and we know it’s good for our health. We know it’s good for our dogs if we have them. I’ve got a puppy down here with me right now.&nbsp;
 
 When we’re taking those walks, whether it’s around our own homes, whether it’s in the spaces we really enjoy being, there’s often stuff we don’t want to see. It’s trash. Maybe somebody left their lunch stuff behind, their Taco Bell bag. Maybe somebody was walking their dog and didn’t have a bag. We can hope that’s why they didn’t pick up.&nbsp;
 
 There are things that make it not so nice for us to do our own walking and our own enjoying. We could probably complain about that a bit, but the biggest thing is what I like to do is go ahead and when I have an extra bag, which is often, I like to grab a couple with me, and I see something that, whether it’s trash right around my own neighborhood, I’m not picking up the whole trash. I’m not going out every day with making sure that I'm getting it all, but **if there’s something obvious that’s easy for me to grab, I do it.** I just pick it up.&nbsp;
 
-If I’m walking along the trail, because I like to go down here off of Sunnyside and walk along the slough there and I see a pile, I’ll leave it there when I’m going down and when I come back, if i’ve got space in the bag, I'll toss it in there with whatever Harley put in. I’m not a big good samaritan. I just know that I like having my space look good and look clean.
+If I’m walking along the trail, (I like to go down here off of Sunnyside and walk along the slough there) and I see a pile, I’ll leave it there when I’m going down and when I come back, if I’ve got space in the bag, I'll toss it in there with whatever Harley put in. I’m not a big good samaritan. I just know that I like having my space look good and look clean.
 
 {% include pullquote.html %}
 
