@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When It’s Wise to Have a Zero-Down Loan
+title: Our Buyer Went Zero-Down to Win
 tags:
   - Buyer Tips
 excerpt: Here’s when it's smart for buyers to opt for a zero-down loan.
@@ -31,7 +31,7 @@ Our buyers were already planning to offer their top of $445,000 to this seller, 
 
 Why would a buyer want to pay more than the house appraised for? Here’s the deal: **Appraisers are confined to the houses that are already sold, and the prices are public.** That means the prices on these homes are determined at least one or two months in the past, and prices are rising so quickly that appraisers simply don’t have access to the value that homes are worth in today’s market, and that makes a valuation very difficult. Once a house closes, the price is made public—not the appraised value, but the price that the seller and the buyer ultimately agreed on. And then others will price their upcoming houses on this public sales price. Therefore, that agreed-on price now becomes that value.&nbsp;
 
-Plus, when the buyer is paying over the appraised value, they’re still not paying any more than what they already agreed to the seller in the first palace. So they still felt like that was a fair value in today’s market. And when they’re making a higher down payment, **the loan is actually based on a lower amount, so they’re going to be able to have a lower payment and pay less for the house in the long run.** Pause this video and think about that for a minute. Rewind and replay if you need to, because this is important.&nbsp;
+Plus, when the buyer is paying over the appraised value, they’re still not paying any more than what they already agreed to the seller in the first place. So they still felt like that was a fair value in today’s market. And when they’re making a higher down payment, **the loan is actually based on a lower amount, so they’re going to be able to have a lower payment and pay less for the house in the long run.** Pause this video and think about that for a minute. Rewind and replay if you need to, because this is important.&nbsp;
 
 So back to our buyers. We have a plan in place. The sellers are comfortable. The buyers are comfortable, and they’re going to get their keys in just a few days.&nbsp;
 
