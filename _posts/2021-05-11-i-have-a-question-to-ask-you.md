@@ -19,11 +19,11 @@ youtube_code: 5_kQiFO9dWs
 
 Today I’m asking you: Are you home yet? I’m heading on my way to an inspection for one of our buyers and I am so thrilled for him because he has waited so long to find a place that he can feel like he calls home. He rents a basement apartment and the people that he rents from are really good people. They consider him family, but it’s not the same as having your own space, your own noises, and being able to make sure that your payment is going to stay steady in an environment where inflation makes the rest of our costs go up.&nbsp;
 
-**I’m so excited that we’re finally finding a place for him that feels like home** and that he can come home and think about the rest of what’s going on around him in the world and he can know that life is good because he has his own space.
+**I’m so excited that we’re finally finding a place for him that feels like home** and that he can come home and think about the rest of what’s going on around him in the world, and he can know that life is good because he has his own space.
 
 A lot of people are wondering right now is this really the right time to buy a house? The question is really only answered by you. The few different factors you want to think about are: How much do you want to pay for your money? Is the interest rate going to stay the same then as it is now? I’m not a gambler, and so the future doesn’t look bright for that.
 
-The other question is inflation. With the price of money going up, you can secure your house payment in right now so you aren’t having to pay a 3% to 5% increase in your rent every year or if sometimes even more than that. When landlords are saying, “Hey, I could get so much more if I sold it. Maybe I should just rent it for more.” I’m hearing a lot of people talk about significant rent increases that are really stretching their budget.
+The other question is inflation. With the price of money going up, you can secure your house payment right now so you aren’t having to pay a 3% to 5% increase in your rent every year or if sometimes even more than that. When landlords are saying, “Hey, I could get so much more if I sold it. Maybe I should just rent it for more.” I’m hearing a lot of people talk about significant rent increases that are really stretching their budget.
 
 {% include pullquote.html %}
 
