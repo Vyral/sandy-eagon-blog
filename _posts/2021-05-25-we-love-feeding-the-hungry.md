@@ -29,6 +29,6 @@ Let’s see, I’m looking into the sun, but my truck is full, my heart is full,
 
 If you’re in a spot, and if you’re able to give, free free to give me a call. I keep a bag going all the time. **Give me a call, and I will pick up or donate to your local food bank** if you know where it is and it’s easily accessible.&nbsp;
 
-Have a super day. Bless the people around you. It really is the best way for you to get blessed in return. There really is nothing like going out and being face to face and being in the opportunity to bless other people that lifts you up.&nbsp;
+Have a super day. Bless the people around you. It really is the best way for you to get blessed in return. There really is nothing like going out and being face to face with people and having the opportunity to bless those who lift you up.
 
 Have a super blessed day, stay healthy, be loved, be blessed, and I look forward to talking with you soon when I can help you with anything real estate or anything else. Take care.
