@@ -20,7 +20,7 @@ youtube_code: NLGj1cIJzqs
 
 {% include excerpt.html %}
 
-Today we’re talking about the timing of real estate ‘cause it’s not always fun. I had a client call me a few months ago, and **things were not going so well with her dad down in Texas, and so they were kind of gearing up toward making a great big move.** They had a number of belongings in different states, in Utah, in Texas, and things around here, and so they were collecting what they had left behind at different times in their life and really wanted to get everything back into the same area. So they were doing several trips out of state and trying to put everything together, that it was a smooth process.&nbsp;
+Today we’re talking about the timing of real estate, ‘cause it’s not always fun. I had a client call me a few months ago, and **things were not going so well with her dad down in Texas, and so they were kind of gearing up toward making a great big move.** They had a number of belongings in different states, in Utah, in Texas, and things around here, and so they were collecting what they had left behind at different times in their life and really wanted to get everything back into the same area. So they were doing several trips out of state and trying to put everything together, that it was a smooth process.&nbsp;
 
 Well, we got most of that worked out and put the house on the market. Within 24 hours we got an offer, a great offer, and so my clients decided not to worry too much about waiting through the weekend. We let the people who had already seen it know that we were reviewing offers that evening, and there was a flurry, and **we ended up with six offers on day two—all well over our listing price of $700,000.** By the time it was over, we ended up having offers up to $850,000, and we took one for just under that at $830,000.&nbsp;
 
@@ -34,6 +34,6 @@ That’s what we do as real estate experts; we help our clients take a look at t
 
 Ultimately, the house did close, the seller got his money, the buyers got the keys to the house, and my sellers are in Texas and taking care of family, which is where they need to be. So the question is of timing, whether it’s “Do we sell right now?” or it’s, “Can my property in this market do what I need it to do for the next step?” That’s the conversation that we get to have, and then when we’re in the thick of it, we get to make sure that our client’s best needs, as they see them, are taken care of and protected.&nbsp;
 
-So what time is it? **It’s time for us to take care of you**. Our motto is “Making lives better,” how can we make yours?&nbsp;
+So what time is it? **It’s time for us to take care of you**. Our motto is “Making lives better.” How can we make yours?&nbsp;
 
 Have a beautiful day, stay blessed, stay healthy, and we look forward to talking with you soon when we can help you with your real estate needs.
