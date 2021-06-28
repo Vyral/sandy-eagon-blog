@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Here’s an example of how timing can affect your real estate plans.
-enclosure: https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2021/It's+About+Time.mp4
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2021/It's+About+Time+(1).mp4
 pullquote: >-
   We want to be fair but also confident that this is really going to come
   together for everyone.
@@ -14,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: NLGj1cIJzqs
+youtube_code: 0oIc5o83yGI
 ---
 {% include youtube.html %}
 
