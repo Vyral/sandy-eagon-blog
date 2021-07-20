@@ -4,8 +4,6 @@ title: Your Summer 2021 Real Estate Market Update
 tags:
   - Market Update
   - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
 excerpt: Here’s my take on what we’re seeing in the real estate market right now.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2021/Your+Summer+2021+Real+Estate+Market+Update.mp4
