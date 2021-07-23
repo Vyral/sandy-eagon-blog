@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: Here’s my take on what we’re seeing in the real estate market right now.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2021/Your+Summer+2021+Real+Estate+Market+Update.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2021/Your+Summer+2021+Real+Estate+Market+Update+(1).mp4
 pullquote: We’re ready to help you when you're ready to make a change.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Ro1sspbVkb4
+youtube_code: XN2cIVQHTqg
 ---
 {% include youtube.html %}
 
