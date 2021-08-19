@@ -23,10 +23,13 @@ youtube_code: sRa6lJwY2Gs
 
 When I’m coming up to a home with a buyer, we use our buyer eyes to look for four main things:
 
-1. What is broken?
-2. What is dated?
-3. What is dirty?
-4. What is cluttered?
+1\. What is broken?
+
+2\. What is dated?
+
+3\. What is dirty?
+
+4\. What is cluttered?
 
 As you’re walking through your home before you put it on the market, **look at what buyers are going to want to deal with right now.** You may say that in a seller’s market, everything is going to sell and you don’t have to lift a finger. That is true—to a point. You don’t have to lift a finger, but if you don’t, you’re going to take a hit in your pocketbook. If you really want the home to shine and sparkle, and if you want to hit the buyers right where their hearts are, you need to make sure that everything is ready to go.
 
