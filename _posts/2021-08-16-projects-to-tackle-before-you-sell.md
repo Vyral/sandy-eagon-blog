@@ -7,7 +7,7 @@ excerpt: >-
   If you are thinking about selling, here are a few things you need to think
   about.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2021/Sandy+Eagon+with+subtitles.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2021/Sandy+Eagon+EDIT+8.17.mp4
 pullquote: >-
   If you are thinking of selling your house within the next few months, now is
   the time to take stock and see what you have.
