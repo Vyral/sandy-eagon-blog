@@ -45,7 +45,7 @@ If it’s dated, is it something like paint and carpet? If so, you can always ge
 
 Next, **assess whether your home is clean and sparkling.** You could do most of the work yourself, but depending on the situation, you might want to hire a cleaning crew at the last minute to come in and do a deep clean of the property.&nbsp;
 
-If your home is cluttered**, figure out if you have things that you need to donate or put away in a storage unit.** Now is the time to take a look, especially because we have one more month of reliably good weather &nbsp;to get someone out there to see what they can do, like a contractor, before things may start to turn.
+If your home is cluttered**, figure out if you have things that you need to donate or put away in a storage unit.** Now is the time to take a look, especially because we have one more month of reliably good weather to get someone out there to see what they can do, like a contractor, before things may start to turn.
 
 If you are thinking of selling your house within the next few months, now is the time to take stock and see what you have. Give me a call\! Let me walk through and share with you what I would do (or not do) if I were you, as well as how we could help you make the process smoother and simpler. Let me know how we can help\! Have a super blessed day.
 
