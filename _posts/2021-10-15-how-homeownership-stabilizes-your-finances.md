@@ -5,7 +5,8 @@ tags:
     - Real Estate
     - Buyer Tips
 excerpt: 'Here’s a short story that shows why homeownership is so important. '
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2021/How+Homeownership+Stabilizes+Your+Finances+(1).mp4
 pullquote: The best way to control your future living costs is to own your own home.
 enclosure_type: video/mp4
 enclosure_time:
