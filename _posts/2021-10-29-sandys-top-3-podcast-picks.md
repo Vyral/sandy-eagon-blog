@@ -4,7 +4,8 @@ title: Sandy's Top 3 Podcast Picks
 tags:
     - More From Sandy & Company
 excerpt: Here are three podcasts that have improved my life for the better.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2021/Sandy's+Top+3+Podcast+Picks+(1).mp4
 pullquote: This is how I keep my mind fed.
 enclosure_type: video/mp4
 enclosure_time:
