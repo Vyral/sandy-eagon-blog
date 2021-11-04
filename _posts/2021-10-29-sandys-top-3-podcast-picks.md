@@ -19,7 +19,7 @@ youtube_code: Y2z9pKzQiro
 
 Hi, this is Sandy with Sandy and Company and today we are talking about your greatest investment: yourself.
 
-Everything, including your thought life and your motivation to become and to stay the best of who God made you. You can charge ahead in your business life and in your home life and your personal and your school life, but unless you have someone else coming alongside to help you stay up the up at the top, you can slide pretty quickly down that hill that you have climbed every day.
+Did you know that the law of entropy applies to yourself as well? Everything moves from order to chaos. Everything, including your thought life and your motivation to become and to stay the best of who God made you. You can charge ahead in your business life and in your home life and your personal and your school life, but unless you have someone else coming alongside to help you stay up the up at the top, you can slide pretty quickly down that hill that you have climbed every day.
 
 In an interview in 2019, Warren Buffet said, “By far, the best investment you can make is in yourself.” There are so many ways to invest in yourself, whether you go into classes and seminars, if you read books, listen to podcasts, you do coaching or you get mentorship.
 
