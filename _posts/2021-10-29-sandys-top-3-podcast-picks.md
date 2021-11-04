@@ -23,7 +23,7 @@ Did you know that the law of entropy applies to yourself as well? Everything mov
 
 In an interview in 2019, Warren Buffet said, “By far, the best investment you can make is in yourself.” There are so many ways to invest in yourself, whether you go into classes and seminars, if you read books, listen to podcasts, you do coaching or you get mentorship.
 
-One of the best ways I can stay awake is to listen to podcasts and to actually keep my mind moving the entire time. And they're usually growth minded. I'm gonna give you my three favorite podcasts right now.
+Lately my favorite is podcasts. When I'm in the car, for an hour or so, one of the best ways I can stay awake is to listen to podcasts and to actually keep my mind moving the entire time. And they’re usually growth minded. I’m gonna give you my three favorite podcasts right now.
 
 **Here's my first favorite podcast:&nbsp;**[**TheBrianBuffiniShow.com**](https://www.thebrianbuffinishow.com/){: target="_blank" rel="noopener"}**.** I love The Brian Buffini Show because he is interviewing so many different people from different walks of life.
 
