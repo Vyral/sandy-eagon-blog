@@ -17,12 +17,14 @@ youtube_code: 1Ciuq63d2K0
 
 {% include excerpt.html %}
 
-The 2021 holiday season has officially begun\! I hope you are as excited as I am.
+Thanksgiving is here\! I hope you are as excited as I am.
 
-**I’d like to take a moment to express my gratitude to all of you this Thanksgiving.** I have met some truly wonderful people, and I'm proud to have helped so many reach their real estate goals over the years. I wouldn’t be where I am today without all of your support.
+**I’d like to take a moment to express my gratitude to all of you this Thanksgiving.**&nbsp;We've had a wonderful year with wonderful people who have made me laugh and love. I wouldn’t be where I am today without all of your support, and we are grateful.
 
-Enjoy your Thanksgiving dinner—that’s what I plan to do\!
+Please enjoy my Thanksgiving encouragement video, complete with a significant guest appearance by Harley.
 
-In the meantime, please don’t hesitate to reach out to me if you have any real estate questions. I would be happy to help you.
+And then enjoy your Thanksgiving dinner—that’s what we plan to do\!
 
-Happy Thanksgiving\!
+Then as soon as the leftovers are put away and the stock is ready for turkey noodle soup, we'll be back in the office and ready to serve you again.
+
+Please watch to hear how we're grateful for you this Thanksgiving season.&nbsp;
