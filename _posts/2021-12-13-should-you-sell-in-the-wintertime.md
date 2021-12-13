@@ -2,9 +2,6 @@
 layout: post
 title: Should You Sell in the Wintertime?
 tags:
-  - Market Update
-  - Real Estate
-  - Buyer Tips
   - Home Seller Tips
 excerpt: Here’s the answer to whether it is a good time to sell in winter.
 enclosure: >-
