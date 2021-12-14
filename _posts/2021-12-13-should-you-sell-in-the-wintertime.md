@@ -17,7 +17,7 @@ youtube_code: QSQwTd6FVYg
 
 {% include excerpt.html %}
 
-Hi, this is Sandy with Sandy and Company, and today we are talking about the wintertime market. The question we often get is: “Is there a bad time to sell? Can I sell in the wintertime? Is it a good time to sell?” **And my answer is always, yes; it’s a great time to sell.** There is actually never a bad time to sell.&nbsp;
+Today we are talking about the wintertime market. The question we often get is: “Is there a bad time to sell? Can I sell in the wintertime? Is it a good time to sell?” **And my answer is always, "yes; it’s a great time to sell."** There is actually never a bad time to sell.&nbsp;
 
 But for example, we have two families right now that we have helped to go ahead and sell their house, one in town and one in a bit more outlying area. And they both had multiple offers. They both went over their listing price.
 
