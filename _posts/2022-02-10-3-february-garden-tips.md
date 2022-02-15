@@ -4,8 +4,7 @@ title: 3 February Garden Secrets
 tags:
   - Home Owner Tips
 excerpt: Three gardening tips that you should do before it warms up outside.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2022/3+February+Garden+Tips.mp4
+enclosure:
 pullquote: >-
   Now’s the time to just make your space clean and fresh and ready for the new
   green stuff to come up.
@@ -13,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: iUGNHzbykHM
+youtube_code: eslQyA_5-Mw
 ---
 {% include youtube.html %}
 
