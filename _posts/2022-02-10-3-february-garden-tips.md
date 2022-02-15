@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 February Garden Tips
+title: 3 February Garden Secrets
 tags:
   - Home Owner Tips
 excerpt: Three gardening tips that you should do before it warms up outside.
@@ -23,13 +23,13 @@ Hey, this is Sandy with Sandy and Company. You may think that because it’s Feb
 
 I confess that I have been inside baking bread and enjoying my cooking shows and my knitting, and I’ve been looking outside going, “Man, I think there are a few things I need to do, but I’m not quite ready to start.” Well, here are three easy things that won't take me a lot of time, and as you’ll see, I am not done with them. They still have to go, but in the next couple of weeks, my intent is to knock those things out.
 
-**The first thing we need to do is trim these fruit trees.** You might be able to see. If you look at it, you can kind of see where it’s rounded and where the growth is—the lots of little twigs—and where it just goes straight up. Take a look at that shape, and you can see where it really wants to trim back to so that you can have nice, diverse branches coming out and nothing that looks dead.&nbsp;
+**The first thing we need to do is trim these fruit trees.** You might be able to see. If you look at it, you can kind of see where it’s rounded and where the growth is—the lots of little twigs—and where it just goes straight up. Take a look at that shape, and you can see where it really wants to trim back to so that you can have nice, diverse branches coming out and nothing that looks dead.
 
 Take anything away that looks dead, and take anything away that’s cutting across another branch. They actually want to have their own space. If you don’t have trimmers, that’s actually something that I can lend you. I’ve got trimmers for some really tall trees. There’s a clip and there’s a saw part of it that would be really helpful there. But do it before the sap starts coming into the branches and before the buds open up. So this is perfect fruit tree trimming time. Say that five times fast with braces\!
 
 {% include pullquote.html %}
 
-**The next thing is to get rid of dead stuff.** Now, I actually have over here, I’m actually embarrassed to show you, but I actually have sunflowers that are dead and just sitting there, and they got to go. Anything that’s dead that's a perennial, cut it back. If it’s an annual, take it away completely.&nbsp;
+**The next thing is to get rid of dead stuff.** Now, I actually have over here, I’m actually embarrassed to show you, but I actually have sunflowers that are dead and just sitting there, and they got to go. Anything that’s dead that's a perennial, cut it back. If it’s an annual, take it away completely.
 
 While you’re there, go ahead and pull out some of those green weeds that are coming through, and just make some good space for the new plants to come up, and decide what it is that you want to keep and what you want to take out. Now is the time.
 
