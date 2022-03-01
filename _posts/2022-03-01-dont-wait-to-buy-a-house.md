@@ -4,7 +4,8 @@ title: Don’t Wait To Buy a House
 tags:
   - Home Buyer Tips
 excerpt: Don’t wait to buy a home; it will cost you more in the long run.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2022/Don%E2%80%99t+Wait+To+Buy+a+House+(1).mp4
 pullquote: From 1989 to 2020, our prices have only dropped four times.
 enclosure_type: video/mp4
 enclosure_time:
