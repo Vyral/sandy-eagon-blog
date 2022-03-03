@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don’t Wait To Buy a House
+title: 'See For Yourself: Why You Can''t Wait for Prices to Drop!'
 tags:
   - Home Buyer Tips
 excerpt: Don’t wait to buy a home; it will cost you more in the long run.
