@@ -21,7 +21,7 @@ Today I want to give you one more reason not to wait until prices drop before yo
 
 Let me explain: Since 1989, our prices have dropped only four years; from 1989 to 2020, our prices have only dropped four times. Now, this is a national graph, but it follows what happened here locally in the Seattle area as well. I felt that bottom fall out in June of 2007, and it was not pretty. I’ve also seen since then that anyone who held onto their property has not only made up that value, but then some.
 
-**Real estate has always made money over time.** So if you are in the market to get a house and keep a house, to get an investment property and keep that investment property, to get a second house and keep that second house, do it now. Just do it now; I don’t care if you can buy a condo, if you can buy a little fixer-upper, anything you can get your hands on. I know that it’s a competition, but do it now because later on it will only cost you more.
+**Real estate has always made money over time.** So if you are in the market to get a house and keep a house, to get an investment property and keep that investment property, to get a second house and keep that second house, do it now. Just do it now; I don’t care if you can buy a condo, if you can buy a little fixer-upper, anything you can get your hands on. I know that it’s a competition, but do it now because later on, it will only cost you more.
 
 {% include pullquote.html %}
 
