@@ -4,20 +4,19 @@ title: Should You Cosign for Your Friends or Family?
 tags:
   - Real Estate
 excerpt: Here are a few considerations to make before cosigning on someone’s loan.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2022/Should+You+Cosign+for+Your+Friends+or+Family_.mp4
+enclosure:
 pullquote: Do you have the money to pay that bill if they don’t?
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: i35hJFP_9jo
+youtube_code: YsDMTfMO4Nc
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-Hi, this is Sandy with Sandy and Company, and today we’re talking about whether you should cosign a loan for family or friends. Most of us have gotten a helping hand at some point in our lives. When I was teaching high school, I often had students come in and ask if they could borrow a dollar or 50 cents, whether it was something for the snack machine or to get lunch. As long as I had the money, I would go ahead and lend it. I made a little note, and if they didn’t pay me back, I just never lent any money to them again.&nbsp;
+Hi, this is Sandy with Sandy and Company, and today we’re talking about whether you should cosign a loan for family or friends. Most of us have gotten a helping hand at some point in our lives. When I was teaching high school, I often had students come in and ask if they could borrow a dollar or 50 cents, whether it was something for the snack machine or to get lunch. As long as I had the money, I would go ahead and lend it. I made a little note, and if they didn’t pay me back, I just never lent any money to them again.
 
 **If someone is asking you to cosign a loan, it’s probably a lot bigger number than 50 cents or a dollar.** You have to ask yourself two questions that are very important before you decide to cosign on a loan for someone that you care about.
 
