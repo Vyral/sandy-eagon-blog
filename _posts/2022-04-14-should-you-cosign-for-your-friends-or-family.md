@@ -27,7 +27,7 @@ Secondly, could your relationship withstand that stress? Those are the two bigge
 
 {% include pullquote.html %}
 
-Let’s say you can answer yes to both of those questions or for whatever reason you feel an obligation to go ahead and say yes and cosign. **You need to have some security in knowing that they’re actually making that payment,** whether you get statements that show every month that it’s been made or whether you can get notified if those payments fall behind. There are times where an authorized person can get notifications if the payment is not made. You need to not be surprised by a collection bill in your mailbox that is so far behind that it’s both affecting your credit and you’ve got collectors on your tail to get that bill paid.
+Let’s say you can answer yes to both of those questions or for whatever reason you feel an obligation to go ahead and say yes and cosign. **You need to have some security in knowing that they’re actually making that payment,** whether you get statements that show every month that it’s been made or whether you can get notified if those payments fall behind. There are times when an authorized person can get notifications if the payment is not made. You need to not be surprised by a collection bill in your mailbox that is so far behind that it’s both affecting your credit and you’ve got collectors on your tail to get that bill paid.
 
 If all that’s in place and you feel like this is the right thing to do, then yes. Please be a help to your friend, be a help to your family member, and help them get that foot up so that they can do what they need to to provide for their family as well.
 
