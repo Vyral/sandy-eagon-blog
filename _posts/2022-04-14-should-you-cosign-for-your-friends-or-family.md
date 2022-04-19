@@ -4,14 +4,13 @@ title: Should You Cosign for Your Friends or Family?
 tags:
   - Real Estate
 excerpt: Here are a few considerations to make before cosigning on someone’s loan.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sandy+Eagon/2022/Should+You+Cosign+for+Your+Friends+or+Family_+(1).mp4
+enclosure:
 pullquote: Do you have the money to pay that bill if they don’t?
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: YsDMTfMO4Nc
+youtube_code: GsBmsVSXbHY
 ---
 {% include youtube.html %}
 
