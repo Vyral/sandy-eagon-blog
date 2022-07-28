@@ -21,7 +21,7 @@ youtube_code: S90YHnuNoLk
 
 Hey, this is Sandy with Sandy and Company, and today we are talking about the housing market of summer 2022. I was at a golf tournament last weekend, and so many people asked me how the housing market was, and I know we're hearing about the rising interest rates and the lower prices and the more time on market, but truly guys, the sky is not falling.
 
-Take a look at the graph at 0:29 in the video. This is all of Snohomish County since January of 2021 — for the last year, and then plus the beginning of that one. And yes, the stats for June came out, and like we expected, **the prices are lower than they were in April and May**. $729,000 for the median price, so as many houses sold above, as below that number. Although in April, the number was $775,000, a change of about $45,000.
+Take a look at the graph at 0:29 in the video. This is all of Snohomish County since January of 2021 — for the last year, and then plus the beginning of that one. And yes, the stats for June came out, and like we expected, **the prices are lower than they were in April and May**. $729,000 for the median price, so as many houses sold above as below that number. Although in April, the number was $775,000, a change of about $45,000.
 
 {% include pullquote.html %}
 
