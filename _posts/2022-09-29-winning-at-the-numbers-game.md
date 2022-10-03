@@ -10,7 +10,7 @@ pullquote: Real estate really is all about the numbers.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/9-27-22-sandy-yt.jpg
+youtube_alternate_image: /uploads/10-3-22-sandy-yt.jpg
 youtube_code: VThy2kJVUvw
 ---
 {% include youtube.html %}
