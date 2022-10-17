@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When You Price Your Home Wrong
+title: Not JUST Because We Said So
 tags:
   - Home Seller Tips
 excerpt: When Bob met Sarah, he had a lot to learn about pricing his home.
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/10-10-22-sandy-yt.jpg
-youtube_code: boGJhmXA51o
+youtube_code: ROYHV7TFU30
 ---
 {% include youtube.html %}
 
@@ -28,7 +28,7 @@ Back in July, we weren't sure exactly how much we had shifted, and so it was clo
 
 Shortly after Bob accepted the offer, he told Sarah, “I wish I had listened to you from the beginning.”
 
-The sellers who lose out right now are not the ones who are so crazy-- well, they lose too. But it's not just the ones who are so crazy about the price that nobody would even think about looking at that. It's the ones who wish they could get a little bit more.
+The sellers who lose out right now are not the ones who are so crazy– well, they lose too. But it's not just the ones who are so crazy about the price that nobody would even think about looking at that. It's the ones who wish they could get a little bit more.
 
 They say, “But I think we can try for a little bit more, and we can always drop it later.” The problem is that as they’re dropping it later, the buyer who would have liked the price that was appropriate is already on down to the next price down. You don’t want to be that person. And as much as we love our sellers, we always want what the seller can best get in this market.
 
