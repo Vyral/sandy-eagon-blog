@@ -9,7 +9,7 @@ pullquote: So who do you know right now who maybe is a little hardheaded?
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/10-10-22-sandy-yt.jpg
+youtube_alternate_image: /uploads/10-18-22-yt-sandy.jpg
 youtube_code: ROYHV7TFU30
 ---
 {% include youtube.html %}
