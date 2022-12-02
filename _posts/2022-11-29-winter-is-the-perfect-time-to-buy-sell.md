@@ -12,7 +12,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/11-23-22-sandy-yt.jpg
+youtube_alternate_image: /uploads/12-2-22-sandy-yt.jpg
 youtube_code: V_ZxBjq5lyU
 ---
 {% include youtube.html %}
