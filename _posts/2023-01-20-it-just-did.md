@@ -10,8 +10,8 @@ pullquote: >-
   five or six years.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: /uploads/1-20-23-eagon-yt.jpg
-youtube_alternate_image: ''
+use_youtube_image: ''
+youtube_alternate_image: /uploads/1-20-23-eagon-yt.jpg
 youtube_code: eoIJ9DptU0A
 ---
 {% include youtube.html %}
