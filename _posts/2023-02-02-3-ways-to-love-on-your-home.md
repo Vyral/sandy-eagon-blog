@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/1-30-23-eagon-yt.jpg
-youtube_code: ILJ2cCgoskA
+youtube_code: qoD45Mbzrhg
 ---
 {% include youtube.html %}
 
