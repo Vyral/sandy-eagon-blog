@@ -16,17 +16,17 @@ youtube_code: 4qidVyCTXDU
 
 {% include excerpt.html %}
 
-Hi there. Sandy with Sandy and company. And today, we are talking about whether your house still fits you. I've got three tips. If you look around, ask yourself these questions and maybe your house is more than you need to be paying for to keep up. My first question is how many rooms do you use? If you've got a four-bedroom house with a living room and a family room and a five-car garage, how many of those do you use?
+Hi there. Sandy with Sandy and company. And today, we are talking about whether your house still fits you. I've got three tips. If you look around, ask yourself these questions and maybe your house is more than you need to be paying for to keep up. My first question is **how many rooms do you use**? If you've got a four-bedroom house with a living room and a family room and a five-car garage, how many of those do you use?
 
 Do you park one car in a bay and you have another one for your tools, but you've got a couple extra? Do you use two of the four bedrooms, one for yourselves and one for a guest room? But the other two really don't get much activity other than sticking stuff in there when you want to just pull something out of the way really fast? If you've got rooms that just aren't getting used, maybe you don't need to be paying for the upkeep for them. Just a thought.&nbsp;
 
-My second question for you is, is the maintenance too much? We've all had chores that just take a little longer to get to than we want to. Maybe you notice that the sinks need cleaning and it takes you a couple days to get there. That's one thing. But when you also notice that the trees aren't getting trimmed or that you've got a gutter that's been leaking and not only are you not getting to it, but you're not likely to get to it, and it could cause further damage than maybe your house and your property is too much for you to maintain right now.
+My second question for you is, **is the maintenance too much**? We've all had chores that just take a little longer to get to than we want to. Maybe you notice that the sinks need cleaning and it takes you a couple days to get there. That's one thing. But when you also notice that the trees aren't getting trimmed or that you've got a gutter that's been leaking and not only are you not getting to it, but you're not likely to get to it, and it could cause further damage than maybe your house and your property is too much for you to maintain right now.
 
 {% include pullquote.html %}
 
 My third question is more for location. Where is your family and where are your friends? Where is your community of people that make you feel good that you can go say hi to and they can come and see you? If you're feeling isolated in your home or if you're finding that family and friends are just too far away to drive to on a regular basis, perhaps it's time to think of a change.
 
-There's a couple more things as well, but the bottom line is that your home has to fit you. If you want that full report, I actually got it from karen.com, which I find was a really nice resource page for looking at whether this was the right time for you to downsize and is it the right place for you to move in with family?
+There's a couple more things as well, but **the bottom line is that your home has to fit you**. If you want that full report, I actually got it from karen.com, which I find was a really nice resource page for looking at whether this was the right time for you to downsize and is it the right place for you to move in with family?
 
 Those are some of the questions that really need to be talked about and so that you can be living in the home that you feel comfortable in and that you feel safe. If you have any more questions like this, give me a call. We are helping our seniors. I actually have my senior designation. Really just because if I'm going to get more education, I'm going to do it in such a way that serves my clients and serves them well.
 
