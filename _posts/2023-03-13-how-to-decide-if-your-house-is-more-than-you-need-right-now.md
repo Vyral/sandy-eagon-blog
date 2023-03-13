@@ -26,7 +26,7 @@ My second question for you is, **is the maintenance too much**? We've all had ch
 
 My third question is more for location. Where is your family and where are your friends? Where is your community of people that make you feel good that you can go say hi to and they can come and see you? If you're feeling isolated in your home or if you're finding that family and friends are just too far away to drive to on a regular basis, perhaps it's time to think of a change.
 
-There's a couple more things as well, but **the bottom line is that your home has to fit you**. If you want that full report, I actually got it from karen.com, which I find was a really nice resource page for looking at whether this was the right time for you to downsize and is it the right place for you to move in with family?
+There's a couple more things as well, but **the bottom line is that your home has to fit you**. If you want that full report, I actually got it from [caring.com](caring.com), which I find was a really nice resource page for looking at whether this was the right time for you to downsize and is it the right place for you to move in with family?
 
 Those are some of the questions that really need to be talked about and so that you can be living in the home that you feel comfortable in and that you feel safe. If you have any more questions like this, give me a call. We are helping our seniors. I actually have my senior designation. Really just because if I'm going to get more education, I'm going to do it in such a way that serves my clients and serves them well.
 
