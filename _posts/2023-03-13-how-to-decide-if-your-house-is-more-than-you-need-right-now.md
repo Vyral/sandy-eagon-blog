@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Decide if Your House Is More Than You Need Right Now
+title: 3 Questions to Ask "Is It Time To Downsize?"
 tags:
   - Real Estate
 excerpt: Three questions to ask yourself to check if it’s time to downsize.
