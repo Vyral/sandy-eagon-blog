@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Ready To Bring a Family Member Into Your Home
+title: Getting Ready To Bring a Family Member Into Your Home?
 tags:
   - Real Estate
 excerpt: Three questions to ask yourself if you’re considering housing a loved one.
