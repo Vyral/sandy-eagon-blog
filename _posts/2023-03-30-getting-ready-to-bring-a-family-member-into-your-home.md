@@ -9,7 +9,7 @@ pullquote: We can help you through this big transition.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/3-30-23-sandy-yt.jpg
+youtube_alternate_image: /uploads/4-3-23-eagon-yt.jpg
 youtube_code: '-jzxAtxxWCU'
 ---
 {% include youtube.html %}
