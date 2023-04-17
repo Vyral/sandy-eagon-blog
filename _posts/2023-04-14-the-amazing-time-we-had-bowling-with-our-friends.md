@@ -18,7 +18,7 @@ youtube_code: yBjYi2br5Lc
 
 Hey there, it’s Sandy with Sandy and Company, and I love my job. Sometimes I spend it looking at houses and driving through the countryside, but other times I just get to go bowling. **When we spend time with our clients looking at houses and selling their houses, we become friends.** And it has been a long time since we've gotten to have our friends together face to face in a group to really spend time with them.
 
-So this year we invited them bowling. We invited them to Strawberry Lanes here in Marysville, and we got to trade in our regular shoes for those really stylish kinds, pick up bowling balls and knocking down pins, and eating a lot of Girl Scout cookies. Thank you, Bat Stone Girls, for providing those.
+So this year we invited them bowling. We invited them to Strawberry Lanes here in Marysville, and we got to trade in our regular shoes for those really stylish kinds, pick up bowling balls and knocking down pins, and eating a lot of Girl Scout cookies. Thank you, Batstone Girls, for providing those.
 
 We also got to talk about life and about the family. What's happening? What's exciting coming up? What have we gone through that's a little tougher than most? **Food and fun are some of my favorite ways to say thank you.** For our friends who couldn't make it this year, don't worry; we'll have another opportunity. In the meantime, keep spreading the word because it's friends like you that make our parties and our real estate team possible.
 
