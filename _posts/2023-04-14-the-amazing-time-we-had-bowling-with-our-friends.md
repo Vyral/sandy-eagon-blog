@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-13-23-sandy-yt.jpg
-youtube_code: yBjYi2br5Lc
+youtube_code: i-7YaCwhoXU
 ---
 {% include youtube.html %}
 
