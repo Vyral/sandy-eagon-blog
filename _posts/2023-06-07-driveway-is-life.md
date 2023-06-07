@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/2e23f361bc7d4d99c35980d2-836x628.jpg
 youtube_code:
 ---
 It’s funny how a solitary, rhythmic activity brings out the philosophic and spiritual in me. This weekend I was pressure washing the driveway and had plenty of time to think.
