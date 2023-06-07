@@ -12,8 +12,6 @@ use_youtube_image: false
 youtube_alternate_image:
 youtube_code:
 ---
-Hi Friends!&nbsp;
-
 It’s funny how a solitary, rhythmic activity brings out the philosophic and spiritual in me. This weekend I was pressure washing the driveway and had plenty of time to think.
 
 ![](/uploads/2e23f361bc7d4d99c35980d2-836x628.jpg){: width="836" height="628"}
@@ -38,6 +36,4 @@ I wish you all sufficient time, resources, and energy to focus on the important 
 
 But the person to manage the machine? You’ll have to supply that yourself.&nbsp;
 
-Be blessed!&nbsp;
-
-Sandy
+Be blessed!
