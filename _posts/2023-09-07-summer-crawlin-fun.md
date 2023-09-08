@@ -22,7 +22,13 @@ What makes you smile? If your budget or your energy are on the lower side than t
 
 Have a beautiful summer. If your summer includes needing help with your home or real estate investments, Sarah and I are still around (in between yarn crawl shops!). Call me at 425-422-7372 or email me at &nbsp;[sandy@sandyandcompany.com](mailto:sandy@sandyandcompany.com)&nbsp;today so we can best help you with your home needs.&nbsp;
 
-**Check out:**&nbsp;[King Arthur Flour Cooking School in Mount Vernon](http://kingarthurbaking.com/baking-school)[Culinary Immigration cooking classes](http://culinaryimmigration.com/)[Great Yarns](http://greatyarns.com/)[Quilting Mayhem](http://quiltingmayhem.com/)
+**Check out:**&nbsp;[King Arthur Flour Cooking School in Mount Vernon](http://kingarthurbaking.com/baking-school)&nbsp;
+
+[Culinary Immigration cooking classes](http://culinaryimmigration.com/)&nbsp;
+
+[Great Yarns](http://greatyarns.com/)&nbsp;
+
+[Quilting Mayhem](http://quiltingmayhem.com/)
 
 Open Mics -&nbsp;[Artisans Books & Coffee](https://artisans-books-coffee-100065.square.site/),&nbsp;[Looking Glass Coffee](https://www.lookingglasscoffee.com/),&nbsp;[Thumbnail Theater](https://www.thumbnailtheater.org/)&nbsp;
 
