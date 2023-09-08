@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Stewardship Decisions
-tags:
 excerpt: I can't believe summer is already winding down!
 enclosure:
 pullquote:
