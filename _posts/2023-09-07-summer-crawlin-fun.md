@@ -18,11 +18,15 @@ Each yarn shop has its own vibe. Something unique because of its owner and/or cl
 
 ![](/uploads/d3bfe1b529eb76eaf06dcff8-836x506.jpg){: width="836" height="506"}
 
-What makes you smile? If your budget or your energy are on the lower side than travelling Europe this summer, check out our beautiful NW options. We have cooking classes, knitting and sewing clubs, open mics, art classes, and more. (I put a few ideas below.) &nbsp;If you’d like to maybe run into me this summer, jump into the&nbsp;[Slow Yarn Crawl PNW](http://slowcrawl.com/). Get your passport at&nbsp;[SlowCrawl.com](http://slowcrawl.com/). You can visit one or two a day or do a blitz to knock them out quickly. No prizes for speed: it is a crawl, after all! But there are prizes and drawings along the way. Start visiting shops and collecting passport stickers; it’s great fun, you’ll meet lovely, fun yarn lovers, and you’ll have some adventures along the way. I started already at my local&nbsp;[Great Yarns](http://www.greatyarns.com/)&nbsp;and am “crawling” out from there.&nbsp;&nbsp;
+What makes you smile? If your budget or your energy are on the lower side than travelling Europe this summer, check out our beautiful NW options. We have cooking classes, knitting and sewing clubs, open mics, art classes, and more. (I put a few ideas below.) &nbsp;
+
+If you’d like to maybe run into me this summer, jump into the&nbsp;[Slow Yarn Crawl PNW](http://slowcrawl.com/). Get your passport at&nbsp;[SlowCrawl.com](http://slowcrawl.com/). You can visit one or two a day or do a blitz to knock them out quickly. No prizes for speed: it is a crawl, after all! But there are prizes and drawings along the way. Start visiting shops and collecting passport stickers; it’s great fun, you’ll meet lovely, fun yarn lovers, and you’ll have some adventures along the way. I started already at my local&nbsp;[Great Yarns](http://www.greatyarns.com/)&nbsp;and am “crawling” out from there.&nbsp;&nbsp;
 
 Have a beautiful summer. If your summer includes needing help with your home or real estate investments, Sarah and I are still around (in between yarn crawl shops!). Call me at 425-422-7372 or email me at &nbsp;[sandy@sandyandcompany.com](mailto:sandy@sandyandcompany.com)&nbsp;today so we can best help you with your home needs.&nbsp;
 
-**Check out:**&nbsp;[King Arthur Flour Cooking School in Mount Vernon](http://kingarthurbaking.com/baking-school)&nbsp;
+**Check out:**&nbsp;
+
+[King Arthur Flour Cooking School in Mount Vernon](http://kingarthurbaking.com/baking-school)&nbsp;
 
 [Culinary Immigration cooking classes](http://culinaryimmigration.com/)&nbsp;
 

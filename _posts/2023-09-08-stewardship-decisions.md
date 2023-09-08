@@ -10,7 +10,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/fdb536f752bd569b66b5a00b-340x388.jpeg
 youtube_code:
 ---
-I can't believe summer is already winding down! Not in real estate though- we've had a belated spring rush. (You can ask me about that later if you need...) As our summer winds down, my garden is ramping up. Not completely in a good way though: I was inspecting my pear trees a couple of weeks ago and was startled to see my favorite Asian pears dimply. Perplexed, I googled, "Why are my pears dimpling?" That's the first time I'd ever heard of Stony Pit Virus. It's a tree virus that gets into the root and makes the fruit misshapen and often inedible. The only solution was to remove the tree completely- and not even plant a new one in its place!
+I can't believe summer is already winding down! Not in real estate though- we've had a belated spring rush. (You can ask me about that later if you need…) As our summer winds down, my garden is ramping up. Not completely in a good way though: I was inspecting my pear trees a couple of weeks ago and was startled to see my favorite Asian pears dimply. Perplexed, I googled, "Why are my pears dimpling?" That's the first time I'd ever heard of Stony Pit Virus. It's a tree virus that gets into the root and makes the fruit misshapen and often inedible. The only solution was to remove the tree completely- and not even plant a new one in its place!
 
 ![](/uploads/fdb536f752bd569b66b5a00b-340x388.jpeg){: width="340" height="388"}
 
@@ -32,4 +32,4 @@ Some stewardships are more personal than others. Only part of our homes' value h
 
 Do you need new pear trees? I know a great nursery. Do you need a different home because it would cost you more to remodel than it would to buy already built? We can help you with that.
 
-In the meantime, I'm going to watch and wait for my pears and apples to ripen in the next few weeks. Then I'll be making pear-applesauce, apple crisp, frozen and dehydrated apple and pear slices... And more than once I will sit in the backyard, letting the pear juices dribble down my chin and thanking my Don for planting these gorgeous trees that remind me of him.
+In the meantime, I'm going to watch and wait for my pears and apples to ripen in the next few weeks. Then I'll be making pear-applesauce, apple crisp, frozen and dehydrated apple and pear slices… And more than once I will sit in the backyard, letting the pear juices dribble down my chin and thanking my Don for planting these gorgeous trees that remind me of him.
