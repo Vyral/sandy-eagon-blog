@@ -3,9 +3,7 @@ layout: post
 title: Giving Thanks For and During...
 tags:
   - Real Estate
-excerpt: >-
-  We approach this season of thanks with mixed emotions as we look around our
-  families, our colleagues, our country, and the world.
+excerpt: We approach this season of thanks with mixed emotions as we look around.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
