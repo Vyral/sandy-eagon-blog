@@ -27,8 +27,8 @@ Step number one—this is pretty much for sellers. **Make it clean, make it soli
 
 {% include pullquote.html %}
 
-Tip number two—If you want to make money in your house, **you need to show it is a peaceful, spacious house to live in.** So that means clean it out, pair it down. I will often tell people that they need to remove anywhere from a third to half to even two-thirds of their decorations so that they can show that there is a lot of space for storage and there is a lot of display area, and great space just to live in this house.
+Tip number two—If you want to make money in your house, **you need to show it is a peaceful, spacious house to live in.** So that means clean it out, pare it down. I will often tell people that they need to remove anywhere from a third to half to even two-thirds of their decorations so that they can show that there is a lot of space for storage and there is a lot of display area, and great space just to live in this house.
 
 Tip number three—this is for sellers and buyers. **Know your numbers.** This is something that I get to help you with. Do your research. Find out what a great market opportunity is for a house that you're looking for in this market, in the area that you want to live. Take a look what sellers have been getting like yours in your area so that you can decide what is a buyer going to be excited about and what is a buyer going to say. No thanks, I'm going to let that one go. Know your numbers, do your research, and then jump in. We are excited to help you both get ready and make it happen. Our motto is Making lives better. How can we help you with yours?
 
-If you clean and fix it up, you pair it down and clear it out, know your numbers, do your research, and make it happen; we're ready to help you make your money in this winter market.
+If you clean and fix it up, you pare it down and clear it out, know your numbers, do your research, and make it happen; we're ready to help you make your money in this winter market.
