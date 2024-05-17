@@ -41,7 +41,7 @@ So if you are looking to purchase, I can put you in touch with someone who is re
 
 If you are looking to relocate into Washington State, I would love to help you. Sarah and I work most of Washington State. But if it's an area that we really feel like we just can't help you, well, we will find again that person who will.
 
-If you'd like more information on these three considerations as well as others for an out-of-state move, check out our free mini guide right [here](/uploads/Moving-to-a-Different-State.pdf). We would love to talk with you about the different areas and what they're like, what they feel like, what the entertainment is, what the natural resources are, all of what comes together to make a house your home. And we're ready to help you with that.
+If you'd like more information on these three considerations as well as others for an out-of-state move, check out our free mini guide right [**here**](/uploads/Moving-to-a-Different-State.pdf). We would love to talk with you about the different areas and what they're like, what they feel like, what the entertainment is, what the natural resources are, all of what comes together to make a house your home. And we're ready to help you with that.
 
 So whether you are moving three cities away or whether you are moving coast to coast, we are here to help you advise, connect, and make this process as seamless and stress free as possible.
 
