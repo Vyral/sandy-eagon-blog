@@ -35,14 +35,14 @@ Keep in mind, if you are looking too, next big point, **think about where you wi
 
 And thirdly, like I referenced the home. Do you know exactly where you want to be? **Would you like to rent for a little while to check out the area, or are you ready to zero in and purchase right away?** Do you have a realtor to help you once you're there?
 
-I connect my clients with great realtors all over the country. Recently, I've connected realtors with clients in California, in Tennessee, and Florida, and up in Maine.
+I connect my clients with great Realtors all over the country. Recently, I've connected Realtors with clients in California, in Tennessee, and Florida, and up in Maine.
 
 So, if you are looking to purchase, I can put you in touch with someone who is ready to help you, and is great at what they do. Because if I'm going to give good service, I'm going to make sure that **wherever you get service in the other state, I'm going to make sure that you're getting great service as well.**
 
-If you are looking to relocate into Washington State, I would love to help you. Sarah and I work most of Washington State. But if it's an area that we really feel like we just can't help you, well, we will find again that person who will.
+If you are looking to relocate into Washington State, I would love to help you. Sarah and I work most of Washington State. But if it's an area that we really feel like we just can't help you well, we will find again that person who will.
 
 If you'd like more information on these three considerations, as well as others for an out-of-state move, check out our free mini guide right [**here**](/uploads/Moving-to-a-Different-State.pdf). We would love to talk with you about the different areas and what they're like, what they feel like, what the entertainment is, what the natural resources are, all of what comes together to make a house your home. And we're ready to help you with that.
 
 So whether you are moving three cities away or whether you are moving coast to coast, we are here to help you advise, connect, and make this process as seamless and stress-free as possible.
 
-Have a super day. Stay blessed, stay safe, stay healthy. And when you are ready for us to help you solve those real estate questions and puzzles, we are here for you. Our motto is making lives better. How could we help you with yours?
+Have a super day. Stay blessed, stay safe, stay healthy. And when you are ready for us to help you solve those real estate questions and puzzles, we are here for you. Our motto is "Making Lives Better", how could we help you with yours?
