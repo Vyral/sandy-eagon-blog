@@ -15,7 +15,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/receipt-2.png
 youtube_code:
 ---
-![](/uploads/screenshot-2024-07-30-at-1-37-27-am.png){: width="1875" height="1275"}
+![](/uploads/screenshot-2024-07-30-at-1-37-27.png){: width="1026" height="676"}
 
 Hi Friends!
 
