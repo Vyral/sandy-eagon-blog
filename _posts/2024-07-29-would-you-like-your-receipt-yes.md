@@ -15,7 +15,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/receipt-2.png
 youtube_code:
 ---
-![](/uploads/receipt-at.png){: width="400" height="263"}
+![](/uploads/receipt-at2.png){: width="600" height="395"}
 
 Hi Friends!
 
