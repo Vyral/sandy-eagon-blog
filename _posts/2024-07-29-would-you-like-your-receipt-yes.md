@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: About capital gains and tax deductions
 enclosure:
 pullquote:
 enclosure_type: video/mp4
