@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Im Having Humble Home Fun and It Really Is Fun
+title: I'm Having Humble Home Fun—and It Really Is Fun!
 tags:
   - Market Update
   - Real Estate
