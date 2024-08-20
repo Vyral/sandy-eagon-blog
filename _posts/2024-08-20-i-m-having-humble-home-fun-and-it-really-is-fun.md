@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt: Here’s how you can create a home that can spark joy and relaxation.
+excerpt: Heres how you can create a home that can spark joy and relaxation.
 enclosure:
 pullquote: So I really hope you have a place that fits you, that makes you smile.
 enclosure_type: video/mp4
