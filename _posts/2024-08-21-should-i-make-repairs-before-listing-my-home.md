@@ -1,6 +1,6 @@
 ---
 layout: post
-date:
+date: 2024-08-04 00:00:00
 title: Should I Make Repairs Before Listing My Home?
 tags:
   - Market Update
