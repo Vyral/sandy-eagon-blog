@@ -1,5 +1,6 @@
 ---
 layout: post
+date:
 title: Should I Make Repairs Before Listing My Home?
 tags:
   - Market Update
