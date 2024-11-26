@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-11-24 00:00:00
-title: A Special Thanksgiving Message to All of You
+title: A Unique (Surprising?) Thanksgiving Message
 tags:
   - Market Update
   - Real Estate
