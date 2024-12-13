@@ -1,6 +1,6 @@
 ---
 layout: post
-date:
+date: 2024-12-13 00:00:00
 title: Should I Sell My Home During the Holidays?
 tags:
   - Market Update
