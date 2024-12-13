@@ -18,7 +18,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/sandy-at-1.png
 youtube_code:
 ---
-![](/uploads/sandy-at-1-1.png)\{.center-image: width=”600” height=”400”\}
+![](/uploads/sandy-at-1-1.png)\{: .center-image width=”600” height=”400”\}
 
 {% include excerpt.html %}
 
