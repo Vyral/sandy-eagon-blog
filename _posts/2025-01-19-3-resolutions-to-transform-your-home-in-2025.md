@@ -22,7 +22,7 @@ youtube_code: OYTL9vG6yP8
 
 Hey there! Sandy with Sandy and Company. Happy New Year!&nbsp;
 
-What a gorgeous day in the Northwest. I recently visited Civic Playfield in Edmonds, and the snow-capped Olympics are in the distance. Kids are playing on the playground, and in the other corner, we’ve got the older skateboarders and the mature Paton players, and everybody out here is enjoying themselves.&nbsp;
+What a gorgeous day in the Northwest. I recently visited Civic Playfield in Edmonds, and the snow-capped Olympics are in the distance. Kids are playing on the playground, and in the other corner, we’ve got the older skateboarders and the mature Pétanque players, and everybody out here is enjoying themselves.&nbsp;
 
 I had a great time soaking up the sunshine and vitamin D, and it’s in part because it’s the beginning of a new year, and we’re like, “Let’s grab it right now.” Well, let’s do that for our homes, too.
 
