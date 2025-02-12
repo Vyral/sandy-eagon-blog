@@ -22,7 +22,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/home-love-story.png
 youtube_code:
 ---
-![](/uploads/home-love-story-1.png){: .img-center width="600" height="400"}
+![](/uploads/home-love-story-1.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
