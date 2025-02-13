@@ -12,10 +12,7 @@ excerpt: >-
   we helped a couple downsize, sell two homes, and land their dream home—just in
   time for Valentine’s Day!
 enclosure:
-pullquote: >-
-  Finding the perfect home together doesn’t have to wait for "someday." See how
-  we helped a couple downsize, sell two homes, and land their dream home—just in
-  time for Valentine’s Day!
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -33,8 +30,6 @@ We met and talked about their hopes. She shared a couple houses she’d been loo
 I showed them two houses much closer: one in Tulalip and the other in Everett that they hadn’t even considered, being so close to where they were now, and they loved them both. And loved the style of the Everett house with a lovely view of the Sound just a little bit more.
 
 But what to do next? **Most of their money was wrapped up in their homes, and they knew that a contingent offer would be rough when they had two houses to sell.**
-
-{% include pullquote.html %}
 
 I connected them with my lender Howard with Evergreen Mortgage. They have a program that fit my friends perfectly. Requires a small down payment, and Evergreen Mortgage buys the first house. Then we have 30 days to get the next house (or houses, in this case) on the market for sale.
 
