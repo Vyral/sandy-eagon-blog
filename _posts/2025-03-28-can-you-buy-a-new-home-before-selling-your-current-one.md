@@ -19,7 +19,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/82-1.png
 youtube_code:
 ---
-![](/uploads/82-1.png){: width="600" height="400"}
+![](/uploads/82-1.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
@@ -35,4 +35,4 @@ In an ideal world, the sale of your old home would line up perfectly with the pu
 
 While buying before selling can be convenient, it’s not always the best financial move. Carrying two mortgages at once or relying on a quick home sale can be risky. That’s why working with an experienced real estate agent is crucial—they can help you navigate the market and find the best approach for your situation.
 
-If you're considering buying a new home before selling your current one, let’s talk. We’ll walk you through your options and help you make the best decision based on your unique situation. Schedule a call today, and let’s create a strategy that works for you!
+If you’re considering buying a new home before selling your current one, let’s talk. We’ll walk you through your options and help you make the best decision based on your unique situation. Schedule a call today, and let’s create a strategy that works for you!
