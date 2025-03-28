@@ -20,7 +20,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/82.png
 youtube_code:
 ---
-![](/uploads/82-2.png){: width="600" height="400"}
+![](/uploads/82-2.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
