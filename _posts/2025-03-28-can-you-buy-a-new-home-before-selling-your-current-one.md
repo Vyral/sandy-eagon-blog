@@ -19,7 +19,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/sandy-eagon-updated.png
 youtube_code:
 ---
-![](/uploads/sandy-eagon-updated-1.png){: width="600" height="400"}
+![](/uploads/sandy-eagon-updated-1.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
@@ -29,7 +29,7 @@ In an ideal world, the sale of your old house would line up perfectly before the
 
 **2\. Bridge loans and rent-back agreements.** If you need financial flexibility, a bridge loan can cover the gap between buying and selling, allowing you to make a strong offer, non-contingent on selling another property. Bridge loans usually come with higher interest rates, but it’s a short-term payment: you’ll only keep it until your first house sells. Another strategy is a rent-back agreement, where you sell your current house but stay in it temporarily, paying rent to the new owner while you finalize your next move.
 
-[{% include pullquote.html %}](https://x.com/i/flow/login?redirect_after_login=%2Fhome%2F%3Fstatus%3DBuying%2520before%2520selling%2520works%2520with%2520planning%2C%2520smart%2520financing%2C%2520and%2520the%2520right%2520strategy.%2520http%3A%2F%2Fsandyandcompanyvideos.com%2Fcan-you-buy-a-new-home-before-selling-your-current-one.html%2520via%2540){: target="_blank" rel="noopener"}
+{% include pullquote.html %}
 
 **3\. Explore alternative solutions.** If those options don’t work, there are other creative ways to make the transition smoother. Companies like Flyhomes, Orchard, and Knock offer programs that help you buy before you sell. You could also consider renting out your current house for passive income or selling to an iBuyer for a fast, cash transaction. However, keep in mind that convenience often comes at a lower sale price.
 
