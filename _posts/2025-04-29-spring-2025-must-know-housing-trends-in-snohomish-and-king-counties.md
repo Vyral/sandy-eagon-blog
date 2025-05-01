@@ -23,7 +23,7 @@ youtube_code: '-1LkuubzLso'
 
 {% include excerpt.html %}
 
-What’s happening in the spring 2025 marke in Snohomish & King Countiest? If you’re a buyer, you may feel like the options are limited, but you have more homes for sale now than you did a year ago. So, count yourself blessed. But what does that mean for buyers, sellers, and our local real estate market? Here’s what you need to know:
+What’s happening in the spring 2025 marke in Snohomish & King Counties? If you’re a buyer, you may feel like the options are limited, but you have more homes for sale now than you did a year ago. So, count yourself blessed. But what does that mean for buyers, sellers, and our local real estate market? Here’s what you need to know:
 
 **What’s happening in Snohomish County?** We have 17% more homes available this year than last year. However, even though we have 17% more homes available now, we only have 4% more homes pending or in process, and only 2.8% more sales than we did last year.
 
