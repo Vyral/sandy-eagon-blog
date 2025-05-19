@@ -31,9 +31,9 @@ I have many clients with [**manufactured homes**](https://www.zillow.com/learn/w
 
 This brings us to an essential question: *Do you know if you have a title for your manufactured home?* If you don’t have it, you need to ask why. Is it because the title has been eliminated? This isn’t the same as having paid taxes on it for years. You may have been paying taxes to the county, which references the home on the property, but that doesn’t clarify the title situation.
 
-**Is your title eliminated?** If you own your property and the title has been eliminated, it means the title was removed because it was legally converted into real estate, like the land you live on. We need to find out if the county treats your property as real property or if there's still a deed and a title for the house.
+**Is your title eliminated?** If you own your property and the title has been eliminated, it means the title was removed because it was legally converted into real estate, like the land you live on. We need to find out if the county treats your property as real property or if there’s still a deed and a title for the house.
 
-If you haven't eliminated your title, the next question is: *Where is the title? Do you have it? If you’re unsure, get a copy.*
+If you haven’t eliminated your title, the next question is: *Where is the title? Do you have it? If you’re unsure, get a copy.*
 
 {% include pullquote.html %}
 
