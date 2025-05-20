@@ -1,7 +1,9 @@
 ---
 layout: post
 date: 2025-05-19 00:00:00
-title: 'The #1 Reason Manufactured Home Sales Fail in Washington'
+title: >-
+  Most Common Problem for Manufactured Home Sales (and the way to save you tens
+  of thousands!)
 tags:
   - Market Update
   - Real Estate
@@ -13,8 +15,8 @@ excerpt: >-
   handled (and how to avoid them).
 enclosure:
 pullquote: >-
-  Title issues can cost you thousands and block your home sale—don’t wait to
-  check yours. 
+  If your title isn’t eliminated, you likely can’t get traditional financing,
+  which can cost you tens of thousands. 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
