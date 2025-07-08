@@ -10,7 +10,7 @@ excerpt: >-
   As the summer starts to heat up, our Pacific Northwest real estate market
   cools down just a bit. After all, the sun is shining and we natives know we
   have to take full advantage before it goes away again. Fortunately for our
-  buyers, summer is a great opportunity and this year's is no different 🙌🏼
+  buyers, summer is a great opportunity and this year’s is no different 🙌🏼
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -20,8 +20,6 @@ youtube_alternate_image: /uploads/unnamed-3-1.png
 youtube_code:
 ---
 ![](/uploads/unnamed-3.png){: width="600" height="400"}
-
-{% include excerpt.html %}
 
 As the summer starts to heat up, our Pacific Northwest real estate market cools down just a bit. After all, the sun is shining and we natives know we have to take full advantage before it goes away again. Fortunately for our buyers, summer is a great opportunity and this year’s is no different 🙌🏼
 
