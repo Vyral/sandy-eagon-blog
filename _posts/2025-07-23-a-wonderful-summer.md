@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-07-23 00:00:00
-title: Top 10 Star Fox Bosses
+title: A Wonderful Summer
 tags:
   - Market Update
   - Real Estate
@@ -12,11 +12,11 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/chambersfamily-1.png
 youtube_code:
 ---
-![](/uploads/chambersfamily.png){: .center-image width="600" height="400"}
+![](/uploads/chambersfamily-2.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
