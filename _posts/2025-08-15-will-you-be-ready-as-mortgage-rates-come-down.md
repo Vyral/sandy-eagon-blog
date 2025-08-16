@@ -7,7 +7,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt: A few minutes of research now may save you heartache later.
+excerpt: ' Will you be ready as mortgage rates come down?'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
