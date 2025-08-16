@@ -16,7 +16,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/homebuy-1.png
 youtube_code:
 ---
-![](/uploads/homebuy.png){: width="600" height="400"}
+![](/uploads/homebuy.png){: .center-image width="600" height="400"}
 
 {% include excerpt.html %}
 
