@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-08-15 00:00:00
-title: Will you be ready as mortgage rates come down?
+title: Get ready for your loan or refi before rates shift
 tags:
   - Market Update
   - Real Estate
