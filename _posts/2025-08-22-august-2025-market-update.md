@@ -35,4 +35,4 @@ Our clients are incredible, and our friends are wonderful. We’re excited to sh
 
 If you need help with anything real estate-related, whether you’re looking to buy or sell, we’re here for you. Call us today at [**(425) 422-7372**](tel:4254227372){: target="_blank" rel="noopener"} or [**Sandy@SandyAndCompany.com**](mailto:Sandy@SandyAndCompany.com){: target="_blank" rel="noopener"}. We’ve been around for a long time and plan to be here for much longer. Let’s discuss how we can assist you with your home.
 
-*`Remember, our motto is: Making lives better. How can we help you with yours?`*
+*Remember, our motto is: Making lives better. How can we help you with yours?*
