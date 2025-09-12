@@ -41,6 +41,6 @@ Taking care of these fall maintenance tasks helps prevent bigger problems later 
 
 This will create opportunities for the next set of buyers to find homes that truly fit their needs. We have several clients ready for this change, eager to find something that suits their budget.
 
-If you’re thinking about buying or selling, now is a great time to talk. Whether you need help with fall maintenance resources or navigating the real estate market, we’re here for you. Contact us at [(425) 422-7372](tel:4254227372) or [Sandy@SandyAndCompany.com](mailto:Sandy@SandyAndCompany.com). Let’s get those seasonal to-dos done and chat about your real estate goals.
+If you’re thinking about buying or selling, now is a great time to talk. Whether you need help with fall maintenance resources or navigating the real estate market, we’re here for you. Contact us at [**(425) 422-7372**](tel:4254227372){: target="_blank" rel="noopener"} or [**Sandy@SandyAndCompany.com**](mailto:Sandy@SandyAndCompany.com){: target="_blank" rel="noopener"}. Let’s get those seasonal to-dos done and chat about your real estate goals.
 
 *Remember, our motto is: Making lives better. How can we help you with yours?*
