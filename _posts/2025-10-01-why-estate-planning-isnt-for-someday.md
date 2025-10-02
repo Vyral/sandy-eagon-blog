@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-10-01 00:00:00
-title: Why Estate Planning Isnt for Someday
+title: Why Estate Planning Isn't for "Someday"
 tags:
   - Real Estate
   - Buyer Tips
