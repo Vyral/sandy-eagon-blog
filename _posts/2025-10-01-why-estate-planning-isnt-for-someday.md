@@ -15,7 +15,7 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/concerned-conversation-in-waiting-room-1-1.jpg
 youtube_code:
 ---
-![](/uploads/concerned-conversation-in-waiting-room-1.jpg){: width="1536" height="1024"}
+![](/uploads/concerned-conversation-in-waiting-room-1-1-2.jpg){: width="700" height="467"}
 
 We talked with two families just this week whose parents didn’t have a will or a power of attorney. Both parents are in the hospital, and their families are scrambling to get legal authority to handle the parents’ bills, house, and other property.
 
