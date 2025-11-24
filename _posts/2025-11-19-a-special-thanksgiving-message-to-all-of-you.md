@@ -22,9 +22,9 @@ youtube_code: 6Bpq9jBc4TU
 
 Hey there, my friends!
 
-As we approach Thanksgiving this year, I started thinking about our kitchen table, and I'm coming to you from my kitchen table.
+As we approach Thanksgiving this year, I started thinking about our kitchen table, and I’m coming to you from my kitchen table.
 
-I want you to think about who will be around your table, whether it's on Thanksgiving Day or in the days before and after. Our family is known for gathering at various times.
+I want you to think about who will be around your table, whether it’s on Thanksgiving Day or in the days before and after. Our family is known for gathering at various times.
 
 Think about those people: if you weren’t at their table, or if they weren’t at yours, it would truly be felt. We are so grateful for them because these are the very relationships for which we are living our lives.
 
