@@ -20,20 +20,22 @@ youtube_code: 6Bpq9jBc4TU
 
 {% include excerpt.html %}
 
-As we approach Thanksgiving this year, I find myself sitting at my kitchen table and reflecting on the past year.
+Hey there, my friends!
 
-I want you to think about who will be around your table, whether it’s on Thanksgiving Day itself, or a day before or after. Our family’s always been a little scattered, gathering at different times, but the point isn’t the date; it’s the people.
+As we approach Thanksgiving this year, I started thinking about our kitchen table, and I'm coming to you from my kitchen table.
 
-If they weren’t there, you’d feel it. You’d miss them. And that’s why you’re grateful for them. These are the people we’re really living for.
+I want you to think about who will be around your table, whether it's on Thanksgiving Day or in the days before and after. Our family is known for gathering at various times.
 
-**Sarah and I want to say thank you for letting us care for you in your homes, whether you bought or sold a home with us this year.** Because in doing so, you’re also helping us care for the people at our own table. Our lives have become quietly, deeply intertwined in ways we never expected.
+Think about those people: if you weren’t at their table, or if they weren’t at yours, it would truly be felt. We are so grateful for them because these are the very relationships for which we are living our lives.
 
-You give us the privilege of serving you, and in return, you give us purpose, connection, and gratitude. It’s not just business. It’s a beautiful, quiet reciprocity.
+I want to express my gratitude to all of you for allowing us to care for you in your homes. Sarah and I are incredibly thankful for allowing us to take care of the people around our own tables. We are grateful that our lives have intertwined.
 
-So this Thanksgiving, whether your table is full or you’re sitting with an empty chair, I hope you pause. Take a breath. Thank the people who are there. Remember the moments you cherished this year. And hold close the love, dreams, and joy still ahead.
+We’re able to provide help, service, and benefit to you, and at the same time, you offer help, service, and benefit to us. It’s a perfect relationship, and we appreciate it deeply.
 
-Have a truly beautiful Thanksgiving. Thank you for everything you’ve brought into Sarah’s and my life this year.
+This Thanksgiving, whether surrounded by all the people you wish to have at your table or noticing an empty chair, I encourage you to take a moment to express gratitude for what you have, for what you have experienced, and to look forward to the love, dreams, and joy that awaits you.
 
-As always, if you need anything related to real estate, I’m here to help. Free to reach out at [**(425) 422-7372**](tel:4254227372){: target="_blank" rel="noopener"} or [**sandy@sandyandcompany.com**](mailto:sandy@sandyandcompany.com){: target="_blank" rel="noopener"}.
+**Have a beautiful Thanksgiving!**
 
-Wishing you a day filled with peace, warmth, and blessings.
+As always, if you need anything related to real estate, we’re here to help. Free to reach out at [**(425) 422-7372**](tel:4254227372) or [**sandy@sandyandcompany.com**](mailto:sandy@sandyandcompany.com)**.**
+
+Thank you so much for all that you have contributed to Sarah and me this year, and have a blessed day.
