@@ -16,7 +16,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/1-1.png
 youtube_code:
 ---
-![](/uploads/1-4.png){: .center-image width="700" height="497"}
+![](/uploads/ss-1.png){: .center-image width="700" height="497"}
 
 Oh, what a year it’s been!
 
