@@ -16,7 +16,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/1-1.png
 youtube_code:
 ---
-![](/uploads/1.png){: width="1748" height="1240"}
+![](/uploads/1-4.png){: .center-image width="700" height="497"}
 
 Oh, what a year it’s been!
 
@@ -40,6 +40,6 @@ Merry Christmas and the Happiest of New Years
 
 **Sandy and Sarah**
 
-![](/uploads/2.png){: width="1748" height="1240"}
+![](/uploads/2-1.png){: .center-image width="700" height="497"}
 
-![](/uploads/3.png){: width="1748" height="1240"}
+![](/uploads/3-1.png){: .center-image width="700" height="497"}
