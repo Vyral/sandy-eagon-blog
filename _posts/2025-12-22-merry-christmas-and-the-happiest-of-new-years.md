@@ -18,19 +18,19 @@ youtube_code:
 ---
 ![](/uploads/1.png){: width="1748" height="1240"}
 
-Oh, what a year it's been!
+Oh, what a year it’s been!
 
-2025 has been a wild ride with some ups and downs. Some were lovely. Others we're relieved to have behind us.
+2025 has been a wild ride with some ups and downs. Some were lovely. Others we’re relieved to have behind us.
 
-But isn't that every year? (to some degree...)
+But isn’t that every year? (to some degree...)
 
-Isn't that life?
+Isn’t that life?
 
-Thank you for being in our lives so that whether in high markets or low, high life or low, we know we have each other's backs and are glad to see each other's fronts.
+Thank you for being in our lives so that whether in high markets or low, high life or low, we know we have each other’s backs and are glad to see each other’s fronts.
 
-We're so blessed with family, clients, and colleagues who all feel like friends. Friends we trust and are grateful for in so many ways. We can't and wouldn't want to do life without you all.
+We’re so blessed with family, clients, and colleagues who all feel like friends. Friends we trust and are grateful for in so many ways. We can’t and wouldn’t want to do life without you all.
 
-We wish you all a Christmas full of love and support and the confidence that you're living a good life.
+We wish you all a Christmas full of love and support and the confidence that you’re living a good life.
 
 A rich life.
 
