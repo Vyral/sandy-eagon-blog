@@ -7,7 +7,9 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: >-
+  We wish you all a Christmas full of love and support and the confidence that
+  you’re living a good life.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
