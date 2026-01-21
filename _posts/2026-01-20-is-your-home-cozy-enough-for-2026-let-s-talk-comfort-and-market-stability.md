@@ -20,7 +20,7 @@ youtube_code: 9JrAO1qyNwY
 
 {% include excerpt.html %}
 
-I want to talk to you about what's hot when it’s not.
+I want to talk to you about what’s hot when it’s not.
 
 As we enter January 2026, it’s cold out there, but fortunately, it doesn’t have to be that way inside our homes. Here are three things that I think are amazing when the weather is cold, and we want to make things warm and inviting inside our home:
 
@@ -28,7 +28,7 @@ As we enter January 2026, it’s cold out there, but fortunately, it doesn’t h
 
 I confess, I am really fond of having a gas fireplace. It brings me cozy warmth when I’m really cold.
 
-**The second thing is my kitchen.** When we get those ovens heating up, and we're making cookies or bread or whatever else tickles our fancy, it warms the whole house. Even better, whether you’re cooking with someone or doing it in anticipation of the people you love coming home, that just makes it even better.
+**The second thing is my kitchen.** When we get those ovens heating up, and we’re making cookies or bread or whatever else tickles our fancy, it warms the whole house. Even better, whether you’re cooking with someone or doing it in anticipation of the people you love coming home, that just makes it even better.
 
 Give me some heat in the kitchen, good food, and the people I love to share it with; that is heat in my home.
 
