@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-01-20 08:00:00
-title: Is Your Home Cozy Enough for 2026? Let’s Talk Comfort and Market Stability
+title: Comfort and Market Stability in 2026?
 tags:
   - Real Estate
   - Home Seller Tips
