@@ -28,19 +28,19 @@ We have some exciting news!
 
 Howard and I are going to be running some first-time homebuyer classes, not necessarily just for first-timers, but also for anyone who needs a refresher on how home buying works.
 
-On February 18 and 19, that's Wednesday and Thursday night, we're going to be doing a 2.5-hour Zoom session, and we'll tell you all about what it takes to purchase a home.
+On February 18 and 19, that’s Wednesday and Thursday night, we’re going to be doing a 2.5-hour Zoom session, and we’ll tell you all about what it takes to purchase a home.
 
-These classes also **qualify for the Washington State Housing Finance Commission credit.** If you're planning to use a state bond loan, you will need to take this homebuyer class.
+These classes also **qualify for the Washington State Housing Finance Commission credit.** If you’re planning to use a state bond loan, you will need to take this homebuyer class.
 
-This will enable you to access a zero-down loan, allowing you to purchase anywhere in Washington State. It's a pretty nifty program.
+This will enable you to access a zero-down loan, allowing you to purchase anywhere in Washington State. It’s a pretty nifty program.
 
 Whether or not I’m your agent, and whether or not Howard is your lender, we can help you with that class, provide more information, and get you on your merry way.
 
 {% include pullquote.html %}
 
-If you’re not already under contract and want to learn more, message me, call me, or text me. Let's get you on the schedule for that.
+If you’re not already under contract and want to learn more, message me, call me, or text me. Let’s get you on the schedule for that.
 
-I want to share everything about home buying so that you know **our goal is to help everyone get into homes.** This way, you can start putting your money where your home is, not where your landlord's is.
+I want to share everything about home buying so that you know **our goal is to help everyone get into homes.** This way, you can start putting your money where your home is, not where your landlord’s is.
 
 I’m super excited to see you there. Again, here are the details for the buyer seminar:
 
