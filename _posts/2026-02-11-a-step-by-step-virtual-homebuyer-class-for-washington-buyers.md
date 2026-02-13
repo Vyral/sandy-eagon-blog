@@ -16,8 +16,8 @@ pullquote: >-
   through it.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/a-step-by-step-virtual-homebuyer-class-for-washington-buyers.jpg
 youtube_code: t80974Thll4
 ---
 {% include youtube.html %}
