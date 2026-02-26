@@ -21,15 +21,15 @@ youtube_code: zLPxRqL1hkg
 
 {% include excerpt.html %}
 
-Hey there, friends! I'd love to share a conversation I just had with a lovely couple I've been talking with on and off for probably ten years.
+Hey there, friends! I’d love to share a conversation I just had with a lovely couple I’ve been talking with on and off for probably ten years.
 
 He said his wife had been having health problems and they were discussing getting hospice involved.
 
-He wanted to know, first of all, *how to know when it's time to move out of your house.* For most people, there are two factors:
+He wanted to know, first of all, *how to know when it’s time to move out of your house.* For most people, there are two factors:
 
 **First, can you handle the upkeep of the home and yard and keep all that space functioning for you?** Do you have the physical ability to do the work, or the financial ability to hire someone to do it? Even when you hire help, it still requires energy and attention.
 
-**Second, do you have the physical ability to manage daily life in your house?** For many people, the biggest issues are too many stairs or an unsafe bathing situation. Some people simply can't get into the tub anymore and need to change their space.
+**Second, do you have the physical ability to manage daily life in your house?** For many people, the biggest issues are too many stairs or an unsafe bathing situation. Some people simply can’t get into the tub anymore and need to change their space.
 
 If you’re tired of those barriers, it’s time to consider a home that fits you better, whether a smaller, single-level place of your own, a senior community where you don’t have to worry about repairs and yard work, or, if you’re not ready for a senior community, perhaps an apartment. Those are some options.
 
@@ -39,7 +39,7 @@ I told him I can’t decide what’s right for him, but I knew he really wanted 
 
 His next question was:
 
-*How do you get the money to make this work?* ** ** How do you make your equity work for you or otherwise use your house to help meet your needs? There are a few tools. I’m not the one who assembles them, but I have a team and connections to people who can help.
+*How do you get the money to make this work?* How do you make your equity work for you or otherwise use your house to help meet your needs? There are a few tools. I’m not the one who assembles them, but I have a team and connections to people who can help.
 
 **One option is a line of credit.** It requires monthly payments, so you need to consider how to manage that.
 
