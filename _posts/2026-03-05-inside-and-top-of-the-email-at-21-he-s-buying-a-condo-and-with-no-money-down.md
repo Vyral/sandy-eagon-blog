@@ -1,9 +1,7 @@
 ---
 layout: post
 date: 2026-03-05 08:00:00
-title: >-
-  Inside and top of the email: "At 21, he's buying a condo and with no money
-  down."
+title: At 21, he's buying a condo and with no money down
 tags:
   - Real Estate
   - Home Seller Tips
