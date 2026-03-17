@@ -54,7 +54,7 @@ If this sounds like you and you’d really like to know, *“What can I do to ge
 
 It’s an evening class, and it is free.
 
-**New Homebuyers Online Class**
+##### [**New Homebuyers Online Class**](https://www.eventbrite.com/e/down-payment-assistance-for-first-time-home-buyers-2-night-event-tickets-1981964450023?aff=oddtdtcreator){: target="_blank" rel="noopener"}
 
 **When:** March 18 & 19, 2026<br><br>You can even be smarter than the young man I met. He took the class after he had already signed the papers, was under contract, and had a closing date. You can start before you get that far and learn how to:
 
