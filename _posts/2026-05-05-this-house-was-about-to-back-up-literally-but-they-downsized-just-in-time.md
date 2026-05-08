@@ -24,7 +24,7 @@ youtube_code: 48LiR9GnVM8
 
 {% include excerpt.html %}
 
-Sometimes the best real estate decisions come down to timing, and my Marysville clients are proof of that. They’d bought their home from me about 13 years ago, a one-level house just above the Cedar Crest golf course. It was the right home for them at the time, but over the last couple of years, the house began to demand more than they could comfortably give.
+Sometimes the best real estate decisions come down to timing, and my Marysville clients are proof of that. They’d bought their home from me about 13 years ago, a one-level house just above the Cedarcrest golf course. It was the right home for them at the time, but over the last couple of years, the house began to demand more than they could comfortably give.
 
 The repairs kept coming. They put on a new roof. They had to clear out the crawl space due to rats and water damage, and install a sump pump. Every time they started getting a little ahead in their savings, something else went wrong, and the money went right back into the house.
 
