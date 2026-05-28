@@ -10,9 +10,7 @@ excerpt: >-
   and landed a one-level home near Banks Lake with their buddy around the
   corner.
 enclosure:
-pullquote: >-
-  Four weeks later, they had their keys and spent the holidays without that long
-  drive over the pass.
+pullquote: Four weeks later, they got their keys.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -23,20 +21,36 @@ youtube_code: nrGhvoR-mJU
 
 {% include excerpt.html %}
 
-I wanted to tell you about one of our favorite couples that we helped at the end of last year, because their story is one of those reminders that it’s never too late to find the right home.
+Hey, my friend, this is Sandy with Sandy And Company, and I wanted to tell you about one of my favorite couples that we helped at the end of last year, and they were no spring chickens. And I can say that because I got a few years on me too. But they had waited a long time to buy their first house together.
 
-**It wasn’t his first house. He’d had one in a younger lifetime. But this was her first home.** They had been renting from a family, and it was a good situation. They were helpful to have around. But it was just time to be in their own place where they could paint their own colors and really be in a [home of their own](https://sandyandcompanyvideos.com/the-power-of-putting-down-roots-why-finding-a-home-matters.html){: target="_blank" rel="noopener"}.
+Wasn't his first house, he had had one in a younger lifetime, but this was her first house. They had been renting from family and it was good, they were helpful, but it was just time to be in their own house where they could paint their own colors and just really be in a home of their own. They were retired, actually.
 
-**Retirement changed the picture.** She was just about to retire, and he was already retired, not by choice, but because his body had quit after decades of heavy machinery mechanics, going all the way back to the 80s. He was waiting on an LNI assessment and settlement, and that process took time. About two or three years ago, their buddy had moved over to Banks Lake in Eastern Washington, and that planted the seed.
+I think she was just about to, but he was retired, not by choice, but he had been doing heavy machinery, mechanics and scully in the 80s, and his body had just quit. So he was waiting on an LNI assessment and settlement and all of that.
 
-**Banks Lake was the right fit.** It was out of the city, out of the rain, and near some phenomenal fishing. When the LNI settlement finally came through, he made the smart move. He called us and then called our lender, and they found out they could [make life work on that income](https://sandyandcompanyvideos.com/how-homeownership-stabilizes-your-finances.html){: target="_blank" rel="noopener"} in a small Eastern Washington town. He got approved, and we were off.
+And about 2 or 3 years ago, their buddy had moved over to Banks Lake in eastern Washington.
+
+And that's right about when we started talking. And it was a great place to move to, it was out of the city, it was out of the rain, and it was near some pretty phenomenal fishing.
+
+So when he finally got his settlement from Illinois, he made the smart move. He called me and then called my lender
+
+and found that they could make life work on that income. And in the small eastern Washington town. And he got approved. So we took a day and we looked at 3 or 4 houses, and I wasn't sure if any one really stood out in particular, but after they had talked, there was one that really stood out.
+
+It was a one-level home with a big kitchen and a big garage and a small view of the lake, and it was right around the corner from their buddy. So match made in heaven.
 
 {% include pullquote.html %}
 
-**One day, one home, one decision.** We took a day and looked at three or four houses. I wasn’t sure if anyone really stood out to them at first, but after they talked it through, one home rose to the top. It was a one-level home with a big kitchen, a big garage, a small view of the lake, and it was right around the corner from their buddy. Match made in heaven.
+And since then, they've spent the holidays together and all without that long drive over the past, pretty much the way retirement should be, wouldn't you think?
 
-**Four weeks later, they had their keys.** Since then, they’ve spent the holidays together without that long drive over the pass. Pretty much [the way retirement should be](https://sandyandcompanyvideos.com/are-you-ready-to-move-out-of-state-find-out-now.html){: target="_blank" rel="noopener"}, wouldn’t you think?
+If you know someone who might be a little late to the party, but they've got a nest egg or maybe a windfall, and they really want to make that count, share this video with them.
 
-If you know someone who might be a little late to the party, but they’ve got a nest egg or maybe a windfall, and they really want to make it count, share this video with them. We would love to [walk alongside them](https://sandyandcompanyvideos.com/how-we-replaced-worry-with-solutions-and-a-plan.html){: target="_blank" rel="noopener"} and help them make that smart decision that will make a big difference in their life. Whether you’re looking for help in the greater Seattle area, Eastern Washington, or [anywhere across the state](https://sandyandcompanyvideos.com/from-stuck-to-free-how-i-helped-clients-find-freedom-in-their-homes.html){: target="_blank" rel="noopener"}, we’re glad to talk.
+Let them know that we would love to walk alongside and help them make that smart decision
 
-Call or text us at [**(425) 422-7372**](tel:4254227372){: target="_blank" rel="noopener"} or email us at [**Sandy@SandyAndCompany.com**](mailto:Sandy@SandyAndCompany.com){: target="_blank" rel="noopener"}. You can also visit [**sandyandcompanyvideos.com**](https://sandyandcompanyvideos.com/){: target="_blank" rel="noopener"} for more. Have a super blessed day, and we look forward to talking with you.
+that will make a big difference in their life.
+
+If you found this video helpful, it would really help us if you would either hit that subscribe or follow button, whichever one you're looking on. And if you are looking for real estate help in the greater Seattle area, or even in eastern Washington or across the state,
+
+then we're glad to talk or meet with you to share how we can help you with your important real estate decisions.
+
+Call or text me at this number right here [**(425) 422-7372**](tel:4254227372){: target="_blank" rel="noopener"}, or direct message me below [**Sandy@SandyAndCompany.com**](mailto:Sandy@SandyAndCompany.com){: target="_blank" rel="noopener"} ** ** and we will get right back to you. **You can also visit** [**sandyandcompanyvideos.com**](http://sandyandcompanyvideos.com/){: target="_blank" rel="noopener"} **for more videos.**
+
+Have a super blessed day and I am looking forward to talking with you.
