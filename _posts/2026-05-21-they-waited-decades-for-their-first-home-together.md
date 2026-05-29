@@ -23,17 +23,15 @@ youtube_code: nrGhvoR-mJU
 
 Hey, my friend, this is Sandy with Sandy And Company, and I wanted to tell you about one of my favorite couples that we helped at the end of last year, and they were no spring chickens. And I can say that because I got a few years on me too. But they had waited a long time to buy their first house together.
 
-Wasn't his first house, he had had one in a younger lifetime, but this was her first house. They had been renting from family and it was good, they were helpful, but it was just time to be in their own house where they could paint their own colors and just really be in a home of their own. They were retired, actually.
+Wasn’t his first house, he had had one in a younger lifetime, but this was her first house. They had been renting from family and it was good. They were helpful, but it was just time to be in their own house where they could paint their own colors and just really be in a home of their own.
 
-I think she was just about to, but he was retired, not by choice, but he had been doing heavy machinery, mechanics and scully in the 80s, and his body had just quit. So he was waiting on an LNI assessment and settlement and all of that.
+They were retired. Actually, I think she was just about to, but he was retired, not by choice, but he had been doing heavy machinery, mechanics in the 80s, and his body had just quit. So he was waiting on an Land I assessment and settlement and all of that.
 
 And about 2 or 3 years ago, their buddy had moved over to Banks Lake in eastern Washington.
 
-And that's right about when we started talking. And it was a great place to move to, it was out of the city, it was out of the rain, and it was near some pretty phenomenal fishing.
+And that’s right about when we started talking. And it was a great place to move to, it was out of the city, it was out of the rain, and it was near some pretty phenomenal fishing.
 
-So when he finally got his settlement from Illinois, he made the smart move. He called me and then called my lender
-
-and found that they could make life work on that income. And in the small eastern Washington town. And he got approved. So we took a day and we looked at 3 or 4 houses, and I wasn't sure if any one really stood out in particular, but after they had talked, there was one that really stood out.
+So when he finally got his settlement from L and I, he made the smart move. He called me and then called my lender and found that they could make life work on that income. And in the small eastern Washington town. And he got approved. So we took a day and we looked at 3 or 4 houses, and I wasn't sure if any one really stood out in particular, but after they had talked, there was one that really stood out.
 
 It was a one-level home with a big kitchen and a big garage and a small view of the lake, and it was right around the corner from their buddy. So match made in heaven.
 
