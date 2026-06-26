@@ -8,7 +8,7 @@ excerpt: >-
   Over half of the listings are sitting 60+ days without an offer. These three
   fixes can change how buyers see your home the moment they walk in.
 enclosure:
-pullquote: '"Fine" doesn''t get the offer.'
+pullquote: '''Fine'' doesn''t get the offer.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
