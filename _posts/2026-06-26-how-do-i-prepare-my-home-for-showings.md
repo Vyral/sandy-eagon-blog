@@ -15,7 +15,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/how-do-i-prepare-my-home-for-showings.png
 youtube_code:
 ---
-{% include youtube.html %}
+![](/uploads/how-do-i-prepare-my-home-for-showings.png){: style="width: 100%; text-align: center;"}
 
 {% include excerpt.html %}
 
