@@ -15,7 +15,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/sandy-eagon-how-do-i-prepare-my-home-for-showings-1.png
 youtube_code:
 ---
-![](/uploads/sandy-eagon-how-do-i-prepare-my-home-for-showings-1-1.png){: width="1280" height="720"}
+![](/uploads/sandy-eagon-how-do-i-prepare-my-home-for-showings-1-1-1.png){: width="700" height="394"}
 
 {% include excerpt.html %}
 
