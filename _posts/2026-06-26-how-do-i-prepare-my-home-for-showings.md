@@ -12,10 +12,10 @@ pullquote: '''Fine'' doesn''t get the offer.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/how-do-i-prepare-my-home-for-showings.png
+youtube_alternate_image: /uploads/sandy-eagon-how-do-i-prepare-my-home-for-showings-1.png
 youtube_code:
 ---
-![](/uploads/how-do-i-prepare-my-home-for-showings.png){: style="width: 100%; text-align: center;"}
+![](/uploads/sandy-eagon-how-do-i-prepare-my-home-for-showings-1-1.png){: width="1280" height="720"}
 
 {% include excerpt.html %}
 
@@ -45,10 +45,10 @@ You don’t necessarily need to hire a professional stager. Start by removing an
 
 The sellers who get the best results treat the showing day like a system, not a scramble. That consistency is what keeps your home looking its best, from showing number one all the way through to the one that gets the offer.
 
-And one more thing: leave during the showing. Buyers can’t relax and really evaluate the home when the owner is in the room. Let your agent handle it.
+And one more thing: leave during the showing. Buyers can’t relax and really evaluate the home when the owner is in the room. Let their agent handle it and your agent will follow up to ask if they had any questions." Since listing agents don't go to the showings.
 
 **The bottom line.** In today’s market, how your home shows is the difference between getting offers and watching your listing sit. Buyers are comparing your home against everything else they’ve seen that week, and the homes that feel move-in ready, well-maintained, and easy to picture themselves in are the ones getting the strongest attention.
 
 Fix the small stuff, depersonalize, and build a routine that keeps your home consistent across every showing. Those three things alone can change the outcome.
 
-If you’re getting ready to list your home or it’s already on the market and you want to make sure it’s set up for the best possible showings, we’d love to help. Call us at [**425-422-7372**]() or email us at [**Sandy@SandyAndCompany.com**](mailto:Sandy@SandyAndCompany.com){: target="_blank" rel="noopener"}. You can also visit [**sandyandcompanyvideos.com**](https://sandyandcompanyvideos.com/){: target="_blank" rel="noopener"} for more tips and market updates.
+If you’re getting ready to list your home or it’s already on the market and you want to make sure it’s set up for the best possible showings, we’d love to help. Call us at [**425-422-7372**]() or email us at [**Sandy@SandyAndCompany.com**](mailto:Sandy@SandyAndCompany.com){: target="_blank" rel="noopener"}. You can also visit [**SandyAndCompanyVideos.com**](https://sandyandcompanyvideos.com/){: target="_blank" rel="noopener"} for more tips and market updates.
