@@ -45,7 +45,7 @@ You don’t necessarily need to hire a professional stager. Start by removing an
 
 The sellers who get the best results treat the showing day like a system, not a scramble. That consistency is what keeps your home looking its best, from showing number one all the way through to the one that gets the offer.
 
-And one more thing: leave during the showing. Buyers can’t relax and really evaluate the home when the owner is in the room. Let their agent handle it and your agent will follow up to ask if they had any questions." Since listing agents don't go to the showings.
+And one more thing: leave during the showing. Buyers can’t relax and really evaluate the home when the owner is in the room. Let their agent handle it and your agent will follow up to ask if they had any questions. Since listing agents don’t go to the showings.
 
 **The bottom line.** In today’s market, how your home shows is the difference between getting offers and watching your listing sit. Buyers are comparing your home against everything else they’ve seen that week, and the homes that feel move-in ready, well-maintained, and easy to picture themselves in are the ones getting the strongest attention.
 
