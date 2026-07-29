@@ -20,7 +20,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/sandy-eagon-how-long-will-it-take-to-sell-my-home-today-1.png
 youtube_code:
 ---
-![](/uploads/sandy-eagon-how-long-will-it-take-to-sell-my-home-today-1-1-1.png){: width="700" height="394"}
+![](/uploads/sandy-eagon-how-long-will-it-take-to-sell-my-home-today-1-1-1.png){: .center-image width="700" height="394"}
 
 {% include excerpt.html %}
 
